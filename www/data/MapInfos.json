@@ -1,0 +1,1808 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": true,
+        "name": "実験他",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 618,
+        "scrollY": 914
+    },
+    {
+        "id": 2,
+        "expanded": true,
+        "name": "教会",
+        "order": 11,
+        "parentId": 21,
+        "scrollX": 774.8571428571428,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 3,
+        "expanded": true,
+        "name": "武器道具屋",
+        "order": 8,
+        "parentId": 21,
+        "scrollX": 766.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 4,
+        "expanded": true,
+        "name": "酒場",
+        "order": 20,
+        "parentId": 21,
+        "scrollX": 915.4285714285713,
+        "scrollY": 774
+    },
+    {
+        "id": 5,
+        "expanded": false,
+        "name": "詰め所",
+        "order": 9,
+        "parentId": 21,
+        "scrollX": 862.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "ゴブリン　監禁部屋",
+        "order": 132,
+        "parentId": 22,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 7,
+        "expanded": true,
+        "name": "宿",
+        "order": 6,
+        "parentId": 21,
+        "scrollX": 876,
+        "scrollY": 686.5714285714286
+    },
+    {
+        "id": 8,
+        "expanded": false,
+        "name": "地下牢",
+        "order": 10,
+        "parentId": 5,
+        "scrollX": 918,
+        "scrollY": 492
+    },
+    {
+        "id": 9,
+        "expanded": false,
+        "name": "テンプレート",
+        "order": 197,
+        "parentId": 0,
+        "scrollX": 516,
+        "scrollY": 894.8571428571428
+    },
+    {
+        "id": 10,
+        "expanded": false,
+        "name": "冒険者ギルド",
+        "order": 12,
+        "parentId": 21,
+        "scrollX": 958.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 11,
+        "expanded": false,
+        "name": "モンスター学者宅",
+        "order": 13,
+        "parentId": 21,
+        "scrollX": 766.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 12,
+        "expanded": true,
+        "name": "メアリ宅",
+        "order": 14,
+        "parentId": 21,
+        "scrollX": 1054.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 13,
+        "expanded": true,
+        "name": "ゴブリン洞窟　１　脱出時",
+        "order": 134,
+        "parentId": 6,
+        "scrollX": 519.4285714285714,
+        "scrollY": 506.57142857142856
+    },
+    {
+        "id": 14,
+        "expanded": true,
+        "name": "温泉　脱衣所",
+        "order": 18,
+        "parentId": 21,
+        "scrollX": 622.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 15,
+        "expanded": false,
+        "name": "畜舎",
+        "order": 21,
+        "parentId": 21,
+        "scrollX": 766.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 16,
+        "expanded": false,
+        "name": "スタートマップ",
+        "order": 196,
+        "parentId": 0,
+        "scrollX": 529.7142857142857,
+        "scrollY": 545.1428571428571
+    },
+    {
+        "id": 17,
+        "expanded": true,
+        "name": "ローパーの住処　１",
+        "order": 140,
+        "parentId": 103,
+        "scrollX": 876,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 18,
+        "expanded": false,
+        "name": "地下水路　監禁部屋",
+        "order": 90,
+        "parentId": 71,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 19,
+        "expanded": false,
+        "name": "砦",
+        "order": 158,
+        "parentId": 54,
+        "scrollX": 516,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 20,
+        "expanded": true,
+        "name": "廃村への道２",
+        "order": 30,
+        "parentId": 120,
+        "scrollX": 923.9999999999999,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 21,
+        "expanded": false,
+        "name": "温泉街",
+        "order": 5,
+        "parentId": 0,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 1611.4285714285713
+    },
+    {
+        "id": 22,
+        "expanded": true,
+        "name": "ゴブリン洞窟　１",
+        "order": 130,
+        "parentId": 139,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 793.7142857142857
+    },
+    {
+        "id": 23,
+        "expanded": false,
+        "name": "カトリーヌ医院　戦闘",
+        "order": 66,
+        "parentId": 75,
+        "scrollX": 915.4285714285713,
+        "scrollY": 774
+    },
+    {
+        "id": 24,
+        "expanded": false,
+        "name": "民家３",
+        "order": 15,
+        "parentId": 21,
+        "scrollX": 622.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 25,
+        "expanded": false,
+        "name": "市警との待ち合わせ場所",
+        "order": 51,
+        "parentId": 82,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 26,
+        "expanded": false,
+        "name": "納屋",
+        "order": 16,
+        "parentId": 21,
+        "scrollX": 670.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 27,
+        "expanded": true,
+        "name": "医院",
+        "order": 17,
+        "parentId": 21,
+        "scrollX": 670.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 28,
+        "expanded": false,
+        "name": "街トイレ",
+        "order": 172,
+        "parentId": 54,
+        "scrollX": 574.2857142857142,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 29,
+        "expanded": true,
+        "name": "廃村",
+        "order": 26,
+        "parentId": 120,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 30,
+        "expanded": false,
+        "name": "監禁部屋",
+        "order": 28,
+        "parentId": 29,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 31,
+        "expanded": true,
+        "name": "温泉仕切り付き",
+        "order": 19,
+        "parentId": 14,
+        "scrollX": 732,
+        "scrollY": 590.5714285714286
+    },
+    {
+        "id": 32,
+        "expanded": false,
+        "name": "廃村の中",
+        "order": 27,
+        "parentId": 29,
+        "scrollX": 766.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 33,
+        "expanded": true,
+        "name": "ゴブリン洞窟　２　脱出時",
+        "order": 135,
+        "parentId": 6,
+        "scrollX": 822.8571428571428,
+        "scrollY": 768.8571428571428
+    },
+    {
+        "id": 34,
+        "expanded": true,
+        "name": "地下水路　ボス部屋戦闘",
+        "order": 89,
+        "parentId": 71,
+        "scrollX": 529.7142857142857,
+        "scrollY": 542.5714285714286
+    },
+    {
+        "id": 35,
+        "expanded": true,
+        "name": "地下水路 スライム敗北",
+        "order": 91,
+        "parentId": 70,
+        "scrollX": 519.4285714285714,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 36,
+        "expanded": false,
+        "name": "古本屋　イベント用外観",
+        "order": 54,
+        "parentId": 86,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 37,
+        "expanded": true,
+        "name": "東の町　イベント用",
+        "order": 113,
+        "parentId": 54,
+        "scrollX": 458.6666666666667,
+        "scrollY": 367.1111111111111
+    },
+    {
+        "id": 38,
+        "expanded": true,
+        "name": "スライム排泄イベント用",
+        "order": 122,
+        "parentId": 37,
+        "scrollX": 529.7142857142857,
+        "scrollY": 475.71428571428567
+    },
+    {
+        "id": 39,
+        "expanded": true,
+        "name": "市警エロイベント用",
+        "order": 123,
+        "parentId": 37,
+        "scrollX": 601.7142857142857,
+        "scrollY": 776.5714285714286
+    },
+    {
+        "id": 40,
+        "expanded": true,
+        "name": "スラム道具屋",
+        "order": 102,
+        "parentId": 185,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 41,
+        "expanded": true,
+        "name": "浮浪者小屋",
+        "order": 104,
+        "parentId": 185,
+        "scrollX": 718.2857142857142,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 42,
+        "expanded": true,
+        "name": "物資護衛依頼　道中",
+        "order": 119,
+        "parentId": 37,
+        "scrollX": 906.8571428571428,
+        "scrollY": 475.71428571428567
+    },
+    {
+        "id": 43,
+        "expanded": true,
+        "name": "物資護衛依頼　戦闘",
+        "order": 120,
+        "parentId": 42,
+        "scrollX": 966.8571428571428,
+        "scrollY": 742.2857142857142
+    },
+    {
+        "id": 44,
+        "expanded": false,
+        "name": "ギルド　偉い人の部屋",
+        "order": 59,
+        "parentId": 57,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 45,
+        "expanded": false,
+        "name": "オープニングエリア",
+        "order": 3,
+        "parentId": 0,
+        "scrollX": 848.5714285714286,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 46,
+        "expanded": true,
+        "name": "通り魔ジョン隠れ家",
+        "order": 84,
+        "parentId": 47,
+        "scrollX": 618,
+        "scrollY": 523
+    },
+    {
+        "id": 47,
+        "expanded": true,
+        "name": "シティーダンジョン",
+        "order": 83,
+        "parentId": 54,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 48,
+        "expanded": true,
+        "name": "盗賊砦　屋上",
+        "order": 42,
+        "parentId": 121,
+        "scrollX": 516,
+        "scrollY": 542.5714285714286
+    },
+    {
+        "id": 49,
+        "expanded": true,
+        "name": "ピッグマン洞窟前",
+        "order": 136,
+        "parentId": 103,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 50,
+        "expanded": false,
+        "name": "回想用",
+        "order": 200,
+        "parentId": 0,
+        "scrollX": 533.1428571428571,
+        "scrollY": 489.4285714285714
+    },
+    {
+        "id": 51,
+        "expanded": true,
+        "name": "エロイベント用　ギルド",
+        "order": 60,
+        "parentId": 57,
+        "scrollX": 718.2857142857142,
+        "scrollY": 590.5714285714286
+    },
+    {
+        "id": 52,
+        "expanded": true,
+        "name": "１F　娼館",
+        "order": 76,
+        "parentId": 54,
+        "scrollX": 790,
+        "scrollY": 611
+    },
+    {
+        "id": 53,
+        "expanded": true,
+        "name": "バトルチュートリアル",
+        "order": 4,
+        "parentId": 45,
+        "scrollX": 618,
+        "scrollY": 489
+    },
+    {
+        "id": 54,
+        "expanded": true,
+        "name": "東の町",
+        "order": 47,
+        "parentId": 0,
+        "scrollX": 4848,
+        "scrollY": 2100.8571428571427
+    },
+    {
+        "id": 55,
+        "expanded": true,
+        "name": "２F　娼館",
+        "order": 78,
+        "parentId": 52,
+        "scrollX": 602,
+        "scrollY": 507
+    },
+    {
+        "id": 56,
+        "expanded": false,
+        "name": "道具屋",
+        "order": 48,
+        "parentId": 54,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 57,
+        "expanded": false,
+        "name": "ギルド",
+        "order": 58,
+        "parentId": 54,
+        "scrollX": 529.7142857142857,
+        "scrollY": 585.4285714285714
+    },
+    {
+        "id": 58,
+        "expanded": false,
+        "name": "武器・防具屋",
+        "order": 49,
+        "parentId": 54,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 59,
+        "expanded": true,
+        "name": "地下２Ｆ　オークション会場",
+        "order": 163,
+        "parentId": 19,
+        "scrollX": 858.8571428571428,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 60,
+        "expanded": true,
+        "name": "孤児院",
+        "order": 71,
+        "parentId": 54,
+        "scrollX": 610.6666666666666,
+        "scrollY": 499.55555555555554
+    },
+    {
+        "id": 61,
+        "expanded": true,
+        "name": "東の町フィールドマップ",
+        "order": 125,
+        "parentId": 54,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 62,
+        "expanded": true,
+        "name": "ゲクラン家",
+        "order": 94,
+        "parentId": 47,
+        "scrollX": 516,
+        "scrollY": 585.4285714285714
+    },
+    {
+        "id": 63,
+        "expanded": true,
+        "name": "アルベール家",
+        "order": 92,
+        "parentId": 47,
+        "scrollX": 533.1428571428571,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 64,
+        "expanded": true,
+        "name": "オーク　バッドエンド",
+        "order": 151,
+        "parentId": 105,
+        "scrollX": 533.1428571428571,
+        "scrollY": 487.71428571428567
+    },
+    null,
+    {
+        "id": 66,
+        "expanded": true,
+        "name": "砦脱出４",
+        "order": 160,
+        "parentId": 19,
+        "scrollX": 529.7142857142857,
+        "scrollY": 532.2857142857142
+    },
+    {
+        "id": 67,
+        "expanded": true,
+        "name": "ローパーの住処　苗床化",
+        "order": 143,
+        "parentId": 141,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 68,
+        "expanded": true,
+        "name": "ローパーの住処　２",
+        "order": 141,
+        "parentId": 17,
+        "scrollX": 876,
+        "scrollY": 668.5714285714286
+    },
+    {
+        "id": 69,
+        "expanded": true,
+        "name": "東の町門前",
+        "order": 126,
+        "parentId": 61,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 70,
+        "expanded": true,
+        "name": "地下水路",
+        "order": 87,
+        "parentId": 47,
+        "scrollX": 1208.5714285714284,
+        "scrollY": 1044.857142857143
+    },
+    {
+        "id": 71,
+        "expanded": true,
+        "name": "地下水路　ボス部屋",
+        "order": 88,
+        "parentId": 70,
+        "scrollX": 516,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 72,
+        "expanded": false,
+        "name": "エンディング",
+        "order": 198,
+        "parentId": 0,
+        "scrollX": 529.7142857142857,
+        "scrollY": 776.5714285714286
+    },
+    {
+        "id": 73,
+        "expanded": false,
+        "name": "マチアス家",
+        "order": 93,
+        "parentId": 47,
+        "scrollX": 574.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 74,
+        "expanded": true,
+        "name": "ガヌロン娼館　ホール",
+        "order": 107,
+        "parentId": 185,
+        "scrollX": 602,
+        "scrollY": 534
+    },
+    {
+        "id": 75,
+        "expanded": false,
+        "name": "カトリーヌ医院",
+        "order": 65,
+        "parentId": 54,
+        "scrollX": 516.4444444444445,
+        "scrollY": 532.4444444444445
+    },
+    {
+        "id": 76,
+        "expanded": false,
+        "name": "東の町西　大橋",
+        "order": 127,
+        "parentId": 69,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 77,
+        "expanded": true,
+        "name": "安宿",
+        "order": 101,
+        "parentId": 185,
+        "scrollX": 656.5714285714286,
+        "scrollY": 537.4285714285714
+    },
+    {
+        "id": 78,
+        "expanded": false,
+        "name": "浴場　受付脱衣所",
+        "order": 61,
+        "parentId": 54,
+        "scrollX": 718.2857142857142,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 79,
+        "expanded": true,
+        "name": "刑務所",
+        "order": 115,
+        "parentId": 37,
+        "scrollX": 766.2222222222222,
+        "scrollY": 742.2222222222222
+    },
+    {
+        "id": 80,
+        "expanded": true,
+        "name": "スラム　取引小屋",
+        "order": 98,
+        "parentId": 185,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 81,
+        "expanded": true,
+        "name": "オークション会場",
+        "order": 164,
+        "parentId": 59,
+        "scrollX": 670.2857142857142,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 82,
+        "expanded": false,
+        "name": "警邏隊　ニコラ拠点",
+        "order": 50,
+        "parentId": 54,
+        "scrollX": 516,
+        "scrollY": 532.2857142857142
+    },
+    {
+        "id": 83,
+        "expanded": true,
+        "name": "ガヌロン応接間",
+        "order": 108,
+        "parentId": 74,
+        "scrollX": 529.7142857142857,
+        "scrollY": 531.4285714285714
+    },
+    {
+        "id": 84,
+        "expanded": false,
+        "name": "ガヌロン部屋",
+        "order": 109,
+        "parentId": 83,
+        "scrollX": 529.7142857142857,
+        "scrollY": 545.1428571428571
+    },
+    {
+        "id": 85,
+        "expanded": false,
+        "name": "子産み女部屋",
+        "order": 110,
+        "parentId": 83,
+        "scrollX": 529.7142857142857,
+        "scrollY": 545.1428571428571
+    },
+    {
+        "id": 86,
+        "expanded": false,
+        "name": "古本屋",
+        "order": 53,
+        "parentId": 54,
+        "scrollX": 529.7142857142857,
+        "scrollY": 545.1428571428571
+    },
+    {
+        "id": 87,
+        "expanded": false,
+        "name": "空マップ５",
+        "order": 112,
+        "parentId": 74,
+        "scrollX": 529.7142857142857,
+        "scrollY": 756
+    },
+    {
+        "id": 88,
+        "expanded": true,
+        "name": "改修後本屋",
+        "order": 55,
+        "parentId": 86,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 89,
+        "expanded": true,
+        "name": "１Ｆ　劇場とカジノ",
+        "order": 159,
+        "parentId": 19,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 90,
+        "expanded": true,
+        "name": "刑務所地下",
+        "order": 116,
+        "parentId": 79,
+        "scrollX": 451.55555555555554,
+        "scrollY": 400.8888888888889
+    },
+    {
+        "id": 91,
+        "expanded": true,
+        "name": "砦脱出１",
+        "order": 166,
+        "parentId": 59,
+        "scrollX": 516,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 92,
+        "expanded": false,
+        "name": "倉庫",
+        "order": 169,
+        "parentId": 59,
+        "scrollX": 529.7142857142857,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 93,
+        "expanded": true,
+        "name": "ゴブリン洞窟　２",
+        "order": 131,
+        "parentId": 22,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 94,
+        "expanded": true,
+        "name": "酒場宿屋　１F",
+        "order": 74,
+        "parentId": 54,
+        "scrollX": 704.5714285714286,
+        "scrollY": 585.4285714285714
+    },
+    {
+        "id": 95,
+        "expanded": true,
+        "name": "東の町東　山道２",
+        "order": 152,
+        "parentId": 96,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 96,
+        "expanded": true,
+        "name": "東の町東　街道",
+        "order": 144,
+        "parentId": 69,
+        "scrollX": 618,
+        "scrollY": 489
+    },
+    {
+        "id": 97,
+        "expanded": true,
+        "name": "ピッグマン洞窟",
+        "order": 137,
+        "parentId": 49,
+        "scrollX": 684,
+        "scrollY": 585.4285714285714
+    },
+    {
+        "id": 98,
+        "expanded": true,
+        "name": "オークの森　1",
+        "order": 146,
+        "parentId": 119,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 99,
+        "expanded": true,
+        "name": "オークの森　２",
+        "order": 147,
+        "parentId": 98,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 100,
+        "expanded": false,
+        "name": "砦脱出５",
+        "order": 161,
+        "parentId": 66,
+        "scrollX": 529.7142857142857,
+        "scrollY": 532.2857142857142
+    },
+    {
+        "id": 101,
+        "expanded": false,
+        "name": "砦脱出３",
+        "order": 162,
+        "parentId": 66,
+        "scrollX": 704.5714285714286,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 102,
+        "expanded": false,
+        "name": "砦脱出２",
+        "order": 168,
+        "parentId": 91,
+        "scrollX": 1260,
+        "scrollY": 537.4285714285714
+    },
+    {
+        "id": 103,
+        "expanded": true,
+        "name": "東の町南　森",
+        "order": 128,
+        "parentId": 69,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 1513.7142857142856
+    },
+    {
+        "id": 104,
+        "expanded": false,
+        "name": "酒場宿屋　２F",
+        "order": 75,
+        "parentId": 94,
+        "scrollX": 838.2857142857142,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 105,
+        "expanded": true,
+        "name": "オーク　ボス部屋",
+        "order": 149,
+        "parentId": 99,
+        "scrollX": 574.2857142857142,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 106,
+        "expanded": false,
+        "name": "通り魔ジョン隠れ家　戦闘",
+        "order": 85,
+        "parentId": 46,
+        "scrollX": 618,
+        "scrollY": 550
+    },
+    {
+        "id": 107,
+        "expanded": true,
+        "name": "オーク　監禁部屋",
+        "order": 148,
+        "parentId": 99,
+        "scrollX": 529.7142857142857,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 108,
+        "expanded": true,
+        "name": "地下室",
+        "order": 56,
+        "parentId": 86,
+        "scrollX": 529.7142857142857,
+        "scrollY": 756
+    },
+    {
+        "id": 109,
+        "expanded": true,
+        "name": "地下室 戦闘",
+        "order": 57,
+        "parentId": 108,
+        "scrollX": 618,
+        "scrollY": 603
+    },
+    {
+        "id": 110,
+        "expanded": true,
+        "name": "ガヌロン応接間　戦闘",
+        "order": 111,
+        "parentId": 83,
+        "scrollX": 670.2857142857142,
+        "scrollY": 531.4285714285714
+    },
+    {
+        "id": 111,
+        "expanded": true,
+        "name": "照明室",
+        "order": 167,
+        "parentId": 91,
+        "scrollX": 529.7142857142857,
+        "scrollY": 532.2857142857142
+    },
+    null,
+    {
+        "id": 113,
+        "expanded": false,
+        "name": "砦　バトルフィールド",
+        "order": 170,
+        "parentId": 19,
+        "scrollX": 529.7142857142857,
+        "scrollY": 743.1428571428571
+    },
+    {
+        "id": 114,
+        "expanded": true,
+        "name": "宿　２Ｆ",
+        "order": 7,
+        "parentId": 7,
+        "scrollX": 516,
+        "scrollY": 681.4285714285713
+    },
+    {
+        "id": 115,
+        "expanded": false,
+        "name": "バッドエンド",
+        "order": 171,
+        "parentId": 54,
+        "scrollX": 519.4285714285714,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 116,
+        "expanded": true,
+        "name": "バーダンイベント　小屋",
+        "order": 124,
+        "parentId": 37,
+        "scrollX": 533.1428571428571,
+        "scrollY": 487.71428571428567
+    },
+    {
+        "id": 117,
+        "expanded": true,
+        "name": "温泉街近くの森１",
+        "order": 22,
+        "parentId": 21,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    null,
+    {
+        "id": 119,
+        "expanded": true,
+        "name": "東の町　山道",
+        "order": 145,
+        "parentId": 96,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 1753.7142857142856
+    },
+    {
+        "id": 120,
+        "expanded": true,
+        "name": "廃村への道１",
+        "order": 25,
+        "parentId": 21,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 894.8571428571428
+    },
+    {
+        "id": 121,
+        "expanded": true,
+        "name": "盗賊砦",
+        "order": 36,
+        "parentId": 21,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 122,
+        "expanded": false,
+        "name": "盗賊砦１Ｆ",
+        "order": 37,
+        "parentId": 121,
+        "scrollX": 971.9999999999999,
+        "scrollY": 926.5714285714286
+    },
+    {
+        "id": 123,
+        "expanded": true,
+        "name": "ミノタウロス　帰路",
+        "order": 32,
+        "parentId": 129,
+        "scrollX": 602,
+        "scrollY": 603
+    },
+    {
+        "id": 124,
+        "expanded": true,
+        "name": "盗賊砦２Ｆ",
+        "order": 38,
+        "parentId": 121,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 1064.5714285714284
+    },
+    {
+        "id": 125,
+        "expanded": true,
+        "name": "温泉街近くの森２",
+        "order": 23,
+        "parentId": 117,
+        "scrollX": 1404,
+        "scrollY": 776.5714285714286
+    },
+    {
+        "id": 126,
+        "expanded": true,
+        "name": "盗賊アジト　牢屋",
+        "order": 39,
+        "parentId": 124,
+        "scrollX": 766.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 127,
+        "expanded": true,
+        "name": "盗賊砦脱出　ミノタウロス戦",
+        "order": 41,
+        "parentId": 121,
+        "scrollX": 516,
+        "scrollY": 938.5714285714286
+    },
+    {
+        "id": 128,
+        "expanded": false,
+        "name": "未定",
+        "order": 29,
+        "parentId": 29,
+        "scrollX": 838.2857142857142,
+        "scrollY": 825.4285714285713
+    },
+    {
+        "id": 129,
+        "expanded": false,
+        "name": "ミノタウロス　エリカ待機",
+        "order": 31,
+        "parentId": 21,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 130,
+        "expanded": false,
+        "name": "子捨ての森",
+        "order": 33,
+        "parentId": 21,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 131,
+        "expanded": false,
+        "name": "温泉街近くの森３",
+        "order": 24,
+        "parentId": 117,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 777.4285714285713
+    },
+    {
+        "id": 132,
+        "expanded": false,
+        "name": "子捨ての森　花園",
+        "order": 34,
+        "parentId": 130,
+        "scrollX": 886,
+        "scrollY": 807
+    },
+    {
+        "id": 133,
+        "expanded": true,
+        "name": "密輸人の道",
+        "order": 35,
+        "parentId": 21,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 134,
+        "expanded": true,
+        "name": "盗賊砦　屋上侵入路",
+        "order": 43,
+        "parentId": 121,
+        "scrollX": 529.7142857142857,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 135,
+        "expanded": false,
+        "name": "盗賊砦３Ｆ",
+        "order": 44,
+        "parentId": 121,
+        "scrollX": 516,
+        "scrollY": 684.8571428571428
+    },
+    {
+        "id": 136,
+        "expanded": false,
+        "name": "盗賊アジト　牢屋　戦闘",
+        "order": 40,
+        "parentId": 126,
+        "scrollX": 766.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    null,
+    {
+        "id": 138,
+        "expanded": true,
+        "name": "１F　娼館 接待自動イベント用",
+        "order": 77,
+        "parentId": 52,
+        "scrollX": 591.4285714285714,
+        "scrollY": 684
+    },
+    {
+        "id": 139,
+        "expanded": true,
+        "name": "東の町　ゴブリン洞窟前",
+        "order": 129,
+        "parentId": 103,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 140,
+        "expanded": false,
+        "name": "スラム取引小屋　地下",
+        "order": 99,
+        "parentId": 80,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 141,
+        "expanded": true,
+        "name": "ローパーの住処　監禁部屋",
+        "order": 142,
+        "parentId": 68,
+        "scrollX": 529.7142857142857,
+        "scrollY": 545.1428571428571
+    },
+    {
+        "id": 142,
+        "expanded": true,
+        "name": "盗賊砦　ドッヂ戦敗北演出用",
+        "order": 45,
+        "parentId": 121,
+        "scrollX": 529.7142857142857,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 143,
+        "expanded": true,
+        "name": "オークション会場",
+        "order": 165,
+        "parentId": 81,
+        "scrollX": 519.4285714285714,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 144,
+        "expanded": false,
+        "name": "第三部　温泉街",
+        "order": 173,
+        "parentId": 0,
+        "scrollX": 529.7142857142857,
+        "scrollY": 756
+    },
+    {
+        "id": 145,
+        "expanded": true,
+        "name": "第三部　宿",
+        "order": 174,
+        "parentId": 144,
+        "scrollX": 790,
+        "scrollY": 711
+    },
+    {
+        "id": 146,
+        "expanded": true,
+        "name": "盗賊砦 ドッヂ戦",
+        "order": 46,
+        "parentId": 121,
+        "scrollX": 516,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 147,
+        "expanded": false,
+        "name": "スラム取引小屋　地下戦闘",
+        "order": 100,
+        "parentId": 80,
+        "scrollX": 519.4285714285714,
+        "scrollY": 506.57142857142856
+    },
+    {
+        "id": 148,
+        "expanded": false,
+        "name": "教会",
+        "order": 70,
+        "parentId": 54,
+        "scrollX": 915.4285714285713,
+        "scrollY": 774
+    },
+    {
+        "id": 149,
+        "expanded": false,
+        "name": "市警拠点",
+        "order": 67,
+        "parentId": 54,
+        "scrollX": 601.7777777777778,
+        "scrollY": 519.1111111111111
+    },
+    {
+        "id": 150,
+        "expanded": false,
+        "name": "第三部　オープニング",
+        "order": 189,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 151,
+        "expanded": true,
+        "name": "第三部　宿　２Ｆ",
+        "order": 175,
+        "parentId": 145,
+        "scrollX": 886,
+        "scrollY": 711
+    },
+    {
+        "id": 152,
+        "expanded": false,
+        "name": "洋館 1F",
+        "order": 72,
+        "parentId": 54,
+        "scrollX": 519.1111111111111,
+        "scrollY": 531.5555555555555
+    },
+    {
+        "id": 153,
+        "expanded": true,
+        "name": "洋館 2F",
+        "order": 73,
+        "parentId": 152,
+        "scrollX": 864,
+        "scrollY": 774
+    },
+    {
+        "id": 154,
+        "expanded": true,
+        "name": "市警　牢",
+        "order": 68,
+        "parentId": 149,
+        "scrollX": 533.1428571428571,
+        "scrollY": 475.71428571428567
+    },
+    {
+        "id": 155,
+        "expanded": true,
+        "name": "第三部　武器道具屋",
+        "order": 177,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 156,
+        "expanded": false,
+        "name": "第三部　詰め所",
+        "order": 178,
+        "parentId": 144,
+        "scrollX": 756,
+        "scrollY": 765
+    },
+    {
+        "id": 157,
+        "expanded": false,
+        "name": "第三部　地下牢",
+        "order": 179,
+        "parentId": 156,
+        "scrollX": 900.8571428571428,
+        "scrollY": 499.71428571428567
+    },
+    {
+        "id": 158,
+        "expanded": false,
+        "name": "第三部　教会 裁判",
+        "order": 191,
+        "parentId": 169,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 159,
+        "expanded": false,
+        "name": "第三部　モンスター学者宅",
+        "order": 180,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 160,
+        "expanded": true,
+        "name": "第三部　メアリ宅",
+        "order": 181,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 161,
+        "expanded": false,
+        "name": "第三部　セレナ仮家",
+        "order": 182,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 162,
+        "expanded": false,
+        "name": "第三部　納屋",
+        "order": 195,
+        "parentId": 144,
+        "scrollX": 635.1428571428571,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 163,
+        "expanded": true,
+        "name": "第三部　医院",
+        "order": 183,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 164,
+        "expanded": false,
+        "name": "第三部　トイレ",
+        "order": 184,
+        "parentId": 144,
+        "scrollX": 618,
+        "scrollY": 781
+    },
+    {
+        "id": 165,
+        "expanded": true,
+        "name": "第三部　温泉　脱衣所",
+        "order": 185,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 166,
+        "expanded": true,
+        "name": "第三部　温泉仕切り付き",
+        "order": 186,
+        "parentId": 165,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 167,
+        "expanded": true,
+        "name": "第三部　酒場",
+        "order": 187,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 168,
+        "expanded": false,
+        "name": "第三部　畜舎",
+        "order": 188,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 169,
+        "expanded": true,
+        "name": "第三部　教会",
+        "order": 190,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 170,
+        "expanded": true,
+        "name": "第三部　宿屋主人部屋",
+        "order": 176,
+        "parentId": 145,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 171,
+        "expanded": true,
+        "name": "第三部　森の奥へ",
+        "order": 192,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 172,
+        "expanded": false,
+        "name": "第三部　子捨ての森　花園",
+        "order": 193,
+        "parentId": 171,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 173,
+        "expanded": false,
+        "name": "第三部　冒険者ギルド",
+        "order": 194,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 174,
+        "expanded": false,
+        "name": "製作用テンプレマップ",
+        "order": 2,
+        "parentId": 1,
+        "scrollX": 529.7142857142857,
+        "scrollY": 599.1428571428571
+    },
+    {
+        "id": 175,
+        "expanded": false,
+        "name": "デムーラン　戦闘マップ",
+        "order": 52,
+        "parentId": 82,
+        "scrollX": 618,
+        "scrollY": 505
+    },
+    {
+        "id": 176,
+        "expanded": true,
+        "name": "東の町東　山道３",
+        "order": 153,
+        "parentId": 95,
+        "scrollX": 1393.7142857142856,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 177,
+        "expanded": false,
+        "name": "東の町　ワーグ監禁",
+        "order": 154,
+        "parentId": 176,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 178,
+        "expanded": true,
+        "name": "東の町　スタリオン戦場",
+        "order": 155,
+        "parentId": 176,
+        "scrollX": 536.5714285714286,
+        "scrollY": 676.2857142857142
+    },
+    {
+        "id": 179,
+        "expanded": false,
+        "name": "個室",
+        "order": 80,
+        "parentId": 52,
+        "scrollX": 915.4285714285713,
+        "scrollY": 774
+    },
+    {
+        "id": 180,
+        "expanded": true,
+        "name": "ボス部屋　ピッグマン",
+        "order": 139,
+        "parentId": 97,
+        "scrollX": 519.4285714285714,
+        "scrollY": 475.71428571428567
+    },
+    {
+        "id": 181,
+        "expanded": true,
+        "name": "浴場内",
+        "order": 62,
+        "parentId": 78,
+        "scrollX": 1404,
+        "scrollY": 585.4285714285714
+    },
+    {
+        "id": 182,
+        "expanded": true,
+        "name": "浴場内　イベント用",
+        "order": 63,
+        "parentId": 181,
+        "scrollX": 519.4285714285714,
+        "scrollY": 487.71428571428567
+    },
+    {
+        "id": 183,
+        "expanded": true,
+        "name": "浴場内　戦闘",
+        "order": 64,
+        "parentId": 182,
+        "scrollX": 533.1428571428571,
+        "scrollY": 475.71428571428567
+    },
+    {
+        "id": 184,
+        "expanded": true,
+        "name": "２F　娼館 売春イベント用",
+        "order": 79,
+        "parentId": 55,
+        "scrollX": 516,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 185,
+        "expanded": true,
+        "name": "スラム",
+        "order": 95,
+        "parentId": 54,
+        "scrollX": 529.7142857142857,
+        "scrollY": 532.2857142857142
+    },
+    {
+        "id": 186,
+        "expanded": true,
+        "name": "市警拠点　戦闘",
+        "order": 69,
+        "parentId": 149,
+        "scrollX": 602,
+        "scrollY": 505
+    },
+    {
+        "id": 187,
+        "expanded": false,
+        "name": "調教部屋",
+        "order": 103,
+        "parentId": 40,
+        "scrollX": 516,
+        "scrollY": 528.8571428571428
+    },
+    {
+        "id": 188,
+        "expanded": false,
+        "name": "スラム街 イベント",
+        "order": 97,
+        "parentId": 189,
+        "scrollX": 533.1428571428571,
+        "scrollY": 501.4285714285714
+    },
+    {
+        "id": 189,
+        "expanded": true,
+        "name": "スラム街 戦闘",
+        "order": 96,
+        "parentId": 185,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 190,
+        "expanded": false,
+        "name": "ピッグマン苗床部屋",
+        "order": 138,
+        "parentId": 97,
+        "scrollX": 529.7142857142857,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 191,
+        "expanded": true,
+        "name": "磔輪姦　マップ",
+        "order": 114,
+        "parentId": 37,
+        "scrollX": 519.4285714285714,
+        "scrollY": 475.71428571428567
+    },
+    {
+        "id": 192,
+        "expanded": true,
+        "name": "ごろつきアジト",
+        "order": 105,
+        "parentId": 185,
+        "scrollX": 718.2857142857142,
+        "scrollY": 668.5714285714286
+    },
+    {
+        "id": 193,
+        "expanded": false,
+        "name": "ごろつきアジト　監禁部屋",
+        "order": 106,
+        "parentId": 192,
+        "scrollX": 529.7142857142857,
+        "scrollY": 440.57142857142856
+    },
+    {
+        "id": 194,
+        "expanded": true,
+        "name": "東の町東　山道２　敗北イベント用",
+        "order": 157,
+        "parentId": 95,
+        "scrollX": 1520.5714285714284,
+        "scrollY": 742.2857142857142
+    },
+    {
+        "id": 195,
+        "expanded": false,
+        "name": "刑務所雑居房",
+        "order": 117,
+        "parentId": 79,
+        "scrollX": 451.55555555555554,
+        "scrollY": 360
+    },
+    {
+        "id": 196,
+        "expanded": false,
+        "name": "刑務所　外",
+        "order": 118,
+        "parentId": 79,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 197,
+        "expanded": false,
+        "name": "ゴブリン　監禁部屋 戦闘イベント",
+        "order": 133,
+        "parentId": 6,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 198,
+        "expanded": true,
+        "name": "東の町　山道 敗北イベント用",
+        "order": 150,
+        "parentId": 105,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 199,
+        "expanded": false,
+        "name": "東の町　スタリオン戦場 イベント用",
+        "order": 156,
+        "parentId": 178,
+        "scrollX": 519.4285714285714,
+        "scrollY": 518.5714285714286
+    },
+    null,
+    {
+        "id": 201,
+        "expanded": true,
+        "name": "１F　事件後娼館",
+        "order": 81,
+        "parentId": 52,
+        "scrollX": 862.2857142857142,
+        "scrollY": 664.2857142857142
+    },
+    {
+        "id": 202,
+        "expanded": true,
+        "name": "２F　事件後娼館",
+        "order": 82,
+        "parentId": 201,
+        "scrollX": 728.5714285714286,
+        "scrollY": 664.2857142857142
+    },
+    {
+        "id": 203,
+        "expanded": false,
+        "name": "異教徒バッドエンド",
+        "order": 121,
+        "parentId": 42,
+        "scrollX": 533.1428571428571,
+        "scrollY": 489.4285714285714
+    },
+    {
+        "id": 204,
+        "expanded": false,
+        "name": "通り魔ジョン隠れ家　家前",
+        "order": 86,
+        "parentId": 46,
+        "scrollX": 618,
+        "scrollY": 505
+    },
+    {
+        "id": 205,
+        "expanded": true,
+        "name": "スタッフロール",
+        "order": 199,
+        "parentId": 0,
+        "scrollX": 533.1428571428571,
+        "scrollY": 489.4285714285714
+    }
+]

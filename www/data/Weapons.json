@@ -1,0 +1,317 @@
+[
+    null,
+    {
+        "id": 1,
+        "animationId": 2,
+        "description": "セレナが愛用していた魔法の指輪。\n現在では宝石が壊れ、その能力のほとんどを消失している。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "壊れかけの指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            5,
+            0,
+            5,
+            0,
+            0,
+            0
+        ],
+        "price": 500,
+        "wtypeId": 13
+    },
+    {
+        "id": 2,
+        "animationId": 0,
+        "description": "駆け出しの魔法使いが魔力を高めるために使用する指輪。\n気休め程度の品だが才能ある者が使えば立派な魔法の武器となる。",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 145,
+        "name": "低品質の指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            10,
+            0,
+            0,
+            0
+        ],
+        "price": 1,
+        "wtypeId": 13
+    },
+    {
+        "id": 3,
+        "animationId": 0,
+        "description": "古めかしく質素だが、一人の魔術師が生涯にわたって愛用\nし続けた、確かな性能を秘めた魔法の指輪。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "形見の指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            20,
+            0,
+            20,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 13
+    },
+    {
+        "id": 4,
+        "animationId": 0,
+        "description": "薄汚れた安っぽい指輪だが秘めた性能は一級品。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "シシリアの指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 5,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "iconIndex": 145,
+        "name": "徴の指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            -500,
+            0,
+            -500,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 13
+    },
+    {
+        "id": 6,
+        "animationId": 0,
+        "description": "値段のつかない古びた指輪。\n魔法の指輪としてはそこそこ高い性能を秘めている。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "バーダンの指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            25,
+            0,
+            25,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 13
+    },
+    {
+        "id": 7,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 8,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 9,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 10,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    }
+]
