@@ -1531,8 +1531,8 @@ Window_Help.prototype.constructor = Window_Help;
 
 Window_Help.prototype.initialize = function (numLines) {
   var width = Graphics.boxWidth;
-  var height = this.fittingHeight(numLines || 2);
-  Window_Base.prototype.initialize.call(this, 0, 0, width, height);
+  var height = this.fittingHeight(numLines || 3);
+  Window_Base.prototype.initialize.call(this, 0, 0, width, height-15);
   this._text = "";
 };
 

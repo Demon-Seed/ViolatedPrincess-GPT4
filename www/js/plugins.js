@@ -217,7 +217,7 @@ var $plugins = [
       "Chinese Font": "SimHei, Heiti TC, sans-serif",
       "Korean Font": "Dotum, AppleGothic, sans-serif",
       "Default Font": "GameFont, Verdana, Arial, Courier New",
-      "Font Size": "28",
+      "Font Size": "24",
       "Text Align": "left",
       "---Windows---": "",
       "Digit Grouping": "true",
