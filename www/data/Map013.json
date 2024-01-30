@@ -9807,7 +9807,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Help! Someone, please help!!\\n<Marilou>"
+                                "Help! Someone, please help!!\\n< Marilou >"
                             ]
                         },
                         {
@@ -9907,7 +9907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Help me...\\n<Marilou>"
+                                "Help me...\\n< Marilou >"
                             ]
                         },
                         {
@@ -10096,7 +10096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*panting*... There's the exit!\\n<Serena>"
+                                "*panting*... There's the exit!\\n< Serena >"
                             ]
                         },
                         {
@@ -10353,7 +10353,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...the baby.\\n<Serena>"
+                                "...the baby.\\n< Serena >"
                             ]
                         },
                         {
@@ -10410,7 +10410,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "...why. Even though it's a goblin's baby... why...\ndo I...\\n<Serena>"
+                                "...why. Even though it's a goblin's baby... why...\ndo I...\\n< Serena >"
                             ]
                         },
                         {
@@ -10496,7 +10496,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I won't go back!\\n<Serena>"
+                                "I won't go back!\\n< Serena >"
                             ]
                         },
                         {
@@ -10585,7 +10585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I won't go back!\\n<Serena>"
+                                "I won't go back!\\n< Serena >"
                             ]
                         },
                         {

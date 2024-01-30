@@ -2349,7 +2349,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Huh? Another brat with a swollen belly has shown\nup, I see.\\n<Punk>"
+                                "Huh? Another brat with a swollen belly has shown\nup, I see.\\n< Punk >"
                             ]
                         },
                         {
@@ -2376,7 +2376,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh, who's this... Oh, it's just a kid. Did you get\nlost or something... Heh heh.\\n<Punk>"
+                                "Oh, who's this... Oh, it's just a kid. Did you get\nlost or something... Heh heh.\\n< Punk >"
                             ]
                         },
                         {
@@ -2417,7 +2417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm an adventurer. Are you the infamous John I've\nheard about?\\n<Serena>"
+                                "I'm an adventurer. Are you the infamous John I've\nheard about?\\n< Serena >"
                             ]
                         },
                         {
@@ -2441,7 +2441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehehe, an adventurer, huh? Did you come from the\nguild?\\n<Punk>"
+                                "Hehehe, an adventurer, huh? Did you come from the\nguild?\\n< Punk >"
                             ]
                         },
                         {
@@ -2469,7 +2469,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The name's John... but if a kid with a belly like\nthat is an assassin, they must not think much of\nme.\\n<Thug John>"
+                                "The name's John... but if a kid with a belly like\nthat is an assassin, they must not think much of\nme.\\n< Thug John >"
                             ]
                         },
                         {
@@ -2496,7 +2496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The name's John... but if a runt like you is an\nassassin, they must not think much of me.\\n<Thug John>"
+                                "The name's John... but if a runt like you is an\nassassin, they must not think much of me.\\n< Thug John >"
                             ]
                         },
                         {
@@ -2530,7 +2530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, indeed it was cheap. The guild only put a\nbounty of 200 S on your head. That's just two\nmilkings' worth.\\n<Serena>"
+                                "Ah, indeed it was cheap. The guild only put a\nbounty of 200 S on your head. That's just two\nmilkings' worth.\\n< Serena >"
                             ]
                         },
                         {
@@ -2851,7 +2851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ha! Then why don't you try to beat me down! I'll\nhave to teach those guys that they've put the\nwrong price tag on me!\\n<Thug John>"
+                                "Ha! Then why don't you try to beat me down! I'll\nhave to teach those guys that they've put the\nwrong price tag on me!\\n< Thug John >"
                             ]
                         },
                         {
@@ -2889,7 +2889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That would be troublesome. After all, it's a job\nwhere I can earn 200 S with just 100 S worth of\neffort. I'll have to firmly prevent any price\ncorrections.\\n<Serena>"
+                                "That would be troublesome. After all, it's a job\nwhere I can earn 200 S with just 100 S worth of\neffort. I'll have to firmly prevent any price\ncorrections.\\n< Serena >"
                             ]
                         },
                         {
@@ -3545,7 +3545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmph, how trivial...\\n<Serena>"
+                                "Hmph, how trivial...\\n< Serena >"
                             ]
                         },
                         {
@@ -3586,7 +3586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now then, let's go report back to the guild.\\n<Serena>"
+                                "Now then, let's go report back to the guild.\\n< Serena >"
                             ]
                         },
                         {

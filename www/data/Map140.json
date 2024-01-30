@@ -2969,7 +2969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(There are eight men, three of whom seem to be\ncustomers?)\\n<Serena>"
+                                "(There are eight men, three of whom seem to be\ncustomers?)\\n< Serena >"
                             ]
                         },
                         {
@@ -2986,7 +2986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(There's a path in the back... Probably an\nemergency escape route. I must block it before\ncalling in Lord Nicola.)\\n<Serena>"
+                                "(There's a path in the back... Probably an\nemergency escape route. I must block it before\ncalling in Lord Nicola.)\\n< Serena >"
                             ]
                         },
                         {
@@ -3010,7 +3010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, you brat.\\n<Man>"
+                                "Hey, you brat.\\n< Man >"
                             ]
                         },
                         {
@@ -3100,7 +3100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Serena>..."
+                                "\\n< Serena >..."
                             ]
                         },
                         {
@@ -3125,7 +3125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>You're here to buy, aren't you?"
+                                "\\n< Man >You're here to buy, aren't you?"
                             ]
                         },
                         {
@@ -3150,7 +3150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Serena>Yes. I'll take one bag."
+                                "\\n< Serena >Yes. I'll take one bag."
                             ]
                         },
                         {
@@ -3175,7 +3175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>Who told you about this place?"
+                                "\\n< Man >Who told you about this place?"
                             ]
                         },
                         {
@@ -3200,7 +3200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Serena>(Damn, did I do something suspicious...?)"
+                                "\\n< Serena >(Damn, did I do something suspicious...?)"
                             ]
                         },
                         {
@@ -3224,7 +3224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "One bag isn't enough. Four bags for a man. Three\nfor a woman. Two for a kid. Didn't they tell you?\\n<Man>"
+                                "One bag isn't enough. Four bags for a man. Three\nfor a woman. Two for a kid. Didn't they tell you?\\n< Man >"
                             ]
                         },
                         {
@@ -3241,7 +3241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You mix a spoonful with each meal. That way, it\ncan't be distinguished from a simple illness.\\n<Man>"
+                                "You mix a spoonful with each meal. That way, it\ncan't be distinguished from a simple illness.\\n< Man >"
                             ]
                         },
                         {
@@ -3258,7 +3258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is it your old man you want to kill? Make sure you\ndon't leave any traces.\\n<Man>"
+                                "Is it your old man you want to kill? Make sure you\ndon't leave any traces.\\n< Man >"
                             ]
                         },
                         {
@@ -3282,7 +3282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Serena>..."
+                                "\\n< Serena >..."
                             ]
                         },
                         {
@@ -3306,7 +3306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Serena>Ah, I'll take four bags then."
+                                "\\n< Serena >Ah, I'll take four bags then."
                             ]
                         },
                         {
@@ -3330,7 +3330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>500S each. That'll be 2000S total."
+                                "\\n< Man >500S each. That'll be 2000S total."
                             ]
                         },
                         {
@@ -3359,7 +3359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>...Right. Here you go."
+                                "\\n< Man >...Right. Here you go."
                             ]
                         },
                         {
@@ -3388,7 +3388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey... that kind of money isn't something a kid\ncan get from allowances or pocket money.\\n<Man>"
+                                "Hey... that kind of money isn't something a kid\ncan get from allowances or pocket money.\\n< Man >"
                             ]
                         },
                         {
@@ -3405,7 +3405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "2000S, how did you earn it...? No need to say, I\nget it, you're selling yourself, right?\\n<Man>"
+                                "2000S, how did you earn it...? No need to say, I\nget it, you're selling yourself, right?\\n< Man >"
                             ]
                         },
                         {
@@ -3422,7 +3422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "With a face like yours, I can see why you'd earn\ngood money. A bit on the small side, but that's\nalso quite appetizing...\\n<Man>"
+                                "With a face like yours, I can see why you'd earn\ngood money. A bit on the small side, but that's\nalso quite appetizing...\\n< Man >"
                             ]
                         },
                         {
@@ -3439,7 +3439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, where do you sell yourself? If you want, I\ncould come buy today...\\n<Man>"
+                                "Hey, where do you sell yourself? If you want, I\ncould come buy today...\\n< Man >"
                             ]
                         },
                         {
@@ -3470,7 +3470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah. This money was entrusted to me by a\nphilanthropist from the city.\\n<Serena>"
+                                "Ah. This money was entrusted to me by a\nphilanthropist from the city.\\n< Serena >"
                             ]
                         },
                         {
@@ -3508,7 +3508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's payment for cleaning up trash, so I hear!\\n<Serena>"
+                                "It's payment for cleaning up trash, so I hear!\\n< Serena >"
                             ]
                         },
                         {
@@ -3801,7 +3801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>Gahhhhh---!!!"
+                                "\\n< Man >Gahhhhh---!!!"
                             ]
                         },
                         {
@@ -4098,7 +4098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Male Customer>Eeek!?"
+                                "\\n< Male Customer >Eeek!?"
                             ]
                         },
                         {
@@ -4178,7 +4178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>Huh?!?"
+                                "\\n< Man >Huh?!?"
                             ]
                         },
                         {
@@ -4196,7 +4196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>What's with this kid?!?"
+                                "\\n< Man >What's with this kid?!?"
                             ]
                         },
                         {
@@ -4793,7 +4793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Scoundrels. The time has come for you to pay for\nyour vile and ruthless deeds.\\n<Serena>"
+                                "Scoundrels. The time has come for you to pay for\nyour vile and ruthless deeds.\\n< Serena >"
                             ]
                         },
                         {
@@ -4817,7 +4817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Will you speak with your sword, or grovel and beg\nfor forgiveness? There are two choices, but only\none outcome.\\n<Serena>"
+                                "Will you speak with your sword, or grovel and beg\nfor forgiveness? There are two choices, but only\none outcome.\\n< Serena >"
                             ]
                         },
                         {
@@ -4841,7 +4841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So either way, you're saying you'll beat us down?!\nFine by me! Bring it on!\\n<Man>"
+                                "So either way, you're saying you'll beat us down?!\nFine by me! Bring it on!\\n< Man >"
                             ]
                         },
                         {
@@ -6008,7 +6008,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mmmuuuuh!! Guuuuh!!!\\n<Serena>"
+                                "Mmmuuuuh!! Guuuuh!!!\\n< Serena >"
                             ]
                         },
                         {
@@ -6300,7 +6300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh? What's wrong? You want it back?\\n<Man>"
+                                "Oh? What's wrong? You want it back?\\n< Man >"
                             ]
                         },
                         {
@@ -6317,7 +6317,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well then? You gotta beg for it, don'tcha?\\n<Man>"
+                                "Well then? You gotta beg for it, don'tcha?\\n< Man >"
                             ]
                         },
                         {
@@ -6334,7 +6334,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Say \"I'm sorry for interfering with your business,\nI'm sorry for attacking you.\" Come on, say it?\\n<Man>"
+                                "Say \"I'm sorry for interfering with your business,\nI'm sorry for attacking you.\" Come on, say it?\\n< Man >"
                             ]
                         },
                         {
@@ -6391,7 +6391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mmmnnngh!\\n<Serena>"
+                                "Mmmnnngh!\\n< Serena >"
                             ]
                         },
                         {
@@ -6408,7 +6408,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mmmngh mng mng! Ngngh ngngh!\\n<Serena>"
+                                "Mmmngh mng mng! Ngngh ngngh!\\n< Serena >"
                             ]
                         },
                         {
@@ -6432,7 +6432,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hey buddy, does this look like an apology to you?\\n<Man>"
+                                "Hey buddy, does this look like an apology to you?\\n< Man >"
                             ]
                         },
                         {
@@ -6449,7 +6449,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I mean, normally when you apologize, you're\nsupposed to be a bit more humble.\\n<Man>"
+                                "I mean, normally when you apologize, you're\nsupposed to be a bit more humble.\\n< Man >"
                             ]
                         },
                         {
@@ -6466,7 +6466,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Right. So I guess I can't give \"this\" back to you\nafter all.\\n<Man>"
+                                "Right. So I guess I can't give \"this\" back to you\nafter all.\\n< Man >"
                             ]
                         },
                         {
@@ -6546,7 +6546,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mmm---!!!!\\n<Serena>"
+                                "Mmm---!!!!\\n< Serena >"
                             ]
                         },
                         {
@@ -6570,7 +6570,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heh heh, you're trying to keep it tight. Not even\na single fold is sticking out.\\n<Man>"
+                                "Heh heh, you're trying to keep it tight. Not even\na single fold is sticking out.\\n< Man >"
                             ]
                         },
                         {
@@ -6587,7 +6587,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Normally, brats like you wouldn't be called upon,\nbut given the situation...\\n<Man>"
+                                "Normally, brats like you wouldn't be called upon,\nbut given the situation...\\n< Man >"
                             ]
                         },
                         {
@@ -6604,7 +6604,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Gotta settle things properly. And teach you some\nmanners too.\\n<Man>"
+                                "Gotta settle things properly. And teach you some\nmanners too.\\n< Man >"
                             ]
                         },
                         {
@@ -6730,7 +6730,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mnhh!?\\n<Serena>"
+                                "Mnhh!?\\n< Serena >"
                             ]
                         },
                         {
@@ -6754,7 +6754,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Huh, so this is what a kid's pussy looks like.\\n<Man>"
+                                "Huh, so this is what a kid's pussy looks like.\\n< Man >"
                             ]
                         },
                         {
@@ -6778,7 +6778,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mogo guagu mogo! Omogogo!!!\\n<Serena>"
+                                "Mogo guagu mogo! Omogogo!!!\\n< Serena >"
                             ]
                         },
                         {
@@ -6802,7 +6802,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hey hey, you're thrashing about too much. Don't\ntouch me, okay?\\n<Man>"
+                                "Hey hey, you're thrashing about too much. Don't\ntouch me, okay?\\n< Man >"
                             ]
                         },
                         {
@@ -6819,7 +6819,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hah hah. You think you're a real woman now, huh?\\n<Man>"
+                                "Hah hah. You think you're a real woman now, huh?\\n< Man >"
                             ]
                         },
                         {
@@ -6927,7 +6927,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nmmh!?!\\n<Serena>"
+                                "Nmmh!?!\\n< Serena >"
                             ]
                         },
                         {
@@ -6998,7 +6998,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This slit has only been used for peeing, hasn't\nit?\\n<Man>"
+                                "This slit has only been used for peeing, hasn't\nit?\\n< Man >"
                             ]
                         },
                         {
@@ -7040,7 +7040,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You probably don't even know why you have this\nthing here, you dumb kid.\\n<Man>"
+                                "You probably don't even know why you have this\nthing here, you dumb kid.\\n< Man >"
                             ]
                         },
                         {
@@ -7111,7 +7111,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Getting in the way of adult business, eh?\\n<Man>"
+                                "Getting in the way of adult business, eh?\\n< Man >"
                             ]
                         },
                         {
@@ -7182,7 +7182,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "What is it, a sense of justice? Huh? Wanted to\nplay the knight in the story and defeat the bad\nguy?\\n<Man>"
+                                "What is it, a sense of justice? Huh? Wanted to\nplay the knight in the story and defeat the bad\nguy?\\n< Man >"
                             ]
                         },
                         {
@@ -7224,7 +7224,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Got it into your head that you could do anything?\\n<Man>"
+                                "Got it into your head that you could do anything?\\n< Man >"
                             ]
                         },
                         {
@@ -7321,7 +7321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nngi... i...!\\n<Serena>"
+                                "Nngi... i...!\\n< Serena >"
                             ]
                         },
                         {
@@ -7363,7 +7363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heh heh heh. First time being toyed with by\nsomeone else? It's thrilling, isn't it? The rough\nfingers of a man.\\n<Man>"
+                                "Heh heh heh. First time being toyed with by\nsomeone else? It's thrilling, isn't it? The rough\nfingers of a man.\\n< Man >"
                             ]
                         },
                         {
@@ -7405,7 +7405,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nn-. But it's starting to loosen up a bit. How's\nthat?\\n<Man>"
+                                "Nn-. But it's starting to loosen up a bit. How's\nthat?\\n< Man >"
                             ]
                         },
                         {
@@ -7513,7 +7513,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nmoooh?!...!...?...!!??!!\\n<Serena>"
+                                "Nmoooh?!...!...?...!!??!!\\n< Serena >"
                             ]
                         },
                         {
@@ -7537,7 +7537,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Haha, your eyes are darting all over the place.\nFirst time being opened up like this? Nnn-?\\n<Man>"
+                                "Haha, your eyes are darting all over the place.\nFirst time being opened up like this? Nnn-?\\n< Man >"
                             ]
                         },
                         {
@@ -7554,7 +7554,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "So being seen by others too? Heh heh ho. No wonder\nit's so pink and pristine.\\n<Man>"
+                                "So being seen by others too? Heh heh ho. No wonder\nit's so pink and pristine.\\n< Man >"
                             ]
                         },
                         {
@@ -7571,7 +7571,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nn, so...\\n<Man>"
+                                "Nn, so...\\n< Man >"
                             ]
                         },
                         {
@@ -7679,7 +7679,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Guh...! Nnnugh...!!!\\n<Serena>"
+                                "Guh...! Nnnugh...!!!\\n< Serena >"
                             ]
                         },
                         {
@@ -7703,7 +7703,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh... there it is, there it is. The little hole.\nCan't see it unless it's opened up this much. It's\nso tiny-.\\n<Man>"
+                                "Oh... there it is, there it is. The little hole.\nCan't see it unless it's opened up this much. It's\nso tiny-.\\n< Man >"
                             ]
                         },
                         {
@@ -7734,7 +7734,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "How's a kid or a dick supposed to fit through this\nnarrow hole? Even one finger is tough. Right?\\n<Man>"
+                                "How's a kid or a dick supposed to fit through this\nnarrow hole? Even one finger is tough. Right?\\n< Man >"
                             ]
                         },
                         {
@@ -7751,7 +7751,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Tch, I can't see from here. Don't have all the fun\nby yourself.\\n<Man>"
+                                "Tch, I can't see from here. Don't have all the fun\nby yourself.\\n< Man >"
                             ]
                         },
                         {
@@ -7768,7 +7768,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh- sorry about that.\\n<Man>"
+                                "Oh- sorry about that.\\n< Man >"
                             ]
                         },
                         {
@@ -7836,7 +7836,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nnh...\\n<Serena>"
+                                "Nnh...\\n< Serena >"
                             ]
                         },
                         {
@@ -7911,7 +7911,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "?!\\n<Serena>"
+                                "?!\\n< Serena >"
                             ]
                         },
                         {
@@ -7935,7 +7935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well then, let's get on with it... nbe...\\n<Man>"
+                                "Well then, let's get on with it... nbe...\\n< Man >"
                             ]
                         },
                         {
@@ -7977,7 +7977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Time for your punishment...!\\n<Man>"
+                                "Time for your punishment...!\\n< Man >"
                             ]
                         },
                         {
@@ -8114,7 +8114,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mmmph?! Mmmggh!!?\\n<Serena>"
+                                "Mmmph?! Mmmggh!!?\\n< Serena >"
                             ]
                         },
                         {
@@ -8156,7 +8156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh? Even a brat like you can sense danger? Do you\nget it?\\n<Man>"
+                                "Oh? Even a brat like you can sense danger? Do you\nget it?\\n< Man >"
                             ]
                         },
                         {
@@ -8245,7 +8245,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Poke, poke. What do you think is about to happen?\\n<Man>"
+                                "Poke, poke. What do you think is about to happen?\\n< Man >"
                             ]
                         },
                         {
@@ -8313,7 +8313,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nnn!! Nnnnnn!!!\\n<Serena>"
+                                "Nnn!! Nnnnnn!!!\\n< Serena >"
                             ]
                         },
                         {
@@ -8337,7 +8337,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Seriously, kids should just play in their own\nworld. But no, you had to barge into the adult\nworld.\\n<Man>"
+                                "Seriously, kids should just play in their own\nworld. But no, you had to barge into the adult\nworld.\\n< Man >"
                             ]
                         },
                         {
@@ -8354,7 +8354,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well, if that's what you wish for. It's the duty\nof us elders. I'll help you climb one step up the\nadult ladder.\\n<Man>"
+                                "Well, if that's what you wish for. It's the duty\nof us elders. I'll help you climb one step up the\nadult ladder.\\n< Man >"
                             ]
                         },
                         {
@@ -8371,7 +8371,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Be grateful---...huh.\\n<Man>"
+                                "Be grateful---...huh.\\n< Man >"
                             ]
                         },
                         {
@@ -8479,7 +8479,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nnnnuuuhh!??!!\\n<Serena>"
+                                "Nnnnuuuhh!??!!\\n< Serena >"
                             ]
                         },
                         {
@@ -8503,7 +8503,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh- Tight... Can't even get the tip of my finger\nin.\\n<Man>"
+                                "Oh- Tight... Can't even get the tip of my finger\nin.\\n< Man >"
                             ]
                         },
                         {
@@ -8585,7 +8585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There we go.\\n<Man>"
+                                "There we go.\\n< Man >"
                             ]
                         },
                         {
@@ -8664,7 +8664,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nyyyiiiihh!!\\n<Serena>"
+                                "Nyyyiiiihh!!\\n< Serena >"
                             ]
                         },
                         {
@@ -8735,7 +8735,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If I keep prodding and poking, maybe it'll...\nfit... bit by bit?\\n<Man>"
+                                "If I keep prodding and poking, maybe it'll...\nfit... bit by bit?\\n< Man >"
                             ]
                         },
                         {
@@ -8752,7 +8752,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heh-heh, squishy squishy. You feel that? My finger\njust slipped through the entrance.\\n<Man>"
+                                "Heh-heh, squishy squishy. You feel that? My finger\njust slipped through the entrance.\\n< Man >"
                             ]
                         },
                         {
@@ -8878,7 +8878,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nnnnuuuooh!!\\n<Serena>"
+                                "Nnnnuuuooh!!\\n< Serena >"
                             ]
                         },
                         {
@@ -8920,7 +8920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehehe, a kid's body temperature is so high. And\nyet, you're not getting wet at all.\\n<Man>"
+                                "Hehehe, a kid's body temperature is so high. And\nyet, you're not getting wet at all.\\n< Man >"
                             ]
                         },
                         {
@@ -8991,7 +8991,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oops.\\n<Man>"
+                                "Oops.\\n< Man >"
                             ]
                         },
                         {
@@ -9033,7 +9033,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heh-heh. This fold here. This must be it.\\n<Man>"
+                                "Heh-heh. This fold here. This must be it.\\n< Man >"
                             ]
                         },
                         {
@@ -9050,7 +9050,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hymen discovery. You get it, brat? My finger is\ntouching your precious spot right now.\\n<Man>"
+                                "Hymen discovery. You get it, brat? My finger is\ntouching your precious spot right now.\\n< Man >"
                             ]
                         },
                         {
@@ -9158,7 +9158,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hiiu--...! Nfuuu--...!!\\n<Serena>"
+                                "Hiiu--...! Nfuuu--...!!\\n< Serena >"
                             ]
                         },
                         {
@@ -9182,7 +9182,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That's the spot, isn't it? The sensitive entrance\nof your vagina getting relentlessly prodded.\\n<Man>"
+                                "That's the spot, isn't it? The sensitive entrance\nof your vagina getting relentlessly prodded.\\n< Man >"
                             ]
                         },
                         {
@@ -9199,7 +9199,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hah-hah. Your face is a total mess now, isn't it?\\n<Man>"
+                                "Hah-hah. Your face is a total mess now, isn't it?\\n< Man >"
                             ]
                         },
                         {
@@ -9216,7 +9216,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Hey kid. Now do you understand how scary adults\ncan be?\\n<Man>"
+                                "...Hey kid. Now do you understand how scary adults\ncan be?\\n< Man >"
                             ]
                         },
                         {
@@ -9240,7 +9240,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...\\n<Serena>"
+                                "...\\n< Serena >"
                             ]
                         },
                         {
@@ -9422,7 +9422,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ngggh! Struggling---!!!\\n<Serena>"
+                                "Ngggh! Struggling---!!!\\n< Serena >"
                             ]
                         },
                         {
@@ -9446,7 +9446,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Idiot. You think you can understand the adult\nworld with just this much?\\n<Man>"
+                                "Idiot. You think you can understand the adult\nworld with just this much?\\n< Man >"
                             ]
                         },
                         {
@@ -9463,7 +9463,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Spouting nonsense. What do you understand? What do\nyou know?\\n<Man>"
+                                "Spouting nonsense. What do you understand? What do\nyou know?\\n< Man >"
                             ]
                         },
                         {
@@ -9549,7 +9549,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Here, how about this? This is an adult.\\n<Man>"
+                                "Here, how about this? This is an adult.\\n< Man >"
                             ]
                         },
                         {
@@ -9664,7 +9664,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This is an adult!\\n<Man>"
+                                "This is an adult!\\n< Man >"
                             ]
                         },
                         {
@@ -9750,7 +9750,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This is what being an adult is, brat!\\n<Man>"
+                                "This is what being an adult is, brat!\\n< Man >"
                             ]
                         },
                         {
@@ -9840,7 +9840,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nnnunn--! Nnn...!! Hinnnuu...!\\n<Serena>"
+                                "Nnnunn--! Nnn...!! Hinnnuu...!\\n< Serena >"
                             ]
                         },
                         {
@@ -9864,7 +9864,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hah-hah-hah... Congratulations on your passage and\nmembrane opening. You've taken one step into the\nadult world.\\n<Man>"
+                                "Hah-hah-hah... Congratulations on your passage and\nmembrane opening. You've taken one step into the\nadult world.\\n< Man >"
                             ]
                         },
                         {
@@ -9881,7 +9881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Don't forget this pain. The taste of my fingers,\ngot it?\\n<Man>"
+                                "Don't forget this pain. The taste of my fingers,\ngot it?\\n< Man >"
                             ]
                         },
                         {
@@ -9923,7 +9923,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Right?!\\n<Man>"
+                                "Right?!\\n< Man >"
                             ]
                         },
                         {
@@ -9991,7 +9991,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ngggh!!\\n<Serena>"
+                                "Ngggh!!\\n< Serena >"
                             ]
                         },
                         {
@@ -10015,7 +10015,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heh-heh-heh!\\n<Man>"
+                                "Heh-heh-heh!\\n< Man >"
                             ]
                         },
                         {
@@ -10090,7 +10090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hah-ha!\\n<Man>"
+                                "Hah-ha!\\n< Man >"
                             ]
                         },
                         {
@@ -10143,7 +10143,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hyah-hah-hah-hah!\\n<Man>"
+                                "Hyah-hah-hah-hah!\\n< Man >"
                             ]
                         },
                         {
@@ -10196,7 +10196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Gya-hah!\\n<Man>"
+                                "Gya-hah!\\n< Man >"
                             ]
                         },
                         {
@@ -10312,7 +10312,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yeeesss----!\\n<Man>"
+                                "Yeeesss----!\\n< Man >"
                             ]
                         },
                         {
@@ -10336,7 +10336,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "--!!!\\n<Serena>"
+                                "--!!!\\n< Serena >"
                             ]
                         },
                         {
@@ -10397,7 +10397,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Haah--! Haah--!!!\\n<Serena>"
+                                "Haah--! Haah--!!!\\n< Serena >"
                             ]
                         },
                         {
@@ -10421,7 +10421,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You little shit, you...\\n<Man>"
+                                "You little shit, you...\\n< Man >"
                             ]
                         },
                         {
@@ -10438,7 +10438,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Didn't you get the Buddha-like compassion I showed\nby only using my fingers? Didn't you understand\nthe fear of adults, huh?!\\n<Man>"
+                                "Didn't you get the Buddha-like compassion I showed\nby only using my fingers? Didn't you understand\nthe fear of adults, huh?!\\n< Man >"
                             ]
                         },
                         {
@@ -10455,7 +10455,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You're prepared, right, brat? To defy an adult\nmeans to be thoroughly toyed with and fucked!\\n<Man>"
+                                "You're prepared, right, brat? To defy an adult\nmeans to be thoroughly toyed with and fucked!\\n< Man >"
                             ]
                         },
                         {
@@ -10472,7 +10472,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You're ready to have your life completely ruined,\nright?!\\n<Man>"
+                                "You're ready to have your life completely ruined,\nright?!\\n< Man >"
                             ]
                         },
                         {
@@ -10496,7 +10496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Shall we test that.\\n<Nicola>"
+                                "Shall we test that.\\n< Nicola >"
                             ]
                         },
                         {
@@ -11356,7 +11356,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh... Go... Goehe...! Kapepe...!\\n<Man>"
+                                "Oh... Go... Goehe...! Kapepe...!\\n< Man >"
                             ]
                         },
                         {
@@ -11387,7 +11387,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Before you lecture others, are you yourselves\nprepared for what you claim? Let's find out.\\n<Nicola>"
+                                "Before you lecture others, are you yourselves\nprepared for what you claim? Let's find out.\\n< Nicola >"
                             ]
                         },
                         {
@@ -11477,7 +11477,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Wha... Hah!?\\n<Man>"
+                                "Wha... Hah!?\\n< Man >"
                             ]
                         },
                         {
@@ -11508,7 +11508,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Lord Nicola...!\\n<Serena>"
+                                "Lord Nicola...!\\n< Serena >"
                             ]
                         },
                         {
@@ -11532,7 +11532,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Serena-kun. I apologize. It took me a moment to\nopen the hidden door.\\n<Nicola>"
+                                "Serena-kun. I apologize. It took me a moment to\nopen the hidden door.\\n< Nicola >"
                             ]
                         },
                         {
@@ -11556,7 +11556,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "But well, it seems you're unharmed, which is good.\\n<Nicola>"
+                                "But well, it seems you're unharmed, which is good.\\n< Nicola >"
                             ]
                         },
                         {
@@ -11587,7 +11587,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...\\n<Serena>"
+                                "...\\n< Serena >"
                             ]
                         },
                         {
@@ -11651,7 +11651,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Eeek... A human... to do that with a single\nthrust...!\\n<Man>"
+                                "Eeek... A human... to do that with a single\nthrust...!\\n< Man >"
                             ]
                         },
                         {
@@ -11668,7 +11668,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Stop, stop it! We won't resist! We surrender!\nPlease capture us!\\n<Man>"
+                                "Stop, stop it! We won't resist! We surrender!\nPlease capture us!\\n< Man >"
                             ]
                         },
                         {
@@ -12097,7 +12097,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...I apologize, Lord Nicola. I failed to fulfill\nmy role properly.\\n<Serena>"
+                                "...I apologize, Lord Nicola. I failed to fulfill\nmy role properly.\\n< Serena >"
                             ]
                         },
                         {
@@ -12128,7 +12128,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "What are you talking about? It was us who asked\ntoo much of you. And we successfully apprehended\nthe culprits, didn't we?\\n<Nicola>"
+                                "What are you talking about? It was us who asked\ntoo much of you. And we successfully apprehended\nthe culprits, didn't we?\\n< Nicola >"
                             ]
                         },
                         {
@@ -12145,7 +12145,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There's no problem at all.\\n<Nicola>"
+                                "There's no problem at all.\\n< Nicola >"
                             ]
                         },
                         {
@@ -12169,7 +12169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...\\n<Serena>"
+                                "...\\n< Serena >"
                             ]
                         },
                         {
@@ -12193,7 +12193,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Here's the request form. I've signed it. Take it\nto the guild and you should receive your reward.\\n<Nicola>"
+                                "Here's the request form. I've signed it. Take it\nto the guild and you should receive your reward.\\n< Nicola >"
                             ]
                         },
                         {
@@ -12217,7 +12217,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Thank you...\\n<Serena>"
+                                "Thank you...\\n< Serena >"
                             ]
                         },
                         {
@@ -12241,7 +12241,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ouch...\\n<Serena>"
+                                "Ouch...\\n< Serena >"
                             ]
                         },
                         {
@@ -12265,7 +12265,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Serena-kun, are you injured? I don't see any\nexternal wounds...\\n<Nicola>"
+                                "Serena-kun, are you injured? I don't see any\nexternal wounds...\\n< Nicola >"
                             ]
                         },
                         {
@@ -12289,7 +12289,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Uh, um...\\n<Serena>"
+                                "Uh, um...\\n< Serena >"
                             ]
                         },
                         {
@@ -12313,7 +12313,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's nothing... just a minor injury. It will heal\nquickly...\\n<Serena>"
+                                "It's nothing... just a minor injury. It will heal\nquickly...\\n< Serena >"
                             ]
                         },
                         {
@@ -12337,7 +12337,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Is that so? If you say it's fine then...\\n<Nicola>"
+                                "Is that so? If you say it's fine then...\\n< Nicola >"
                             ]
                         },
                         {
@@ -12361,7 +12361,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "In any case, the success of this apprehension is\nthanks to your cooperation.\\n<Nicola>"
+                                "In any case, the success of this apprehension is\nthanks to your cooperation.\\n< Nicola >"
                             ]
                         },
                         {
@@ -12378,7 +12378,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I highly value your courage and dedication.\\n<Nicola>"
+                                "I highly value your courage and dedication.\\n< Nicola >"
                             ]
                         },
                         {
@@ -12402,7 +12402,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hearing you say that... makes the injury worth it.\\n<Serena>"
+                                "Hearing you say that... makes the injury worth it.\\n< Serena >"
                             ]
                         },
                         {
@@ -12426,7 +12426,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hmm. I can see myself entrusting you with work\nagain. There may come a time when I'll discuss\nanother job with you.\\n<Nicola>"
+                                "Hmm. I can see myself entrusting you with work\nagain. There may come a time when I'll discuss\nanother job with you.\\n< Nicola >"
                             ]
                         },
                         {
@@ -12450,7 +12450,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hmm. I welcome any job offers at any time.\\n<Serena>"
+                                "Hmm. I welcome any job offers at any time.\\n< Serena >"
                             ]
                         },
                         {
@@ -12474,7 +12474,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Then, until next time.\\n<Serena>"
+                                "Then, until next time.\\n< Serena >"
                             ]
                         },
                         {
@@ -12780,7 +12780,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Man>Guh...boeh..."
+                                "\\n< Man >Guh...boeh..."
                             ]
                         },
                         {
@@ -12798,7 +12798,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Man>It hurts... it hurts so much..."
+                                "\\n< Man >It hurts... it hurts so much..."
                             ]
                         },
                         {
@@ -12977,7 +12977,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Nicola>Are you alright, Serena-kun?"
+                                "\\n< Nicola >Are you alright, Serena-kun?"
                             ]
                         },
                         {
@@ -13046,7 +13046,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Serena>Lord Nicola? I've just finished here... What about\nthe others?"
+                                "\\n< Serena >Lord Nicola? I've just finished here... What about\nthe others?"
                             ]
                         },
                         {
@@ -13129,7 +13129,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Nicola>Just in case, I've had them stand guard above. I\ndidn't think it was necessary though."
+                                "\\n< Nicola >Just in case, I've had them stand guard above. I\ndidn't think it was necessary though."
                             ]
                         },
                         {
@@ -13146,7 +13146,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Nicola>But impressive skills. It hasn't been that long\nsince the fight started..."
+                                "\\n< Nicola >But impressive skills. It hasn't been that long\nsince the fight started..."
                             ]
                         },
                         {
@@ -13170,7 +13170,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Nicola>...Four dealers and three clients. Is that\neveryone?"
+                                "\\n< Nicola >...Four dealers and three clients. Is that\neveryone?"
                             ]
                         },
                         {
@@ -13225,7 +13225,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Serena>No, there were five dealers. One is lying over\nthere. I took them all down."
+                                "\\n< Serena >No, there were five dealers. One is lying over\nthere. I took them all down."
                             ]
                         },
                         {
@@ -13280,7 +13280,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Nicola>Impressive. To subdue everyone alive by yourself\nin such a short time... Perfect score, yes, a\nperfect score."
+                                "\\n< Nicola >Impressive. To subdue everyone alive by yourself\nin such a short time... Perfect score, yes, a\nperfect score."
                             ]
                         },
                         {
@@ -13337,7 +13337,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Nicola>I want you even more as my subordinate..."
+                                "\\n< Nicola >I want you even more as my subordinate..."
                             ]
                         },
                         {
@@ -13362,7 +13362,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Serena>Enough with the flattery. What can you tell from a\none-time job?"
+                                "\\n< Serena >Enough with the flattery. What can you tell from a\none-time job?"
                             ]
                         },
                         {
@@ -13387,7 +13387,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Serena>Anyway, I'm glad it's over quickly. Sign the\ncertificate."
+                                "\\n< Serena >Anyway, I'm glad it's over quickly. Sign the\ncertificate."
                             ]
                         },
                         {
@@ -13422,7 +13422,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Nicola>Right here and now? Well, that's fine. It would be\nbad to take up any more of Serena-kun's time."
+                                "\\n< Nicola >Right here and now? Well, that's fine. It would be\nbad to take up any more of Serena-kun's time."
                             ]
                         },
                         {
@@ -13459,7 +13459,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Serena>Indeed."
+                                "\\n< Serena >Indeed."
                             ]
                         },
                         {
@@ -13483,7 +13483,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Nicola>Adventurer Serena-kun, you've been a great help\nthis time. If possible, I'd like to request your\nservices again."
+                                "\\n< Nicola >Adventurer Serena-kun, you've been a great help\nthis time. If possible, I'd like to request your\nservices again."
                             ]
                         },
                         {
@@ -13508,7 +13508,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Serena>If there's a request from your side and a need on\nmine, I might accept the job. Until then."
+                                "\\n< Serena >If there's a request from your side and a need on\nmine, I might accept the job. Until then."
                             ]
                         },
                         {

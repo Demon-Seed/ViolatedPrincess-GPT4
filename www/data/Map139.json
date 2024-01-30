@@ -4822,7 +4822,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I must report back to the guild.\\n<Serena>"
+                                "I must report back to the guild.\\n< Serena >"
                             ]
                         },
                         {
@@ -5093,7 +5093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...\\n<Marilou>"
+                                "...\\n< Marilou >"
                             ]
                         },
                         {
@@ -5117,7 +5117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even I can handle a goblin...\\n<Marilou>"
+                                "Even I can handle a goblin...\\n< Marilou >"
                             ]
                         },
                         {
@@ -5174,7 +5174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Phew-...\\n<Marilou>"
+                                "Phew-...\\n< Marilou >"
                             ]
                         },
                         {
@@ -5198,7 +5198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Alright, let's go...!\\n<Marilou>"
+                                "Alright, let's go...!\\n< Marilou >"
                             ]
                         },
                         {

@@ -9171,7 +9171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm...?\\n<Serena>"
+                                "Hmm...?\\n< Serena >"
                             ]
                         },
                         {
@@ -9300,7 +9300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ugh, uwoah-!!! Goblins, brace yourselves-!\\n<Marilou>"
+                                "Ugh, uwoah-!!! Goblins, brace yourselves-!\\n< Marilou >"
                             ]
                         },
                         {
@@ -9363,7 +9363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's the girl from the guild...? Was she also\ntaking on a goblin extermination request?\\n<Serena>"
+                                "That's the girl from the guild...? Was she also\ntaking on a goblin extermination request?\\n< Serena >"
                             ]
                         },
                         {
@@ -10010,7 +10010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Alright. The subjugation is complete. Let's go\nreport back to the guild.\\n<Serena>"
+                                "Alright. The subjugation is complete. Let's go\nreport back to the guild.\\n< Serena >"
                             ]
                         },
                         {
@@ -10130,7 +10130,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Help! Somebody help me-!!\\n<Marilou>"
+                                "Help! Somebody help me-!!\\n< Marilou >"
                             ]
                         },
                         {
@@ -10230,7 +10230,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Help... me...\\n<Marilou>"
+                                "Help... me...\\n< Marilou >"
                             ]
                         },
                         {
@@ -10386,7 +10386,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yes... There's the exit!\\n<Serena>"
+                                "Yes... There's the exit!\\n< Serena >"
                             ]
                         },
                         {
@@ -10751,7 +10751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems there are no goblins ahead.\\n<Serena>"
+                                "It seems there are no goblins ahead.\\n< Serena >"
                             ]
                         },
                         {
@@ -10978,7 +10978,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It seems there are no goblins ahead.\\n<Serena>"
+                                "It seems there are no goblins ahead.\\n< Serena >"
                             ]
                         },
                         {

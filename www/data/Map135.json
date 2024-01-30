@@ -5115,7 +5115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Serena>We can't be seen here. We need to get down\nsomewhere else."
+                                "\\n< Serena >We can't be seen here. We need to get down\nsomewhere else."
                             ]
                         },
                         {
@@ -5384,7 +5384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Serena>Alright, a hole this size should be passable."
+                                "\\n< Serena >Alright, a hole this size should be passable."
                             ]
                         },
                         {
@@ -5408,7 +5408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Serena>The situation below is... hmm, I can hear voices."
+                                "\\n< Serena >The situation below is... hmm, I can hear voices."
                             ]
                         },
                         {
@@ -5432,7 +5432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Serena>...Wait, that voice sounds familiar. This voice\nis...!"
+                                "\\n< Serena >...Wait, that voice sounds familiar. This voice\nis...!"
                             ]
                         },
                         {
