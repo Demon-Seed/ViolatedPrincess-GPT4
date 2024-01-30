@@ -5994,7 +5994,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT キャンセルボタンで終了 18"
+                                "D_TEXT Exit_with_the_cancel_button 18"
                             ]
                         },
                         {
@@ -6494,21 +6494,21 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\V[43] 22"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\V[44]"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT "
+                                ""
                             ]
                         },
                         {
@@ -6536,7 +6536,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT セレナ 22"
+                                "D_TEXT Serena 22"
                             ]
                         },
                         {
@@ -16607,21 +16607,21 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\V[43] 22"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\V[44]"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT "
+                                ""
                             ]
                         },
                         {
@@ -16649,7 +16649,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT セレナ 22"
+                                "D_TEXT Serena 22"
                             ]
                         },
                         {

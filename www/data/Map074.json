@@ -43494,7 +43494,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT セレナ 22"
+                                "D_TEXT Serena 22"
                             ]
                         },
                         {
@@ -43515,21 +43515,21 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\V[43] 22"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\V[44]"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT "
+                                ""
                             ]
                         },
                         {
@@ -43975,7 +43975,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT キャンセルキー　終了 18"
+                                "D_TEXT Cancel_key_to_exit 18"
                             ]
                         },
                         {
@@ -70998,7 +70998,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT キャンセルキー　終了 18"
+                                "D_TEXT Cancel_Key_Exit 18"
                             ]
                         },
                         {
@@ -72677,7 +72677,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT キャンセルキー　終了　 18"
+                                "D_TEXT Cancel_Key_Exit 18"
                             ]
                         },
                         {
@@ -76881,7 +76881,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT キャンセルキー　終了　 18"
+                                "D_TEXT Cancel_Key_-_Exit 18"
                             ]
                         },
                         {
@@ -78821,7 +78821,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT キャンセルキー　終了　 18"
+                                "D_TEXT Cancel_Key_Exit 18"
                             ]
                         },
                         {
@@ -79426,7 +79426,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT キャンセルキー　終了　 18"
+                                "D_TEXT Cancel_Key_Exit 18"
                             ]
                         },
                         {
@@ -80170,7 +80170,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT キャンセルキー　終了　 18"
+                                "D_TEXT Cancel_Key_-_Exit 18"
                             ]
                         },
                         {
@@ -81175,7 +81175,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT キャンセルキー　終了　 18"
+                                "D_TEXT Cancel_Key_-_Exit 18"
                             ]
                         },
                         {
@@ -82103,7 +82103,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT キャンセルキー　終了 18"
+                                "D_TEXT Cancel_key_to_exit 18"
                             ]
                         },
                         {
@@ -82136,7 +82136,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT キャンセルキー　終了　決定キー　挑発 18"
+                                "D_TEXT Cancel_key_-_Exit,_Confirm_key_-_Taunt 18"
                             ]
                         },
                         {
@@ -87118,7 +87118,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 客 22"
+                                "D_TEXT Guest 22"
                             ]
                         },
                         {
@@ -87139,21 +87139,21 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\V[43] 22"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\V[44]"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT "
+                                ""
                             ]
                         },
                         {
@@ -89335,7 +89335,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT キャンセルキー　終了 18"
+                                "D_TEXT Cancel_Key_Exit 18"
                             ]
                         },
                         {
@@ -89958,7 +89958,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT キャンセルキー　終了　 18"
+                                "D_TEXT Cancel_Key_Exit 18"
                             ]
                         },
                         {
@@ -91536,7 +91536,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT キャンセルキー　終了　 18"
+                                "D_TEXT Cancel_Key_Exit 18"
                             ]
                         },
                         {
@@ -92860,7 +92860,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT キャンセルキー　終了　 18"
+                                "D_TEXT Cancel_Key_Exit 18"
                             ]
                         },
                         {
@@ -94557,7 +94557,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT キャンセルキー　終了　 18"
+                                "D_TEXT Cancel_Key_Exit 18"
                             ]
                         },
                         {
@@ -98088,7 +98088,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 客 22"
+                                "D_TEXT Guest 22"
                             ]
                         },
                         {
@@ -98109,21 +98109,21 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\V[43] 22"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\V[44]"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT "
+                                ""
                             ]
                         },
                         {

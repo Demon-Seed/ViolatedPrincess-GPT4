@@ -24613,7 +24613,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 決定キーで加速 18"
+                                "D_TEXT Accelerate_with_the_confirm_key 18"
                             ]
                         },
                         {
@@ -24669,7 +24669,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT 決定キーで加速　キャンセルで次の段階 18"
+                                "D_TEXT Press_the_confirm_key_to_accelerate,_cancel_to_\nproceed_to_the_next_stage 18"
                             ]
                         },
                         {
@@ -24766,7 +24766,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT 決定キーで加速 18"
+                                "D_TEXT Accelerate_with_the_confirm_key 18"
                             ]
                         },
                         {
@@ -24822,7 +24822,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 決定キーで加速　キャンセルで終了 18"
+                                "D_TEXT Accelerate_with_the_confirm_key,_cancel_to_end 18"
                             ]
                         },
                         {
@@ -24919,7 +24919,7 @@
                             "code": 356,
                             "indent": 5,
                             "parameters": [
-                                "D_TEXT 決定キーで加速 18"
+                                "D_TEXT Accelerate_with_the_confirm_key 18"
                             ]
                         },
                         {

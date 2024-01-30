@@ -35651,7 +35651,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT キャンセルキー　終了 18"
+                                "D_TEXT Cancel_Key_-_Exit 18"
                             ]
                         },
                         {
@@ -36074,7 +36074,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT キャンセルキー　終了 18"
+                                "D_TEXT Cancel_Key_Exit 18"
                             ]
                         },
                         {

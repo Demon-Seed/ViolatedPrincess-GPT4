@@ -31272,7 +31272,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT ←キーで脱出 18"
+                                "D_TEXT Press_the_left_key_to_Escape 18"
                             ]
                         },
                         {

@@ -16970,7 +16970,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "インフォ表示 シークレフを維持できず、魔力となって解けた！"
+                                "ShowInfo The_seal_couldn't_be_maintained_and_dissolved_into_magical_power!"
                             ]
                         },
                         {
@@ -17060,7 +17060,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "インフォ表示 アファービレを維持できず、魔力となって解けた！"
+                                "ShowInfo Couldn't_maintain_the_Afaerville_and_dissolved_into_magical_power!"
                             ]
                         },
                         {
@@ -17871,7 +17871,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "インフォ表示 シークレフを維持できず、魔力となって解けた！"
+                                "ShowInfo The_Seal_of_Kreuf_couldn't_be_maintained_and_dissolved_into_magical_power!"
                             ]
                         },
                         {
@@ -17961,7 +17961,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "インフォ表示 アファービレを維持できず、魔力となって解けた！"
+                                "ShowInfo Couldn't_maintain_the_Afaerville_and_dissolved_into_magical_power!"
                             ]
                         },
                         {
@@ -18772,7 +18772,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "インフォ表示 シークレフを維持できず、魔力となって解けた！"
+                                "ShowInfo Unable_to_maintain_the_barrier,_it_dissolved_into_magical_power!"
                             ]
                         },
                         {
@@ -18862,7 +18862,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "インフォ表示 アファービレを維持できず、魔力となって解けた！"
+                                "ShowInfo Couldn't_maintain_the_Afaavile_and_dissolved_into_magical_power!"
                             ]
                         },
                         {
@@ -19673,7 +19673,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "インフォ表示 シークレフを維持できず、魔力となって解けた！"
+                                "ShowInfo Couldn't_maintain_the_barrier,_and_it_dissolved_into_magical_power!"
                             ]
                         },
                         {
@@ -19763,7 +19763,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "インフォ表示 アファービレを維持できず、魔力となって解けた！"
+                                "ShowInfo Couldn't_maintain_the_Afaavile_and_dissolved_into_magical_power!"
                             ]
                         },
                         {
@@ -20574,7 +20574,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "インフォ表示 シークレフを維持できず、魔力となって解けた！"
+                                "ShowInfo The_Seal_of_Kreth_couldn't_be_maintained_and_dissolved_into_magical_power!"
                             ]
                         },
                         {
@@ -20664,7 +20664,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "インフォ表示 アファービレを維持できず、魔力となって解けた！"
+                                "ShowInfo Couldn't_maintain_the_barrier_and_it_dissolved_into_magical_power!"
                             ]
                         },
                         {

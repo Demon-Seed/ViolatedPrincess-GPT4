@@ -40421,7 +40421,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 決定キー　加速　キャンセルキー　終了 18"
+                                "D_TEXT Confirm_key_-_Accelerate,_Cancel_key_-_Exit 18"
                             ]
                         },
                         {

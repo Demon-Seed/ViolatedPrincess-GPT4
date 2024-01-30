@@ -630,9 +630,9 @@ var $plugins = [
       gaugeB:
         '{"type":"MP","x":"12","y":"47","width":"184","height":"36","fontSize":"18","param":"0","max":"0","name":"AP","color":"#ff60c0 #ffa0e0"}',
       gaugeC:
-        '{"type":"VN","x":"12","y":"87","width":"184","height":"36","fontSize":"18","param":"155","max":"156","name":"性感","color":"#ff80ff #ff80ff"}',
+        '{"type":"VN","x":"12","y":"87","width":"184","height":"36","fontSize":"18","param":"155","max":"156","name":"Desire","color":"#ff80ff #ff80ff"}',
       gaugeD:
-        '{"type":"VN","x":"12","y":"87","width":"184","height":"36","fontSize":"18","param":"158","max":"160","name":"体勢","color":"#ff60c0 #ffa0e0"}',
+        '{"type":"VN","x":"12","y":"87","width":"184","height":"36","fontSize":"18","param":"158","max":"160","name":"Posture","color":"#ff60c0 #ffa0e0"}',
       faceOffsetX: "-1000",
       faceOffsetY: "-4",
       stateIconMax: "4",

@@ -11411,7 +11411,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT キャンセル　オナホを使う 18"
+                                "D_TEXT Cancel_using_the_onahole 18"
                             ]
                         },
                         {
@@ -12417,7 +12417,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 決定キー　進行　↑キー　秘密の日記 18"
+                                "D_TEXT Confirm_Key_Progress_Up_Key_Secret_Diary 18"
                             ]
                         },
                         {
@@ -12931,7 +12931,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT 決定キー　進行　↑キー　秘密の日記 18"
+                                "D_TEXT Confirm_Key_Progress_Up_Key_Secret_Diary 18"
                             ]
                         },
                         {
@@ -13009,7 +13009,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT キャンセル　オナホを使う 18"
+                                "D_TEXT Cancel_using_the_onahole 18"
                             ]
                         },
                         {
@@ -19624,7 +19624,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT セレナ 22"
+                                "D_TEXT Serena 22"
                             ]
                         },
                         {
@@ -19645,21 +19645,21 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\V[43] 22"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\V[44]"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT "
+                                ""
                             ]
                         },
                         {
@@ -25758,7 +25758,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT キャンセル　やめる 18"
+                                "D_TEXT Cancel_Stop 18"
                             ]
                         },
                         {
@@ -25845,7 +25845,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT キャンセル　やめる 18"
+                                "D_TEXT Cancel_Stop 18"
                             ]
                         },
                         {
@@ -26005,7 +26005,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT キャンセル　オナホを使う 18"
+                                "D_TEXT Cancel_using_the_onahole 18"
                             ]
                         },
                         {

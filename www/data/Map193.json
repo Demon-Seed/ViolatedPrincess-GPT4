@@ -80854,7 +80854,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 鎖が外れない。"
+                                "ShowInfo I_can't_get_the_chains_off"
                             ]
                         },
                         {
@@ -80882,7 +80882,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "インフォ表示 鎖の留め具が緩んできた。"
+                                "ShowInfo The_clasp_of_the_chains_has_come_loose"
                             ]
                         },
                         {
@@ -80910,7 +80910,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "インフォ表示 鎖が外れた！"
+                                "ShowInfo The_chains_have_come_off!"
                             ]
                         },
                         {
@@ -81309,7 +81309,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 鎖が外れない。"
+                                "ShowInfo The_chains_won't_come_off"
                             ]
                         },
                         {
@@ -81337,7 +81337,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "インフォ表示 鎖の留め具が緩んできた。"
+                                "ShowInfo The_clasp_of_the_chains_has_come_loose"
                             ]
                         },
                         {
@@ -81365,7 +81365,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "インフォ表示 鎖が外れた！"
+                                "ShowInfo The_chains_have_come_off!"
                             ]
                         },
                         {
@@ -81764,7 +81764,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 鎖が外れない。"
+                                "ShowInfo I_can't_get_the_chains_off"
                             ]
                         },
                         {
@@ -81792,7 +81792,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "インフォ表示 鎖の留め具が緩んできた。"
+                                "ShowInfo The_clasp_of_the_chain_has_come_loose"
                             ]
                         },
                         {
@@ -81820,7 +81820,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "インフォ表示 鎖が外れた！"
+                                "ShowInfo The_chains_have_come_off!"
                             ]
                         },
                         {
@@ -82219,7 +82219,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 鎖が外れない。"
+                                "ShowInfo The_chains_won't_come_off"
                             ]
                         },
                         {
@@ -82247,7 +82247,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "インフォ表示 鎖の留め具が緩んできた。"
+                                "ShowInfo The_clasp_of_the_chains_has_come_loose"
                             ]
                         },
                         {
@@ -82275,7 +82275,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "インフォ表示 鎖が外れた！"
+                                "ShowInfo The_chains_have_been_released!"
                             ]
                         },
                         {
@@ -82674,7 +82674,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 鎖が外れない。"
+                                "ShowInfo The_chains_won't_come_off"
                             ]
                         },
                         {
@@ -82702,7 +82702,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "インフォ表示 鎖の留め具が緩んできた。"
+                                "ShowInfo The_clasp_of_the_chains_has_come_loose"
                             ]
                         },
                         {
@@ -82730,7 +82730,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "インフォ表示 鎖が外れた！"
+                                "ShowInfo The_chains_have_been_released!"
                             ]
                         },
                         {
@@ -83129,7 +83129,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 鎖が外れない。"
+                                "ShowInfo The_chains_won't_come_off"
                             ]
                         },
                         {
@@ -83157,7 +83157,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "インフォ表示 鎖の留め具が緩んできた。"
+                                "ShowInfo The_clasp_of_the_chains_has_come_loose"
                             ]
                         },
                         {
@@ -83185,7 +83185,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "インフォ表示 鎖が外れた！"
+                                "ShowInfo The_chains_have_been_released!"
                             ]
                         },
                         {
@@ -83584,7 +83584,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 鎖が外れない。"
+                                "ShowInfo I_can't_get_the_chains_off"
                             ]
                         },
                         {
@@ -83612,7 +83612,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "インフォ表示 鎖の留め具が緩んできた。"
+                                "ShowInfo The_clasp_of_the_chains_has_come_loose"
                             ]
                         },
                         {
@@ -83640,7 +83640,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "インフォ表示 鎖が外れた！"
+                                "ShowInfo The_chains_have_been_released!"
                             ]
                         },
                         {

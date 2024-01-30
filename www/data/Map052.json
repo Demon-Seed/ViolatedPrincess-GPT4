@@ -52375,7 +52375,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT ↑↓←→キーで立ち絵切り替え　キャンセルで終了 18"
+                                "D_TEXT Use_the_arrow_keys_↑↓←→_to_switch_character_\nportraits_Press_cancel_to_exit 18"
                             ]
                         },
                         {

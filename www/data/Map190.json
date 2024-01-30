@@ -30447,7 +30447,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT ↑↓で秘密の日記表示　決定キーで加速　キャンセルで終了 18"
+                                "D_TEXT Display_the_secret_diary_with_the_up/down_keys,_\naccelerate_with_the_confirm_key,_and_exit_with_the\n_cancel_key 18"
                             ]
                         },
                         {
@@ -30510,21 +30510,21 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\V[43] 22"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\V[44]"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT "
+                                ""
                             ]
                         },
                         {
@@ -30552,7 +30552,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT セレナ 22"
+                                "D_TEXT Serena 22"
                             ]
                         },
                         {

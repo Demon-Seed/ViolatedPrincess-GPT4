@@ -204,7 +204,7 @@ if (!Imported.CommonPopupCore) {
  * プラグインコマンド
  * ------------------------------------------------------
  * ShowInfo 表示したいテキスト
- * インフォ表示 表示したいテキスト
+ * ShowInfo 表示したいテキスト
  *
  * ※スペースは必ず半角で入力してください。
  * ------------------------------------------------------
@@ -335,8 +335,8 @@ if (!Imported.CommonPopupCore) {
     Game_Interpreter.prototype.pluginCommand;
   Game_Interpreter.prototype.pluginCommand = function (command, args) {
     _gInfo_GInterpreter_pluginCommand.call(this, command, args);
-    if (command === "ShowInfo" || command === "インフォ表示") {
-      CommonPopupManager.showInfo({}, args[0], null);
+    if (command === "ShowInfo" || command === "ShowInfo") {
+      CommonPopupManager.showInfo({}, args[0].replace(/_/g, ' '), null);
     }
   };
 

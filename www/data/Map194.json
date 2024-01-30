@@ -8217,7 +8217,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT 十字キーで移動（上下左右反転） 18"
+                                "D_TEXT Use_the_directional_keys_to_move_(up,_down,_left,_\nright_reversed) 18"
                             ]
                         },
                         {
@@ -10658,7 +10658,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT 決定キーで体位変化　十字キーで移動（上下左右反転） 18"
+                                "D_TEXT Use_the_confirm_key_to_change_positions,_use_the_\ndirectional_keys_to_move_(up,_down,_left,_right_\nreversed) 18"
                             ]
                         },
                         {
@@ -11942,7 +11942,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 決定キーで体位変化　十字キーで移動（上下左右反転） 18"
+                                "D_TEXT Use_the_confirm_key_to_change_positions,_use_the_\ndirectional_keys_to_move_(up,_down,_left,_right_\nreversed) 18"
                             ]
                         },
                         {
@@ -21265,7 +21265,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT セレナ 22"
+                                "D_TEXT Serena 22"
                             ]
                         },
                         {
@@ -21286,21 +21286,21 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT \\V[43] 22"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT \\V[44]"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT "
+                                ""
                             ]
                         },
                         {
@@ -21423,7 +21423,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT 決定キーで体位変化　移動不可 18"
+                                "D_TEXT Change_position_with_the_confirm_key,_movement_not\n_possible 18"
                             ]
                         },
                         {
@@ -21616,7 +21616,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT セレナ 22"
+                                "D_TEXT Serena 22"
                             ]
                         },
                         {
@@ -21637,21 +21637,21 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT \\V[43] 22"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT \\V[44]"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT "
+                                ""
                             ]
                         },
                         {
@@ -21814,7 +21814,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 決定キーで体位変化　十字キーで移動（上下左右反転） 18"
+                                "D_TEXT Use_the_confirm_key_to_change_positions,_use_the_\ndirectional_keys_to_move_(up,_down,_left,_right_\nreversed) 18"
                             ]
                         },
                         {
@@ -25846,7 +25846,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT セレナ 22"
+                                "D_TEXT Serena 22"
                             ]
                         },
                         {
@@ -25867,21 +25867,21 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\V[43] 22"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\V[44]"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT "
+                                ""
                             ]
                         },
                         {
@@ -25949,7 +25949,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT 冒険者 22"
+                                "D_TEXT Adventurer 22"
                             ]
                         },
                         {
@@ -25970,21 +25970,21 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT \\V[43] 22"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT \\V[44]"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT "
+                                ""
                             ]
                         },
                         {
@@ -26052,7 +26052,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT セレナ 22"
+                                "D_TEXT Serena 22"
                             ]
                         },
                         {
@@ -26073,21 +26073,21 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT \\V[43] 22"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT \\V[44]"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT "
+                                ""
                             ]
                         },
                         {
@@ -26185,7 +26185,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 冒険者 22"
+                                "D_TEXT Adventurer 22"
                             ]
                         },
                         {
@@ -26206,21 +26206,21 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT \\V[43] 22"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT \\V[44]"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT "
+                                ""
                             ]
                         },
                         {

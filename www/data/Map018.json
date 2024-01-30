@@ -19252,7 +19252,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 決定キーで出産　キャンセルで秘密の日記表示 18"
+                                "D_TEXT Press_the_confirm_key_to_give_birth,_press_cancel_\nto_display_the_secret_diary 18"
                             ]
                         },
                         {
@@ -19269,7 +19269,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 決定キー　今日も助けは来ない　キャンセルキー　諦める（ゲームオーバー） 18"
+                                "D_TEXT Confirm_Key_-_No_help_will_come_today_Cancel_Key_\n-_Give_up_(Game_Over) 18"
                             ]
                         },
                         {
