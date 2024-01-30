@@ -4095,21 +4095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神の家の扉は誰に対しても常に開かれております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心に疲れを感じたら、いつでも安めにいらしてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<神父>"
+                                "The doors of the house of God are always open to\neveryone. If you ever feel weary in your heart,\nplease come and find peace at any time.\\n<Priest>"
                             ]
                         },
                         {
@@ -4590,14 +4576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<老人>"
+                                "...\\n<Old Man>"
                             ]
                         },
                         {
@@ -4628,14 +4607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>ピクリともしない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よほど熱心に祈っておられるようだ。"
+                                "\\n<Serena>He's not even flinching... He must be praying very\nfervently."
                             ]
                         },
                         {
@@ -4652,14 +4624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……zzz。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<老人>"
+                                "...zzz.\\n<Old Man>"
                             ]
                         },
                         {
@@ -4690,7 +4655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>……。"
+                                "\\n<Serena>..."
                             ]
                         },
                         {
@@ -4795,14 +4760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大いなる主よ、どうか私たち夫婦に子宝をお恵みください…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<敬虔な女性>"
+                                "Oh great Lord, please bless us, a married couple,\nwith the gift of children...\\n<Devout Woman>"
                             ]
                         },
                         {
@@ -4819,21 +4777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子どもたちは主の賜物、胎の実は報酬である…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "主よ、おおどうか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<敬虔な男性>"
+                                "Children are a gift from the Lord, the fruit of\nthe womb is a reward... Oh Lord, please...\\n<Devout Man>"
                             ]
                         },
                         {
@@ -4938,28 +4882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "主は私たちの心の中まで見通しておいでなのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからこうして各地の教会を回って一心に祈りを捧げて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<敬虔な男性>"
+                                "The Lord sees into our hearts. That's why I go\naround to churches everywhere to offer my prayers\nwith all my heart.\\n<Devout Man>"
                             ]
                         },
                         {
@@ -5064,14 +4987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<老婆>"
+                                "...\\n<Old Woman>"
                             ]
                         },
                         {
@@ -5102,14 +5018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>ピクリともしない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よほど熱心に祈っておられるようだ。"
+                                "\\n<Serena>She doesn't even flinch... She must be praying\nvery fervently."
                             ]
                         },
                         {
@@ -5221,14 +5130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パイプオルガンだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a pipe organ.\\n<Serena>"
                             ]
                         },
                         {
@@ -5245,14 +5147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "教会のオルガンはおおよそ音程が狂っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The organs in churches are almost always out of\ntune.\\n<Serena>"
                             ]
                         },
                         {
@@ -5269,21 +5164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いくつかの教会で弾かせてもらった事があるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例外なく閉口させてもらったものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I've had the chance to play a few in different\nchurches, and without exception, they've been\nfrustrating.\\n<Serena>"
                             ]
                         },
                         {
@@ -5300,21 +5181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おそらくここもそうだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう見ただけでわかるぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "This one is probably the same. I can tell just by\nlooking at it.\\n<Serena>"
                             ]
                         },
                         {
@@ -5426,14 +5293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Books.\\n<Serena>"
                             ]
                         },
                         {
@@ -5450,21 +5310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "教会は修養の一環として写本を行う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この写本行のおかげで今日まで伝わった叡智も多い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The church engages in manuscript copying as part\nof their spiritual training. Thanks to this\npractice, much wisdom has been passed down to this\nday.\\n<Serena>"
                             ]
                         },
                         {
@@ -5481,21 +5327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっとも、ここに並んでいるのは信徒向けの簡単な"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本ばかりのようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "However, it seems that the books lined up here are\njust simple ones intended for the faithful.\\n<Serena>"
                             ]
                         },
                         {
@@ -5607,14 +5439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Books.\\n<Serena>"
                             ]
                         },
                         {
@@ -5631,21 +5456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "教会は修養の一環として写本を行う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この写本行のおかげで今日まで伝わった叡智も多い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The church engages in manuscript copying as part\nof their spiritual training. Thanks to this\npractice, much wisdom has been passed down to this\nday.\\n<Serena>"
                             ]
                         },
                         {
@@ -5662,21 +5473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっとも、ここに並んでいるのは信徒向けの簡単な"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本ばかりのようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "However, it seems that only simple books intended\nfor the faithful are lined up here.\\n<Serena>"
                             ]
                         },
                         {
@@ -5788,14 +5585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Books.\\n<Serena>"
                             ]
                         },
                         {
@@ -5812,21 +5602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "教会は修養の一環として写本を行う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この写本行のおかげで今日まで伝わった叡智も多い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The church engages in manuscript copying as part\nof their spiritual training. Thanks to this\npractice, much wisdom has been passed down to this\nday.\\n<Serena>"
                             ]
                         },
                         {
@@ -5843,21 +5619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっとも、ここに並んでいるのは信徒向けの簡単な"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本ばかりのようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "However, it seems that only simple books intended\nfor the faithful are lined up here.\\n<Serena>"
                             ]
                         },
                         {
@@ -5969,14 +5731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "教会のシンボルだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's the symbol of the church.\\n<Serena>"
                             ]
                         },
                         {
@@ -5993,21 +5748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あまりこのあたりをウロつくのは良くない事だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "司祭様もチラチラとこちらを不安そうに見ている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's not good to loiter around here too much. The\npriest is also glancing over here anxiously.\\n<Serena>"
                             ]
                         },
                         {
@@ -6119,14 +5860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "教会のシンボルだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's the symbol of the church.\\n<Serena>"
                             ]
                         },
                         {
@@ -6143,21 +5877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あまりこのあたりをウロつくのは良くない事だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "司祭様もチラチラとこちらを不安そうに見ている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's not good to loiter around here too much. The\npriest is also glancing over here anxiously.\\n<Serena>"
                             ]
                         },
                         {
@@ -6269,14 +5989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ろうそくだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a candle.\\n<Serena>"
                             ]
                         },
                         {
@@ -6293,28 +6006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ろうそくはわが身を捧げて火を灯す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人々を照らし、闇を払う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聖の聖なるものにして、無償の愛の象徴だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "A candle gives itself to light the flame. It\nilluminates people, dispels the darkness. It is a\nsacred thing of holiness, a symbol of selfless\nlove.\\n<Serena>"
                             ]
                         },
                         {
@@ -6426,14 +6118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ろうそくだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a candle.\\n<Serena>"
                             ]
                         },
                         {
@@ -6450,28 +6135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ろうそくはわが身を捧げて火を灯す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人々を照らし、闇を払う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聖の聖なるものにして、無償の愛の象徴だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "A candle gives itself to light the flame. It\nilluminates people and dispels the darkness. It's\na sacred object of holiness, symbolizing selfless\nlove.\\n<Serena>"
                             ]
                         },
                         {
@@ -6583,14 +6247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "聖書だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a holy book.\\n<Serena>"
                             ]
                         },
                         {
@@ -6607,21 +6264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "古き言語で綴られている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も勉強を始めたばかりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's written in an ancient language. I've only\njust begun studying it.\\n<Serena>"
                             ]
                         },
                         {

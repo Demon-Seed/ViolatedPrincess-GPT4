@@ -3561,28 +3561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zキー：攻撃　押し続けるとチャージ攻撃"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　 チャージ中は敵攻撃防御可能"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Xキー：押している間キャラ方向固定"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　 固定中Shiftで緊急回避"
+                                "Z Key: Hold down the attack button to charge your\nattack. You can defend against enemy attacks while\ncharging. X Key: Hold to lock your character's\ndirection. Press Shift while locked to perform an\nemergency evasion."
                             ]
                         },
                         {

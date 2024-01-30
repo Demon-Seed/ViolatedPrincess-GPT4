@@ -4822,14 +4822,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギルドに報告に行かねば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I must report back to the guild.\\n<Serena>"
                             ]
                         },
                         {
@@ -5100,14 +5093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<マリルー>"
+                                "...\\n<Marilou>"
                             ]
                         },
                         {
@@ -5131,14 +5117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンぐらいなら、私にだって……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<マリルー>"
+                                "Even I can handle a goblin...\\n<Marilou>"
                             ]
                         },
                         {
@@ -5195,14 +5174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅー……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<マリルー>"
+                                "Phew-...\\n<Marilou>"
                             ]
                         },
                         {
@@ -5226,14 +5198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし、行こう…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<マリルー>"
+                                "Alright, let's go...!\\n<Marilou>"
                             ]
                         },
                         {

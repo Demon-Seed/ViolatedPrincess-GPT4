@@ -1417,12 +1417,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "挿入",
-                                    "セックス音",
-                                    "セックス音（永続リピート）",
-                                    "射精",
-                                    "抜く",
-                                    "リピート停止"
+                                    "Insert",
+                                    "Sex sounds",
+                                    "Sex sounds (Looping indefinitely)",
+                                    "Ejaculate",
+                                    "Pull out",
+                                    "Stop repeat"
                                 ],
                                 -2,
                                 0,
@@ -1905,14 +1905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\\n<Serena>Serena"
                             ]
                         },
                         {
@@ -1930,13 +1923,6 @@
                                 0,
                                 0,
                                 2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
                             ]
                         },
                         {
@@ -3824,7 +3810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以下説明"
+                                "The following is an explanation."
                             ]
                         },
                         {
@@ -3848,21 +3834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セックス準備情報を記入します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは今からセックスする相手の情報を呼び出すための"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "処置です。"
+                                "Enter the sex preparation information. This is a\nprocedure to call up information about the partner\nyou're about to have sex with."
                             ]
                         },
                         {
@@ -3912,14 +3884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後セックスの内容を変数で呼び出します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "使う変数は三つです"
+                                "After that, the content of the sex is called up\nusing variables. There are three variables to use."
                             ]
                         },
                         {
@@ -3936,21 +3901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "８０３：現在：セックス回数"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "８０６：現在：フェラ回数"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "８０９：現在：アナルセックス回数"
+                                "803: Current: Number of times had sex 806:\nCurrent: Number of times given a blowjob 809:\nCurrent: Number of times had anal sex"
                             ]
                         },
                         {
@@ -3967,14 +3918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは棒をどこの穴に突っ込んだか？という確認の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ために使われる物と考えてください。"
+                                "Think of this as a check to see which hole the\ndick was inserted into."
                             ]
                         },
                         {
@@ -3991,14 +3935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後射精した場合、射精処理を行います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "使うスイッチは六つです"
+                                "If ejaculation occurs afterwards, ejaculation\nprocessing is performed. There are six switches to\nuse."
                             ]
                         },
                         {
@@ -4069,21 +4006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "８０４：性行為：膣内射精　８０７：性行為：アナル外射精"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "８０５：性行為：膣外射精　８０８：性行為：口内射精"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "８０６：性行為：アナル内射精　８０９：性行為：口外射精"
+                                "804: Sexual Act: Vaginal Ejaculation 807: Sexual\nAct: Anal External Ejaculation 805: Sexual Act:\nVaginal External Ejaculation 808: Sexual Act: Oral\nEjaculation 806: Sexual Act: Anal Internal\nEjaculation 809: Sexual Act: Oral External\nEjaculation"
                             ]
                         },
                         {
@@ -4100,14 +4023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは棒を突っ込まれた後、何処に射精したかという"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確認になります。"
+                                "This is a confirmation of where the ejaculation\ntook place after the dick was inserted."
                             ]
                         },
                         {
@@ -4146,7 +4062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セックスに対してどう感じたかは二つの変数で処理します。"
+                                "The feelings towards the sex are processed with\ntwo variables."
                             ]
                         },
                         {
@@ -4163,7 +4079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "８２１：現在：快感値　８２２：現在：心情加算値"
+                                "821: Current: Pleasure Value 822: Current:\nEmotional Addition Value"
                             ]
                         },
                         {
@@ -4180,14 +4096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "快感値は+のみで処理しますが、心情加算値は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愉快ならば+、不快ならば-で入力し処理します。"
+                                "The Pleasure Value is processed with only +, but\nthe Emotional Addition Value is entered and\nprocessed with + if pleasant, and - if unpleasant."
                             ]
                         },
                         {
@@ -4215,14 +4124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シチュエーションは変数９４３：性行為シチュID"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "に直接入力します。"
+                                "The situation is directly entered into variable\n943: Sexual Act Situation ID."
                             ]
                         },
                         {
@@ -4246,21 +4148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以上でセックス時の変数、スイッチ入力は多分完了します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最後にコモンイベント１６：エロイベント後用コモン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "を実行すればエロステに色々と記入されます。"
+                                "With that, the variable and switch inputs for\nduring sex are probably complete. Finally, if you\nexecute Common Event 16: Post-Erotic Event Common,\nvarious entries will be made in the Erostate."
                             ]
                         },
                         {
@@ -4299,28 +4187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モブキャラに犯られている場合はそれぞれ経験人数を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "+してください。名ありのユニークキャラの場合は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "始めの一度目のみ人数加算される処置がされていますので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この措置は不要です。"
+                                "If you are being raped by a mob character, please\nadd to the number of experienced people\naccordingly. For named unique characters, this\nmeasure is not necessary as the count is only\nadded once for the first time."
                             ]
                         },
                         {
@@ -7299,14 +7166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\\n<Serena>Serena"
                             ]
                         },
                         {
@@ -7330,14 +7190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<相手>"
+                                "\\n<Partner>Partner"
                             ]
                         },
                         {
@@ -7453,14 +7306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "全裸反応"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<相手>"
+                                "Nude reaction\\n<Partner>"
                             ]
                         },
                         {
@@ -7548,14 +7394,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "半裸反応"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<相手>"
+                                "Half-naked reaction\\n<Partner>"
                             ]
                         },
                         {
@@ -7651,14 +7490,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "妊娠反応"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<相手>"
+                                "Pregnancy reaction\\n<Partner>"
                             ]
                         },
                         {
@@ -7770,21 +7602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\V[43]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\V[44]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　\\V[45]"
+                                "\\V[43]\\V[44]\\V[45]"
                             ]
                         },
                         {
@@ -8743,7 +8561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以下説明"
+                                "Explanation follows"
                             ]
                         },
                         {
@@ -8767,21 +8585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セックス準備情報を記入します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは今からセックスする相手の情報を呼び出すための"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "処置です。"
+                                "Enter the sex preparation information. This is a\nprocedure to call up the information of the\npartner you are about to have sex with."
                             ]
                         },
                         {
@@ -8831,14 +8635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後セックスの内容を変数で呼び出します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "使う変数は三つです"
+                                "After that, the content of the sex will be called\nup using three variables."
                             ]
                         },
                         {
@@ -8855,21 +8652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "８０３：現在：セックス回数"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "８０６：現在：フェラ回数"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "８０９：現在：アナルセックス回数"
+                                "803: Current: Number of times had sex 806:\nCurrent: Number of times given oral 809: Current:\nNumber of times had anal sex"
                             ]
                         },
                         {
@@ -8886,14 +8669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは棒をどこの穴に突っ込んだか？という確認の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ために使われる物と考えてください。"
+                                "Please consider this as a check for which hole the\nrod was inserted into."
                             ]
                         },
                         {
@@ -8910,14 +8686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後射精した場合、射精処理を行います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "使うスイッチは六つです"
+                                "If ejaculation occurs afterwards, ejaculation\nprocessing will be performed. There are six\nswitches to use"
                             ]
                         },
                         {
@@ -8988,21 +8757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "８０４：性行為：膣内射精　８０７：性行為：アナル外射精"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "８０５：性行為：膣外射精　８０８：性行為：口内射精"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "８０６：性行為：アナル内射精　８０９：性行為：口外射精"
+                                "804: Sexual act: Vaginal ejaculation 807: Sexual\nact: Anal external ejaculation 805: Sexual act:\nVaginal external ejaculation 808: Sexual act: Oral\nejaculation 806: Sexual act: Anal internal\nejaculation 809: Sexual act: Oral external\nejaculation"
                             ]
                         },
                         {
@@ -9019,14 +8774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは棒を突っ込まれた後、何処に射精したかという"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確認になります。"
+                                "This will confirm where the ejaculation occurred\nafter the rod was inserted."
                             ]
                         },
                         {
@@ -9065,7 +8813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セックスに対してどう感じたかは二つの変数で処理します。"
+                                "How the sex was felt will be processed with two\nvariables."
                             ]
                         },
                         {
@@ -9082,7 +8830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "８２１：現在：快感値　８２２：現在：心情加算値"
+                                "821: Current: Pleasure value 822: Current:\nEmotional addition value"
                             ]
                         },
                         {
@@ -9099,14 +8847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "快感値は+のみで処理しますが、心情加算値は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愉快ならば+、不快ならば-で入力し処理します。"
+                                "The pleasure value is processed with only +, but\nthe emotional addition value is entered and\nprocessed with + if pleasant, and - if unpleasant."
                             ]
                         },
                         {
@@ -9134,14 +8875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シチュエーションは変数９４３：性行為シチュID"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "に直接入力します。"
+                                "The situation is directly entered into variable\n943: Sexual act situation ID."
                             ]
                         },
                         {
@@ -9165,21 +8899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以上でセックス時の変数、スイッチ入力は多分完了します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最後にコモンイベント１６：エロイベント後用コモン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "を実行すればエロステに色々と記入されます。"
+                                "With this, the input of variables and switches\nduring sex is probably complete. Finally, if you\nexecute Common Event 16: Post-Ero Event Common,\nvarious things will be recorded in the Erostate."
                             ]
                         },
                         {
@@ -9218,28 +8938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モブキャラに犯られている場合はそれぞれ経験人数を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "+してください。名ありのユニークキャラの場合は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "始めの一度目のみ人数加算される処置がされていますので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この措置は不要です。"
+                                "If you are being violated by a mob character,\nplease add to the number of experienced people.\nFor named unique characters, this measure is not\nnecessary as the count is added only once at the\nbeginning."
                             ]
                         },
                         {

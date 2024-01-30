@@ -5115,21 +5115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>人目につくわけにはいかない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこか別の場所から降りなけ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "れば。"
+                                "\\n<Serena>We can't be seen here. We need to get down\nsomewhere else."
                             ]
                         },
                         {
@@ -5258,7 +5244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nl<セレナ>屋上に用事はない。"
+                                "Serena: \"I have no business on the rooftop.\""
                             ]
                         },
                         {
@@ -5398,14 +5384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>よし、これぐらいの大きさの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "穴ならば通れるぞ。"
+                                "\\n<Serena>Alright, a hole this size should be passable."
                             ]
                         },
                         {
@@ -5429,7 +5408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>下の様子は…むぅ、声が聞こえる。"
+                                "\\n<Serena>The situation below is... hmm, I can hear voices."
                             ]
                         },
                         {
@@ -5453,14 +5432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>……待て、聞き覚えがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この声は…ッ！"
+                                "\\n<Serena>...Wait, that voice sounds familiar. This voice\nis...!"
                             ]
                         },
                         {

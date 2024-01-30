@@ -14612,14 +14612,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今はこの先に用事はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I have no business beyond this point right now.\\n<Serena>"
                             ]
                         },
                         {
@@ -15032,14 +15025,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今はこの先に用事はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I have no business beyond this point right now.\\n<Serena>"
                             ]
                         },
                         {
@@ -15613,14 +15599,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今はこの先に用事はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I have no business beyond this point right now.\\n<Serena>"
                             ]
                         },
                         {
@@ -16018,28 +15997,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "確かゴブリンは森を西へ進んだ先にある、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "川べりの洞窟"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "にいるのであったか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "If I remember correctly, the goblins are in a cave\nby the river, beyond the forest to the west.\\n<Serena>"
                             ]
                         },
                         {
@@ -16056,14 +16014,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "西へ進んでみよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Let's head west.\\n<Serena>"
                             ]
                         },
                         {
@@ -16158,21 +16109,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ピッグマンの巣穴は森を東に抜けた先にある…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "という事であったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The Pigman's den is said to be just past the\nforest to the east...\\n<Serena>"
                             ]
                         },
                         {
@@ -16189,14 +16126,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "東へ進んでみよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Let's try going east.\\n<Serena>"
                             ]
                         },
                         {
@@ -16246,21 +16176,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ローパーの群生地は森の奥。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "このまままっすぐ南だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The roper's breeding grounds are deep in the\nforest. Just straight south from here.\\n<Serena>"
                             ]
                         },
                         {
@@ -16308,14 +16224,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "南へ進もう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Let's move south.\\n<Serena>"
                             ]
                         },
                         {
@@ -16488,21 +16397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ、あぁ……やった……やった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまで来れば、後はもう大丈夫だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hah, ah... I did it... I did it! If I've come this\nfar, then everything will be okay from here on\nout.\\n<Serena>"
                             ]
                         },
                         {

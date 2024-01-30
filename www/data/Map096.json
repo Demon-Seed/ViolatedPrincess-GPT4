@@ -4048,14 +4048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これ以上街から離れるつもりはない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I have no intention of going any further away from\ntown.\\n<Serena>"
                             ]
                         },
                         {
@@ -4687,14 +4680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あーどっこいしょ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Ah, heave-ho...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -4711,21 +4697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モンスター退治より、その為に山道登ったり下ったり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "してる時間のほうが長い気がするわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "I feel like I spend more time climbing up and down\nthese mountain paths than actually hunting\nmonsters.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -4742,14 +4714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もういっそ山に住んだろか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Maybe I should just live in the mountains at this\npoint.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -4854,21 +4819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは馬車破りの坂と言ってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勾配がキツいもんで馬車が通るのが大変なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "This place is known as the Carriage Breaker Hill.\nThe slope is so steep that it's tough for\ncarriages to pass through.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -4885,21 +4836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕の夢はね、この坂をちょっとずつ均していって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと緩やかな坂にする事なんだなー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "My dream, you see, is to gradually even out this\nhill to make it a gentler slope.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -4916,21 +4853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうすりゃあカスットルムももっと吹き抜けが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良くなろうかとね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "If I do that, the wind might blow through\nCastellum much better, I reckon...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -5101,7 +5024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "看板だ。"
+                                "It's a sign."
                             ]
                         },
                         {
@@ -5118,21 +5041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雨に降られるだけ降られ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風に吹かれるだけ吹かれたものだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "文字の判別は困難だ。"
+                                "It must have been drenched by the rain and\nbattered by the wind. The letters are hard to make\nout."
                             ]
                         },
                         {
@@ -5244,14 +5153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "樽だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a barrel.\\n<Serena>"
                             ]
                         },
                         {
@@ -5268,21 +5170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通った馬車が落としていったのだろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中身はからっぽのようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I wonder if a passing carriage dropped it. It\nseems to be empty inside.\\n<Serena>"
                             ]
                         },
                         {
@@ -5394,14 +5282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "切り株だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a stump.\\n<Serena>"
                             ]
                         },
                         {
@@ -5418,21 +5299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうもモンスターが涌いては薪を取るのも一苦労"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "であろうな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "With monsters emerging like this, even gathering\nfirewood is a struggle.\\n<Serena>"
                             ]
                         },
                         {
@@ -5449,21 +5316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冬が来る前にモンスターの勢力を減じ、山林に人が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入れるようにしなければ街は凍えてしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "We must reduce the monsters' strength before\nwinter comes, or else the town will freeze over if\npeople can't enter the forest.\\n<Serena>"
                             ]
                         },
                         {
@@ -5480,14 +5333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさに死活問題というわけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's truly a matter of life and death.\\n<Serena>"
                             ]
                         },
                         {
@@ -5599,14 +5445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "薪だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's firewood.\\n<Serena>"
                             ]
                         },
                         {
@@ -5623,21 +5462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こういった所で不用意に薪を触ってはいけない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "街の財産かもしれぬ故な。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "We shouldn't carelessly touch firewood in places\nlike this. It might be the town's property.\\n<Serena>"
                             ]
                         },
                         {
@@ -5851,21 +5676,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ここが山の登山道か。右を行けば隣国へ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "モンスターはこちらの山の方にいる様だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "So this is the mountain trail. If I go right, I'll\nhead towards the neighboring country. It seems the\nmonsters are on this side of the mountain.\\n<Serena>"
                             ]
                         },
                         {

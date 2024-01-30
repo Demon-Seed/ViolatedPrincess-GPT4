@@ -2448,14 +2448,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "もし、よろしいか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"Excuse me, is this a good time?\"\\n<Serena>"
                             ]
                         },
                         {
@@ -2480,21 +2473,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "い、いらっしゃいませ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "いかがされましたか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"Welcome. How may I assist you today?\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -2519,14 +2498,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "査定してもらいたいものがある！のだが！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"I have something I'd like appraised!\"\\n<Serena>"
                             ]
                         },
                         {
@@ -2551,14 +2523,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "商品の引き取りでしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"Are you looking to sell an item?\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -2583,21 +2548,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "下着だ。下着を売りたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "絹製でな。高級品だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"It's underwear. I want to sell underwear. It's\nmade of silk. A luxury item.\"\\n<Serena>"
                             ]
                         },
                         {
@@ -2622,21 +2573,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ほほぉ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "絹の下着ですか。それは大変結構ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"Oh? Silk underwear? That is indeed quite\nsplendid.\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -2654,14 +2591,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "拝見させていただいても？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"May I take a look at it?\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -2686,14 +2616,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"Yes.\"\\n<Serena>"
                             ]
                         },
                         {
@@ -2718,21 +2641,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふぅむ。生地の織りは確かですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "独特の光沢、手触り……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"Hmm. The weave of the fabric is certain. The\nunique sheen, the texture...\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -2750,14 +2659,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "確かに、絹。それも上物…どうされました？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"Indeed, silk. And of high quality... What's the\nmatter?\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -2793,14 +2695,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "…目の前であまり撫でまわされると。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"...It's somewhat disconcerting to have it fondled\nso much right before my eyes.\"\\n<Serena>"
                             ]
                         },
                         {
@@ -2825,14 +2720,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"?\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -2864,21 +2752,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いや、なんでもない。失敬した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "続けてくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"No, it's nothing. My apologies. Please continue.\"\\n<Serena>"
                             ]
                         },
                         {
@@ -2903,14 +2777,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"Ah.\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -2928,21 +2795,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ともかく、これは中々の出物でございますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "当店で買い取るなら…そうですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"Anyway, this is quite a find. If we were to\npurchase it... let's see.\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -2960,14 +2813,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "１０００Ｓといった所になるかと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"I would say about 1000 S would be the price.\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -3003,14 +2849,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "１０００！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"1000!? Why!?\"\\n<Serena>"
                             ]
                         },
                         {
@@ -3035,14 +2874,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "何故！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"Why!?\"\\n<Serena>"
                             ]
                         },
                         {
@@ -3067,14 +2899,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "何故、とおっしゃられましても。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"As to 'why', well...\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -3099,21 +2924,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これの購入価格は１００Ｇ！１万Ｓしたのだぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何をどう転んでも価格が十分の一にはなるまい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"The purchase price for this was 100 G! It cost\n10,000 S! There's no way the price should drop to\none-tenth no matter how you look at it!\"\\n<Serena>"
                             ]
                         },
                         {
@@ -3138,21 +2949,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "買値の事は存じ上げませんが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こちらとしましても商売でございまして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"I'm not aware of the buying price... but as for\nus, we are in business, after all.\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -3169,21 +2966,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "儲けを考えますと、今出せるコインはそのくらいに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なってしまいますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"Considering our profit margin, that's about as\nmuch as we can offer in coin right now.\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -3208,14 +2991,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しかし……１０００とは……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"But... 1000 is...\"\\n<Serena>"
                             ]
                         },
                         {
@@ -3239,21 +3015,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "このような小さな、子供用の下着となりますと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なかなか需要のほうがございませんので。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"Given that this is such a small piece, suitable\nfor a child, there's hardly any demand for it.\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -3270,14 +3032,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "如何に高価高級の品でも売れなくては意味がない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"No matter how expensive or luxurious the item is,\nit's meaningless if it doesn't sell.\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -3294,21 +3049,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "生地として考えましてもこう小さいとなかなか他に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "仕立て直しもできず…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"Even considering the fabric, when it's this\nsmall, it's quite difficult to repurpose it into\nsomething else...\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -3332,14 +3073,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "それで１０００Ｓか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"So it comes down to 1000 S...\"\\n<Serena>"
                             ]
                         },
                         {
@@ -3356,14 +3090,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これでもかなり良心的な提示をさせていただいているかと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"I believe this is quite a fair offer, all things\nconsidered.\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -3388,14 +3115,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……。それは……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"...That may be...\"\\n<Serena>"
                             ]
                         },
                         {
@@ -3420,14 +3140,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そうかも……しれぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"True, perhaps...\"\\n<Serena>"
                             ]
                         },
                         {
@@ -3451,14 +3164,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いかがなさいますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"What will you do?\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -3466,8 +3172,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "買い取ってもらう",
-                                    "やめる"
+                                    "I'd like to sell",
+                                    "Cancel"
                                 ],
                                 1,
                                 -1,
@@ -3505,14 +3211,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "いや…わかった。買い取ってもらいたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"No... I understand. I'd like you to buy it.\"\\n<Serena>"
                             ]
                         },
                         {
@@ -3536,14 +3235,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "１０００Ｓとはいえ、今はありがたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"Although it's only 1000 S, I am grateful for it\nnow.\"\\n<Serena>"
                             ]
                         },
                         {
@@ -3567,21 +3259,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "承知いたしました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ではこちらで引き取らせていただきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"Understood. Then we will take it off your hands.\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -3599,21 +3277,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お代金の１０００Ｓです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ご確認を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"Here is your payment of 1000 S. Please confirm.\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -3666,14 +3330,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……うむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"...Yes.\"\\n<Serena>"
                             ]
                         },
                         {
@@ -3698,21 +3355,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "まいどありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "またのお越しをお待ちしております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"Thank you as always. We look forward to your next\nvisit.\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -3788,21 +3431,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "すまぬ。軽々に決断できぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "少し考えさせてほしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"I apologize. I cannot decide so lightly. Please\ngive me a moment to think.\"\\n<Serena>"
                             ]
                         },
                         {
@@ -3827,21 +3456,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "承知いたしました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ではこちらの下着はお返しします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"Understood. Then I will return the underwear to\nyou.\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -3859,14 +3474,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "考えがお変わりになりましたらまたいつでもどうぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "\"If you change your mind, please feel free to\nvisit us again anytime.\"\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -3891,14 +3499,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -3955,8 +3556,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "アイテムを買いに来た",
-                                    "下着を売りに来た"
+                                    "I came to buy items",
+                                    "I've come to sell underwear"
                                 ],
                                 0,
                                 -1,
@@ -4014,28 +3615,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "左様でございますか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "金額は１０００Ｓとなります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "よろしかったですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Is that so? The amount will be 1000 S. Is that\nalright with you?\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -4043,8 +3623,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "下着を売る",
-                                    "やめる"
+                                    "Sell panties",
+                                    "Cancel"
                                 ],
                                 1,
                                 -1,
@@ -4081,14 +3661,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "…わかった。買い取ってもらいたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Understood. I'd like you to buy it.\\n<Serena>"
                             ]
                         },
                         {
@@ -4106,14 +3679,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "１０００Ｓとはいえ、今はありがたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Even though it's only 1000 S, I am grateful for it\nnow.\\n<Serena>"
                             ]
                         },
                         {
@@ -4137,21 +3703,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "承知いたしました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "ではこちらで引き取らせていただきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Understood. Then we will take it off your hands.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -4169,21 +3721,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "お代金の１０００Ｓです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "ご確認を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Here is your payment of 1000 S. Please confirm.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -4236,14 +3774,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "……うむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Yes.\\n<Serena>"
                             ]
                         },
                         {
@@ -4268,21 +3799,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "まいどありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "またのお越しをお待ちしております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Thank you as always. We look forward to your next\nvisit.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -4357,21 +3874,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "すまぬ。軽々に決断できぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "少し考えさせてほしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I apologize. I cannot decide so lightly. Please\ngive me a moment to think.\\n<Serena>"
                             ]
                         },
                         {
@@ -4396,21 +3899,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "承知いたしました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "ではこちらの下着はお返しします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Understood. Then I will return the underwear to\nyou.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -4428,14 +3917,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "考えがお変わりになりましたらまたいつでもどうぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "If you change your mind, please feel free to visit\nus again anytime.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -4460,14 +3942,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -4567,14 +4042,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "すまぬ。また良いだろうか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I apologize. May I come again later...\\n<Serena>"
                             ]
                         },
                         {
@@ -4598,14 +4066,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おや貴方は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Oh, it's you...\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -4622,21 +4083,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いらっしゃいませ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "また何かお売りいただけますのでしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Welcome. Do you have something else to sell?\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -4660,14 +4107,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "今度はこれを査定してもらいたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "This time, I would like you to appraise this.\\n<Serena>"
                             ]
                         },
                         {
@@ -4691,28 +4131,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "寝間着…ネグリジェですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "この前のいただいた下着よりデザインも材質も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "より洗練されておりますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Nightwear... A negligee, is it? It's more refined\nin design and material than the underwear we\nreceived before.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -4743,14 +4162,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうだろう、これならば２０００Ｓぐらいには…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "What do you think, could this be worth about 2000\nS...?\\n<Serena>"
                             ]
                         },
                         {
@@ -4774,21 +4186,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これも中々の出物ではございますが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "やはりどうしてもサイズの問題が。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "This too is quite a find, but... there's still the\nissue of size.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -4805,14 +4203,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "当店で買い取るならやはり１０００Ｓになるかと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "If we were to buy it, it would still be 1000 S,\nI'm afraid.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -4836,14 +4227,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -4867,21 +4251,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "高級な、オーダーメイドのお品かと存じますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "中古品としてはその点がむしろ問題でして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "It seems to be a high-quality, custom-made item,\nbut that point becomes a problem for a used item.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -4898,21 +4268,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "このサイズの寝間着を買おうと言う方は。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なかなかには……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Finding someone who wants to buy nightwear of this\nsize is... quite rare indeed.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -4936,14 +4292,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そうか……それは、そうであろうな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I see... That makes sense...\\n<Serena>"
                             ]
                         },
                         {
@@ -4967,14 +4316,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いかがなさいますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "What will you do?\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -4982,8 +4324,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "買い取ってもらう",
-                                    "やめる"
+                                    "I'd like to sell it",
+                                    "Cancel"
                                 ],
                                 1,
                                 -1,
@@ -5020,14 +4362,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "…それで頼む。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...I'll take that offer.\\n<Serena>"
                             ]
                         },
                         {
@@ -5051,21 +4386,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "承知いたしました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ではこちらで引き取らせていただきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Understood. Then we will take it off your hands.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -5083,21 +4404,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お代金の１０００Ｓです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ご確認を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Here is your payment of 1000 S. Please confirm.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -5150,14 +4457,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……うむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Yes.\\n<Serena>"
                             ]
                         },
                         {
@@ -5182,21 +4482,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "まいどありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "またのお越しをお待ちしております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Thank you as always. We look forward to your next\nvisit.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -5261,21 +4547,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "すまぬ。軽々に決断できぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "少し考えさせてほしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I apologize. I cannot decide so lightly. Please\ngive me a moment to think.\\n<Serena>"
                             ]
                         },
                         {
@@ -5300,21 +4572,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "承知いたしました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ではこちらの下着はお返しします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Understood. Then I will return the nightwear to\nyou.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -5332,14 +4590,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "考えがお変わりになりましたらまたいつでもどうぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "If you change your mind, please feel free to visit\nus again anytime.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -5364,14 +4615,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -5428,8 +4672,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "アイテムを買いに来た",
-                                    "ネグリジェを売りに来た"
+                                    "I came to buy items",
+                                    "I've come to sell a negligee"
                                 ],
                                 0,
                                 -1,
@@ -5487,28 +4731,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "左様でございますか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "金額は１０００Ｓとなります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "よろしかったですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Is that so? The amount will be 1000 S. Is that\nalright with you?\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -5516,8 +4739,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "下着を売る",
-                                    "やめる"
+                                    "Sell panties",
+                                    "Cancel"
                                 ],
                                 1,
                                 -1,
@@ -5554,14 +4777,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "…それで頼む。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...I'll take that offer.\\n<Serena>"
                             ]
                         },
                         {
@@ -5585,21 +4801,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "承知いたしました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "ではこちらで引き取らせていただきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Understood. Then we will take it off your hands.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -5617,21 +4819,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "お代金の１０００Ｓです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "ご確認を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Here is your payment of 1000 S. Please confirm.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -5684,14 +4872,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "……うむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Yes.\\n<Serena>"
                             ]
                         },
                         {
@@ -5716,21 +4897,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "まいどありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "またのお越しをお待ちしております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Thank you as always. We look forward to your next\nvisit.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -5794,21 +4961,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "すまぬ。軽々に決断できぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "少し考えさせてほしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I apologize. I cannot decide so lightly. Please\ngive me a moment to think.\\n<Serena>"
                             ]
                         },
                         {
@@ -5833,21 +4986,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "承知いたしました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "ではこちらの下着はお返しします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Understood. Then I will return the nightwear to\nyou.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -5865,14 +5004,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "考えがお変わりになりましたらまたいつでもどうぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "If you change your mind, please feel free to visit\nus again anytime.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -5897,14 +5029,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -6060,14 +5185,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いらっしゃいませお客様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Welcome, customer.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -6105,14 +5223,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "例えどのような変態であろうと、お客様はお客様です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "No matter what kind of pervert you may be, a\ncustomer is still a customer.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -6167,21 +5278,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お客様…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そのような格好でのご来店は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Customer... coming to the shop dressed like that\nis...\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -6219,14 +5316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "道具より先に購入されるべきものがあると思いますが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "I believe there are things you should purchase\nbefore tools.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -6292,21 +5382,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これはこれはお客様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "大変結構なお召し物でございますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "My, my, customer. That is quite a splendid outfit\nyou have on.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -6344,21 +5420,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "縫製用の針糸などもございますのでよろしければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "見て行ってくださいませ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "We also have sewing needles and thread available\nif you'd like to take a look.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -6434,21 +5496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いらっしゃいませ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お子さんを迎えられる準備でしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Welcome. Are you preparing to welcome a child?\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -6486,21 +5534,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ご用命とあらば赤ちゃん用の服などもご用意させて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いただけますので。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "If you wish, we can also prepare baby clothes for\nyou.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -6534,21 +5568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいませ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何がご入用ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Welcome. What do you require?\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -6593,14 +5613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "またのお越しをお待ちしております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "We look forward to your next visit.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -6816,14 +5829,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いらっしゃいませお客様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Welcome, dear customer.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -6861,14 +5867,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "例えどのような変態であろうと、お客様はお客様です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "No matter what kind of pervert you might be, a\ncustomer is still a customer.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -6923,21 +5922,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お客様…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そのような格好でのご来店は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Dear customer... coming to the shop dressed like\nthat...\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -6975,14 +5960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "道具より先に購入されるべきものがあると思いますが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "I think there are things you should purchase\nbefore tools.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -7048,21 +6026,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これはこれはお客様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "大変結構なお召し物でございますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "My, my, dear customer. What splendid attire you\nhave on.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -7100,21 +6064,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "縫製用の針糸などもございますのでよろしければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "見て行ってくださいませ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "We also have sewing needles and thread, so please\ntake a look if you wish.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -7190,21 +6140,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いらっしゃいませ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お子さんを迎えられる準備でしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Welcome. Are you preparing to welcome a child?\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -7242,21 +6178,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ご用命とあらば赤ちゃん用の服などもご用意させて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いただけますので。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "If you need it, we can also prepare baby clothes\nfor you.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -7290,21 +6212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいませ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何がご入用ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "Welcome. What do you require?\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -7349,14 +6257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "またのお越しをお待ちしております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<道具屋>"
+                                "We look forward to your next visit.\\n<Item Shopkeeper>"
                             ]
                         },
                         {
@@ -7475,21 +6376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アペイロン？…大層な名前だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何らかの薬剤だろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Apeiron?... What a grandiose name. Could it be\nsome kind of medicine?\\n<Serena>"
                             ]
                         },
                         {
@@ -7601,14 +6488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "天秤だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a balance scale.\\n<Serena>"
                             ]
                         },
                         {
@@ -7625,14 +6505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "量り売りに使うのであろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It must be used for weighing things for sale.\\n<Serena>"
                             ]
                         },
                         {
@@ -7744,14 +6617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "革袋だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a leather bag.\\n<Serena>"
                             ]
                         },
                         {
@@ -7768,21 +6634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "商品を持ち帰るのに便利そうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういった需要を見越した配置なのであろうな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It seems convenient for carrying goods home. They\nmust have anticipated such a need with this\nplacement.\\n<Serena>"
                             ]
                         },
                         {
@@ -7894,14 +6746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "布だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's fabric.\\n<Serena>"
                             ]
                         },
                         {
@@ -7918,21 +6763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生地が厚い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カーテンには使えそうにない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The material is thick. It doesn't seem suitable\nfor curtains.\\n<Serena>"
                             ]
                         },
                         {
@@ -8044,14 +6875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "布だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's fabric.\\n<Serena>"
                             ]
                         },
                         {
@@ -8068,21 +6892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リネンか。あまり手触りはよくないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グラツィアのウールでもあればと思ったが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Linen, huh? The texture isn't very nice. I was\nhoping for some Grazia wool...\\n<Serena>"
                             ]
                         },
                         {
@@ -8194,14 +7004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スクロールだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a scroll.\\n<Serena>"
                             ]
                         },
                         {
@@ -8218,21 +7021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "脳転写式。冒険者はこんなものを常用して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に大丈夫なのであろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Brain transcription style. Is it really okay for\nadventurers to use such things regularly?\\n<Serena>"
                             ]
                         },
                         {
@@ -8344,14 +7133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a book.\\n<Serena>"
                             ]
                         },
                         {
@@ -8368,21 +7150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鏡のフクロウ？…内容は滑稽本か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり興味はないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The Mirror Owl?... Is it a comic book? I'm not\nvery interested.\\n<Serena>"
                             ]
                         },
                         {
@@ -8494,14 +7262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a shelf.\\n<Serena>"
                             ]
                         },
                         {
@@ -8518,21 +7279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中は空。この棚そのものが売り物か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は買った所で荷物にしかならんな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's empty inside. Maybe the shelf itself is for\nsale. But buying it now would just be baggage.\\n<Serena>"
                             ]
                         },
                         {
@@ -8644,14 +7391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは布…いやパピルスの巻物か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "This is cloth... no, a papyrus scroll.\\n<Serena>"
                             ]
                         },
                         {
@@ -8668,21 +7408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見るからに劣化している。開くのは少し怖いな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おそらくインテリアとして売られているものだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's visibly deteriorated. I'm a bit scared to\nopen it. It's probably sold as an interior\ndecoration.\\n<Serena>"
                             ]
                         },
                         {
@@ -8794,14 +7520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "袋だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a bag.\\n<Serena>"
                             ]
                         },
                         {
@@ -8818,21 +7537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中身はビスケットか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "非常用に買ってもよいが品質が気になるな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Are these biscuits inside? They might be good for\nemergencies, but I'm concerned about the\nquality...\\n<Serena>"
                             ]
                         },
                         {
@@ -8944,14 +7649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帽子だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a hat.\\n<Serena>"
                             ]
                         },
                         {
@@ -8968,21 +7666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何故だかわからないが帽子を被るとスプレンドールが怒る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シルエットが怖いのだろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I don't know why, but Splend-r gets angry when I\nwear a hat. Maybe it's scared of the silhouette?\\n<Serena>"
                             ]
                         },
                         {
@@ -9094,14 +7778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "箱だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a box.\\n<Serena>"
                             ]
                         },
                         {
@@ -9118,21 +7795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この箱は売り物ではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中にはどんな商品が入っていたのだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "This box isn't for sale. I wonder what kind of\nitem was inside it?\\n<Serena>"
                             ]
                         },
                         {
@@ -9244,14 +7907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "箱の中に小物が並んでいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "There are small items lined up inside the box.\\n<Serena>"
                             ]
                         },
                         {
@@ -9268,21 +7924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どれも日用品だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の私には用がないものばかりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "They're all everyday goods. None of them are of\nuse to me right now.\\n<Serena>"
                             ]
                         },
                         {
@@ -9394,14 +8036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小瓶や袋が収まっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "There are small bottles and bags tucked away.\\n<Serena>"
                             ]
                         },
                         {
@@ -9418,21 +8053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "用途がよくわからないものばかりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "馬用胡椒…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's all stuff whose purpose I don't really\nunderstand. Horse pepper...?\\n<Serena>"
                             ]
                         },
                         {
@@ -9544,14 +8165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回復薬だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a healing potion.\\n<Serena>"
                             ]
                         },
                         {
@@ -9568,14 +8182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "購入しておいてもよいだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It might be good to buy some in advance.\\n<Serena>"
                             ]
                         },
                         {
@@ -9678,14 +8285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回復薬だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a healing potion.\\n<Serena>"
                             ]
                         },
                         {
@@ -9702,21 +8302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もはや金子に用はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可能な限り購入しておくべきだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "There's no more use for money. We should buy as\nmuch as possible.\\n<Serena>"
                             ]
                         },
                         {
@@ -9828,14 +8414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "箱だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a box.\\n<Serena>"
                             ]
                         },
                         {
@@ -9852,28 +8431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "箱が邪魔して絶妙に奥の瓶に手が届かない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無論箱に乗るなり店員を呼ぶなり解決は容易だが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこまでして瓶を確かめたいわけでもない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The box is in the way, and I just can't reach the\nbottle at the back. Of course, I could easily\nsolve this by standing on the box or calling an\nemployee, but I don't really want to go to that\nmuch trouble just to check the bottle...\\n<Serena>"
                             ]
                         },
                         {
@@ -9985,14 +8543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "箱だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a box.\\n<Serena>"
                             ]
                         },
                         {
@@ -10009,21 +8560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……邪魔だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この箱のせいで奥の瓶に手が届かない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...It's in the way. I can't reach the bottle in\nthe back because of this box...\\n<Serena>"
                             ]
                         },
                         {
@@ -10135,14 +8672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a bookshelf.\\n<Serena>"
                             ]
                         },
                         {
@@ -10159,14 +8689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自由意思論…雅歌講和…読んだ事のある本ばかりだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Theories of free will... Song of Songs\ncommentary... It's all books I've read before.\\n<Serena>"
                             ]
                         },
                         {
@@ -10278,14 +8801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a bookshelf.\\n<Serena>"
                             ]
                         },
                         {
@@ -10302,21 +8818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "滑稽本の棚のようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "民衆にはこうした本のほうが人気なのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It seems to be a shelf of comic books. Perhaps\nthese are more popular with the masses.\\n<Serena>"
                             ]
                         },
                         {
@@ -10428,14 +8930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お花。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Flowers.\\n<Serena>"
                             ]
                         },
                         {
@@ -10547,14 +9042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何が何やらだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "What a mess this is.\\n<Serena>"
                             ]
                         },
                         {
@@ -10571,21 +9059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "持ち込まれた物を適当に並べているのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手鏡に外国の銅貨にやりかけの刺繍に…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Are these things just randomly placed here? A hand\nmirror, foreign coins, an unfinished embroidery...\\n<Serena>"
                             ]
                         },
                         {
@@ -10697,14 +9171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何が何やらだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "What in the world is this?\\n<Serena>"
                             ]
                         },
                         {
@@ -10721,21 +9188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "持ち込まれた物を適当に並べているのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "使い先のわからない鍵？買ってどうするのだこんなもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Are these items just haphazardly arranged? A key\nwith no known use? What am I supposed to do with\nsomething like this after buying it?\\n<Serena>"
                             ]
                         },
                         {
@@ -10847,14 +9300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "調味料が置いてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "There are condiments here.\\n<Serena>"
                             ]
                         },
                         {
@@ -10871,21 +9317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジャムにプレザーブに…ブルーベリーソースもあるぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "買っちゃおうかな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Jams, preserves... and there's even blueberry\nsauce. Maybe I should buy some...\\n<Serena>"
                             ]
                         },
                         {
@@ -10997,14 +9429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "調味料が置いてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "There are condiments placed here.\\n<Serena>"
                             ]
                         },
                         {
@@ -11021,21 +9446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらの棚のものはお酒が使われているようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったく余計な事をする…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It seems that alcohol is used in the items on this\nshelf. They really do unnecessary things...\\n<Serena>"
                             ]
                         },
                         {
@@ -11147,14 +9558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "張り紙だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a notice.\\n<Serena>"
                             ]
                         },
                         {
@@ -11171,21 +9575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員募集…。住み込み…月給２００Ｓ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一月働いて２Ｇか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Help Wanted... Live-in... Monthly salary 200S. So\nworking for a month makes 2G...\\n<Serena>"
                             ]
                         },
                         {

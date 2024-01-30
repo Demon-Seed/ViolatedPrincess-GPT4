@@ -1443,14 +1443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…あまり大したものはありませんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "...We don't have much of significance here.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -1588,21 +1581,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いらっしゃい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おやおや貴女の様なお嬢さんが当店に何の御用で？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "Welcome. Oh my, what brings a young lady like you\nto our shop?\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -1678,28 +1657,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "人に頼まれてな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "特殊な…物…と言うべきか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とにかく届け物に来たのだが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I've been asked by someone. It's a special...\nitem... I suppose. Anyway, I've come to make a\ndelivery...\\n<Serena>"
                             ]
                         },
                         {
@@ -1723,28 +1681,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…あぁ。そちらの方ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はい、当店で取り扱っております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…どうぞ、お渡しください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "...Ah, that matter. Yes, we handle such things\nhere... Please, hand it over.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -1797,14 +1734,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この…子を…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "This... child...\\n<Serena>"
                             ]
                         },
                         {
@@ -1828,28 +1758,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほほぉ。これはこれは丸々としたよい赤子だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うんうん、もう牙も生えてますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この爪なんかも良いものが採れそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "Ho ho. What a plump and healthy baby. Mhm, the\nteeth are already coming in. These claws look like\nthey could yield something good too.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -1873,14 +1782,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -1904,28 +1806,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "目玉も綺麗な形をしていますねー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "頭骨の形も後頭部が広くて良い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "母体の質が良かったんでしょうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "The eyes are beautifully shaped as well-. The\nskull has a wide occipital region, very nice. The\nmother must have been of good quality.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -1949,21 +1830,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その…何か、違和感があるのだが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その子は…どうなる？どうするつもりだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "That... Something feels off... What will happen to\nthis child? What do you intend to do?\\n<Serena>"
                             ]
                         },
                         {
@@ -1987,21 +1854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴブリン、モンスターの赤子の使い道など。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一つきりしかないでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "What use is there for a goblin, a monster's baby,\nother than one?\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -2018,28 +1871,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…あぁ！勿論本当は人間の赤子のほうがいいですよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかしそれはねぇ。ここでというのは困りますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "流石にね、そこは市も黙ってないですからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "...Ah! Of course, a human baby would be\npreferable, yes? But that would be troublesome\nhere. After all, even the city wouldn't stay\nsilent about that.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -2056,21 +1888,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ええ、とにかく当店としましてはモンスターの赤子で十分。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "需要は賄えておりますので。ええ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "Yes, anyway, for our shop, a monster's baby is\nsufficient. We can meet the demand with that. Yes.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -2087,21 +1905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ですからこうして産まれたばかりの、まだ生きている、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "質の良いのを持ってきていただけると本当に助かります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "So it really helps us when you bring in one that's\njust been born, still alive, and of good quality.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -2125,14 +1929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -2156,21 +1953,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うちは冒険者の方々とは持ちつ持たれつでやってまして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "貴女もこれを機会にどうぞご贔屓に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "Our shop has a give-and-take relationship with\nadventurers. Please consider us for your future\nneeds.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -2187,14 +1970,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "で、お返しにこれを。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "And in return for this, take this.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -2240,14 +2016,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これは…回復薬？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Is this... a healing potion?\\n<Serena>"
                             ]
                         },
                         {
@@ -2271,14 +2040,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "魔法由来のものと比べれば効果は少し劣りますがね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "It's a bit less effective compared to those\nderived from magic.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -2302,28 +2064,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポーション…体調不良にも効果はあるだろうか…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなものでも持ち帰って飲ませれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あの女性も少しは落ち着くかもしれん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "A potion... I wonder if it will work for\nmalaise...? Even something like this might help\ncalm that woman down if I bring it back and have\nher drink it.\\n<Serena>"
                             ]
                         },
                         {
@@ -2347,14 +2088,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……わかった。いただいていこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Understood. I'll take it with me.\\n<Serena>"
                             ]
                         },
                         {
@@ -2378,21 +2112,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "貴方もモンスターの赤子で困りましたらお越しください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "現金ではなく、特別な品でお返しさせていただきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "If you ever find yourself troubled by a monster's\nbaby, please come visit us. Instead of cash, we'll\nrepay you with special goods.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -2423,14 +2143,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もう二度と来る事はないと思うがな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I doubt I'll ever come again...\\n<Serena>"
                             ]
                         },
                         {
@@ -2485,14 +2198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…一旦ギルドに戻ろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...I should return to the guild for now.\\n<Serena>"
                             ]
                         },
                         {
@@ -2530,21 +2236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "魔道具店へようこそ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "実用性では表通りの道具屋にも負けませんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "Welcome to the magic tool shop. We won't be\noutdone by the tool shops on the main street when\nit comes to practicality.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -2678,14 +2370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、お客さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は何の御用ですか？"
+                                "Oh, a customer. What brings you here today?"
                             ]
                         },
                         {
@@ -2693,9 +2378,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "買い物にきた",
-                                    "魔物の子供を引き取って欲しい",
-                                    "特別な品が欲しいif(v[0176]>=1)"
+                                    "I've come to shop",
+                                    "I'd like you to take in a monster's child",
+                                    "I'm looking for something specialif(v[0176]>=1)"
                                 ],
                                 -2,
                                 0,
@@ -3421,28 +3106,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おっとっと。困りますな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "うちはモンスターの子供専門でして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "人間の子供は取り扱っておりません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "Oops, that's a bit of a problem. We specialize in\nmonster offspring here. We don't deal with human\nchildren.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -3474,12 +3138,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "やっぱりやめる",
-                                    "ゴブリンの子供if(v[1701])",
-                                    "オークの子供if(v[1702])",
-                                    "ワーグの子供if(v[1703])",
-                                    "ピッグマンの子供if(v[1704])",
-                                    "スタリオンの子供if(v[1705])"
+                                    "I'll pass after all",
+                                    "Goblin childif(v[1701])",
+                                    "Orc childif(v[1702])",
+                                    "Warg's offspringif(v[1703])",
+                                    "Pigman's childif(v[1704])",
+                                    "A stallion's offspringif(v[1705])"
                                 ],
                                 0,
                                 0,
@@ -3516,14 +3180,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そうですか。それではまたの機会に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "Is that so? Well, perhaps another time then.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -3567,8 +3224,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "ゴブリンの子",
-                                    "ゴブリンの仔の子"
+                                    "Goblin's offspring",
+                                    "Goblin's offspring"
                                 ],
                                 -2,
                                 -1,
@@ -3770,8 +3427,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "オークの子",
-                                    "オークの仔の子"
+                                    "Orc Child",
+                                    "Orc's offspring"
                                 ],
                                 -2,
                                 -1,
@@ -3973,8 +3630,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "ワーグの子",
-                                    "ワーグの仔の子"
+                                    "Warg's Child",
+                                    "Warg's offspring"
                                 ],
                                 -2,
                                 -1,
@@ -4176,8 +3833,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "ピッグマンの子",
-                                    "ピッグマンの仔の子"
+                                    "Pigman's child",
+                                    "Pigman's offspring"
                                 ],
                                 -2,
                                 -1,
@@ -4379,8 +4036,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "スタリオンの子",
-                                    "スタリオンの仔の子"
+                                    "Stallion's offspring",
+                                    "Stallion's offspring"
                                 ],
                                 -2,
                                 -1,
@@ -4587,14 +4244,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -4618,21 +4268,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "おお、これはスタリオンの赤子。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ほほぉ珍しいものを見た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "Oh, this is a stallion's offspring. Ho ho, what a\nrare sight.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4649,14 +4285,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "これはお客さんがお産みに？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "Did you give birth to this one, customer?\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4680,14 +4309,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……可笑しいか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Is it strange...\\n<Serena>"
                             ]
                         },
                         {
@@ -4711,21 +4333,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "いえ、よくその小さなお体で産めたものと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "つまりあれとの交合も生き残ったというわけで…ああ失礼。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "No, it's impressive that you were able to give\nbirth with such a small body. That means you\nsurvived mating with... that. Ah, my apologies.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4742,21 +4350,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "とにかく、貴重な物をありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "これはお礼も弾まなければなりませんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "Anyway, thank you for this valuable item. I must\ngive you a proper reward.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4773,14 +4367,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "こちら、特によく効く霊薬と…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "Here, this is an especially effective spirit\nmedicine and...\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4797,14 +4384,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それと余計かもしれませんが、お膣の軟膏を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "And this might be superfluous, but here's an\nointment for your pussy.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4848,14 +4428,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "軟膏？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ointment?\\n<Serena>"
                             ]
                         },
                         {
@@ -4879,21 +4452,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "こちらの軟膏には女性器を労わる効果がありまして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "つまりまぁ…状態を、戻す事が出来ます。少しですがね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "This ointment has effects that care for the female\ngenitals. In other words, well... it can restore\nthe condition, to some extent.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4917,14 +4476,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "…………あり、がとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Thank you.\\n<Serena>"
                             ]
                         },
                         {
@@ -4948,21 +4500,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "尻穴のほうにはまた別の軟膏がありますのでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ご入用でしたらどうぞいつでもお申し付けください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "There's also a different ointment for your ass if\nyou need it. Please feel free to ask for it\nanytime.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4990,10 +4528,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "スライムの子供if(v[1706])",
-                                    "ローパーの子供if(v[1707])",
-                                    "キメラの子供if(v[1708])",
-                                    "特に用事は無い"
+                                    "Slime offspringif(v[1706])",
+                                    "Roper offspringif(v[1707])",
+                                    "Chimera's Childif(v[1708])",
+                                    "I don't have any particular business"
                                 ],
                                 -2,
                                 0,
@@ -5096,8 +4634,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "ローパーの子",
-                                    "ローパーの仔の子"
+                                    "Roper's offspring",
+                                    "Roper's offspring"
                                 ],
                                 -2,
                                 -1,
@@ -5362,14 +4900,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そうですか。それではまたの機会に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "Is that so? Well, perhaps another time then.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -5406,14 +4937,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そうですか。それではまたの機会に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<怪しい道具屋>"
+                                "Is that so? Well, perhaps another time then.\\n<Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -5786,14 +5310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これはこれはセレナさん、何かご入用ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<アンドレ>"
+                                "Well, well, Serena-san, is there something you\nneed?\\n<Andre>"
                             ]
                         },
                         {
@@ -5831,21 +5348,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……スライムに寄生されて困っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "すまぬが薬を譲ってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...I'm troubled by a slime infestation. Forgive\nme, but could you spare some medicine?\\n<Serena>"
                             ]
                         },
                         {
@@ -5862,28 +5365,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ははぁ、下水道のスライムですか。ええ、勿論いいですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ただ、すみませんがこの瓶の中にいくらかのスライムを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "詰めて来ていただいてもよろしいでしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<アンドレ>"
+                                "Ah, the slimes from the sewer, right? Yes, of\ncourse, that's fine. However, I'm sorry to ask,\nbut could you fill this bottle with some of the\nslime before you go?\\n<Andre>"
                             ]
                         },
                         {
@@ -5901,14 +5383,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "貴様、その様な辱めを…うっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "You scoundrel, to subject me to such\nhumiliation...ugh!\\n<Serena>"
                             ]
                         },
                         {
@@ -5926,21 +5401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お辛そうですね。ただ、私も慈善事業ではありませんので…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どういたしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<アンドレ>"
+                                "You seem to be in pain. However, I'm not running a\ncharity here... What will you do?\\n<Andre>"
                             ]
                         },
                         {
@@ -5958,14 +5419,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……分かった。分かったから、その薬を譲ってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Understood. Just give me the medicine.\\n<Serena>"
                             ]
                         },
                         {
@@ -5982,21 +5436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "交渉成立ですね。厠は奥にありますので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうぞお使いください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<アンドレ>"
+                                "We have a deal then. The privy is in the back,\nplease feel free to use it.\\n<Andre>"
                             ]
                         },
                         {
@@ -6014,14 +5454,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……ううっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Ugh.\\n<Serena>"
                             ]
                         },
                         {
@@ -6063,7 +5496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（暗転、セレナのスライム排出シーン）"
+                                "(The scene fades to black, showing Serena\nexpelling the slime)"
                             ]
                         },
                         {
@@ -6081,21 +5514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（……こんな、こんな最低な方法で……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　これでは私が捕まえたあの男よりも、私は……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "(...To be reduced to such a degrading method... I\nam no better than that man I captured...)\\n<Serena>"
                             ]
                         },
                         {
@@ -6137,14 +5556,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こちらが例のスライムなのですね。……ふぅむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<アンドレ>"
+                                "So this is the infamous slime... Hmm.\\n<Andre>"
                             ]
                         },
                         {
@@ -6161,21 +5573,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ、あまりジロジロと見るな…私の体から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "出てきた物なのだぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Don't stare so intently... It came from my body.\\n<Serena>"
                             ]
                         },
                         {
@@ -6192,28 +5590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おっと、これは失礼。…しかし、セレナさんの体から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "出てきた物を眺めるだなんて、これまで何回も行ってきた事"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なのですがね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<アンドレ>"
+                                "Oh, my apologies... But then again, I've observed\nthings from Serena-san's body numerous times\nbefore.\\n<Andre>"
                             ]
                         },
                         {
@@ -6231,14 +5608,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -6255,28 +5625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ああ、重ねて失礼いたしました。それではこちらが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "スライム下しとなります。体内から一気にスライムを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "排出する事になりますので、安全な場所でお使いください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<アンドレ>"
+                                "Ah, I've been rude again. Here is the medicine to\nexpel the slime. It will cause the slime to be\nexpelled from your body all at once, so please use\nit in a safe place.\\n<Andre>"
                             ]
                         },
                         {
@@ -6294,14 +5643,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……助かる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...I'm grateful.\\n<Serena>"
                             ]
                         },
                         {
@@ -6318,14 +5660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もしよろしかったらまたスライムを持ってきてくださいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<アンドレ>"
+                                "If it's alright with you, please bring more slime\nnext time.\\n<Andre>"
                             ]
                         },
                         {
@@ -6343,14 +5678,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {

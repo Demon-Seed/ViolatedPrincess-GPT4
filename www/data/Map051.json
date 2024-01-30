@@ -4426,21 +4426,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ま…概して後ろ暗い所がある奴ほど、他人に対して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "攻撃的になるもんさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Well... it's often those with something to hide\nwho become aggressive towards others.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -4457,14 +4443,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "誰がどうとは言わんが、ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Not naming any names, of course.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -4498,28 +4477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人の数だけトラブルも起こる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これだけの都市ともなりゃ毎日何かしら事件が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "起こってるわけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "With as many people as there are, troubles are\nbound to arise. In a city this size, there's some\nkind of incident every day.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -4536,21 +4494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冒険者としちゃ飯のタネが尽きないのはいいが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たまーにたまらなく虚しくなってくるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "It's good for adventurers like us that there's\nnever a shortage of work. But sometimes, it just\nfeels unbearably empty.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -4646,14 +4590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて。俺もそろそろ行くとするかね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Well, I guess it's about time for me to head out\ntoo.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -4670,21 +4607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギルドしかツテがない冒険者はこういう時に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "食いっぱぐれる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Adventurers who only have connections with the\nguild tend to starve at times like these.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -4701,28 +4624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今はむしろ稼ぎ時なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと掘ればワンサカ需要が湧いて出る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…君もそのクチだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Right now is actually the time to make money. Just\na little digging and there's a surge of demand...\nYou're in the same boat, aren't you?\\n<Adventurer>"
                             ]
                         },
                         {
@@ -5292,14 +5194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶーひっひっ。ぶひひ、ぶひひぃ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Hee-hee-hee. Heh heh, heh heh hee...\\n<Gekuran>"
                             ]
                         },
                         {
@@ -5316,28 +5211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだよ豚。鼻歌なんか歌いやがって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずいぶんとまたご機嫌じゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Huh? What's with you, pig? Humming to yourself\nlike that. You're in a pretty good mood, aren't\nyou?\\n<Adventurer>"
                             ]
                         },
                         {
@@ -5354,21 +5228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶひひ。まぁーね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶひ、ぶひ、ぶひひっひひぃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Heh heh heh. Well, yeah? Heh, heh, hee-hee-hee!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -5385,14 +5245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……相変わらず気持ち悪い野郎だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "...You're as disgusting as ever.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -5409,21 +5262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、この依頼だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっとと処理しろよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Here, take this request. Get it done quickly.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -5440,14 +5279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶひぃー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Hee-hee-.\\n<Gekuran>"
                             ]
                         },
                         {
@@ -5518,14 +5350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んびほぉ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Mmmphooh!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -5542,14 +5367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぉ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Whoa!? What?\\n<Adventurer>"
                             ]
                         },
                         {
@@ -5566,14 +5384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶひ…ぶひひ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Heh... heh heh...!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -5590,14 +5401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とうとう狂ったか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Have you finally lost it?\\n<Adventurer>"
                             ]
                         },
                         {
@@ -5614,21 +5418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶひぃー。ぶひっひ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやちょっと、風邪を、ひいててねぇ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Hee-hee-. Heh heh. No, just a bit of a cold, you\nknow...\\n<Gekuran>"
                             ]
                         },
                         {
@@ -5645,21 +5435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんでもないよぉ。気にしないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶひんひっひっひ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "It's nothing. Don't worry about it. Hehn heh heh\nheh.\\n<Gekuran>"
                             ]
                         },
                         {
@@ -5676,14 +5452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -5879,14 +5648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ぶっひっひ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "...Heh-heh-heh.\\n<Gekuran>"
                             ]
                         },
                         {
@@ -6006,21 +5768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、ダメだよぉセレナちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人が話してる時に、急に動いたら……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "No, no, that's bad, Serena-chan! You can't just\nmove suddenly when people are talking...!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -6077,14 +5825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そう言われても、こんな格好では……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "But, but I can't help it in this situation...!\\n<Serena>"
                             ]
                         },
                         {
@@ -6101,14 +5842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしバレたらと思うと……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Just thinking about if we get caught...!\\n<Serena>"
                             ]
                         },
                         {
@@ -6132,21 +5866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶひっひ、大丈夫大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっち覗き込んでくる人なんていないしぃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Heh-heh-heh, it's okay, it's okay. No one's going\nto peek over here.\\n<Gekuran>"
                             ]
                         },
                         {
@@ -6163,28 +5883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさかあのセレナちゃんが、すっぽん裸で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕のちんちんしゃぶってるなんて思わないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰もね。ぶひっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "No one would ever think that Serena-chan is stark\nnaked, sucking on my dick. Heh-heh!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -6230,14 +5929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだしゃぶっては……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I haven't started sucking yet...\\n<Serena>"
                             ]
                         },
                         {
@@ -6261,21 +5953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ早くしゃぶろうねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、昨日約束したでしょぉ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Then let's get to it quickly. Hey, you promised\nyesterday, remember?\\n<Gekuran>"
                             ]
                         },
                         {
@@ -6292,21 +5970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕のおちんちん。こうしてしゃぶってくれる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ってさぁ～～ぁ～～～ぁあ～～……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "My dick. You said you'd suck it like\nthis~~~ah~~~ah~~~...\\n<Gekuran>"
                             ]
                         },
                         {
@@ -6352,14 +6016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Uh...\\n<Serena>"
                             ]
                         },
                         {
@@ -6405,21 +6062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう……だったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう、だが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "That's right... I did say that, but...\\n<Serena>"
                             ]
                         },
                         {
@@ -6476,14 +6119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ、我ながらどうしてこんな約束を……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ugh, I can't believe I made such a promise...\\n<Serena>"
                             ]
                         },
                         {
@@ -6507,21 +6143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら早く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しゃぶらないと終わらないよぉ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Come on, hurry up. If you don't suck it, we'll\nnever finish, right?\\n<Gekuran>"
                             ]
                         },
                         {
@@ -6567,14 +6189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぅう……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ugh...\\n<Serena>"
                             ]
                         },
                         {
@@ -6660,14 +6275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んむっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Mmmph.\\n<Serena>"
                             ]
                         },
                         {
@@ -6760,14 +6368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おほぉ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Ohhh!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -6784,21 +6385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶふ……ぶひふひひひ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また一つ、また一つ夢が叶っちゃった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Pff... hehehehe!! Another dream come true, another\none!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -6855,14 +6442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もご……ふごふも……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Muffled sounds...\\n<Serena>"
                             ]
                         },
                         {
@@ -6886,21 +6466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おへへひほ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちっちゃなお口が締め付けて……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Ohoho...! Your tiny mouth is squeezing tight...!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -6953,21 +6519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶひー…！ぶひー……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいよぉ……すごくいい……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Heh-...! Heh-...! That's good... really good...!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -7015,14 +6567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのまま頭を前後に……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Just like that, move your head back and forth...\\n<Gekuran>"
                             ]
                         },
                         {
@@ -7039,21 +6584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう…！…舌でねぶるように……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んぶひ！可愛い歯があ、当たる…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Yes...! Like that... caress with your tongue...!\nNnheh! Your cute teeth are touching...!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -7099,28 +6630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも丸くって、全然痛くない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ、これ！せ、セレナちゃんってもしかして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ乳歯が生え変わってないのかな！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "But they're so round, it doesn't hurt at all!\nCould it be... Serena-chan, do you still have your\nbaby teeth?!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -7332,14 +6842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "豚。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Pig.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -7356,14 +6859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶひ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Heh?\\n<Gekuran>"
                             ]
                         },
                         {
@@ -7380,14 +6876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "依頼。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "The request.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -7433,21 +6922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶ、ひひひ。はいはい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ローパー退治ね。はいはい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Heh, hehehe. Yes, yes. A roper extermination, got\nit.\\n<Gekuran>"
                             ]
                         },
                         {
@@ -7464,14 +6939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "...Hey.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -7488,14 +6956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶひ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Oink?\\n<Gekuran>"
                             ]
                         },
                         {
@@ -7512,14 +6973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしてそんなに深く座ってる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Why are you sitting so deeply?\\n<Adventurer>"
                             ]
                         },
                         {
@@ -7536,14 +6990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶ、ぶひ？座っちゃ悪い、かな？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Oi, oink? Is it bad to sit down, maybe?!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -7560,14 +7007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "座り方が不自然。キモい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Your way of sitting is unnatural. Creepy.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -7584,14 +7024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶ、ぶひー……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Oi, oink-...\\n<Gekuran>"
                             ]
                         },
                         {
@@ -7646,14 +7079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんかそこにいる……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Is there something there...?\\n<Adventurer>"
                             ]
                         },
                         {
@@ -7699,21 +7125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶひひ！はい依頼証書！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１０匹退治したら報告に来てねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Oink oink! Yes, here's the request form! Come back\nto report after you've exterminated 10 of them!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -7730,14 +7142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -7783,21 +7188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、いいか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうでもいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Well, whatever... doesn't matter.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -7814,14 +7205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "See ya.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8046,21 +7430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ぷひ、ぶひひ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "びっくりしたね？バレるかと思った？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "...Oink, oink oink. That was surprising, huh?\nThought I'd be caught?\\n<Gekuran>"
                             ]
                         },
                         {
@@ -8157,14 +7527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んむっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Mmmph!\\n<Serena>"
                             ]
                         },
                         {
@@ -8188,21 +7551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あ、お口そのまま、離さないでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今すっごく……いいトコ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Ah, ah, keep your mouth just like that, don't let\ngo. Right now it's... really good...\\n<Gekuran>"
                             ]
                         },
                         {
@@ -8295,21 +7644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶひひ。今日の所は、僕をイカせれたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "終了、だから……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Oink oink. For today, once you make me cum, we're\ndone...!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -8362,21 +7697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑張ってねぇセレナちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶひー、ぶひひー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Do your best Serena-chan. Oink-, oink oink-!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -8588,14 +7909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あのーすみません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "Excuse me-\\n<Man>"
                             ]
                         },
                         {
@@ -8612,14 +7926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶひ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Oink?\\n<Gekuran>"
                             ]
                         },
                         {
@@ -8636,14 +7943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "依頼を出したいんですけどもぉー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "I'd like to submit a request-\\n<Man>"
                             ]
                         },
                         {
@@ -8716,28 +8016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶひぶひ。はいはい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "申請書のほうは…あ、もう記入いただいて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはご用意のよろしい事で。……ぶひっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Oink oink. Yes yes. The application form is... ah,\nyou've already filled it in. This is well\nprepared... oink!?\\n<Gekuran>"
                             ]
                         },
                         {
@@ -8754,14 +8033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "Eh?\\n<Man>"
                             ]
                         },
                         {
@@ -8814,21 +8086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶ、っひん、ぶひん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "し、失礼……なんでもない、ぶひ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Oi, oink, oink! My apologies... it's nothing,\noink.\\n<Gekuran>"
                             ]
                         },
                         {
@@ -8845,21 +8103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オホン。……ふんふん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワーグの退治依頼ですねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Ahem... hmm hmm. A Warg extermination request,\nright.\\n<Gekuran>"
                             ]
                         },
                         {
@@ -8876,28 +8120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そろそろ羊飼いが戻ってきますのでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "露払いと言いますか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連中近頃また増えてるでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "The shepherds will be returning soon. Call it\nclearing the way. Those creatures have been\nincreasing again lately, haven't they?\\n<Man>"
                             ]
                         },
                         {
@@ -8950,21 +8173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶひぶひ。まぁ理由はどうでも……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご依頼料のほうはいかほどで？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Oink oink. Well, whatever the reason... how much\nis the request fee?\\n<Gekuran>"
                             ]
                         },
                         {
@@ -8981,21 +8190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、はい。こちらに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１３００シルバーです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "Ye-yes. Here it is. 1300 Silver.\\n<Man>"
                             ]
                         },
                         {
@@ -9012,21 +8207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶひぶひ。確かに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、一週間以内に、依頼は貼り出され……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Oink oink. Confirmed. Then, within a week, the\nrequest will be posted...!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -9090,14 +8271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ンマス……のでェ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Nngh... so...\\n<Gekuran>"
                             ]
                         },
                         {
@@ -9114,14 +8288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、だ、ダメ……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Ah, no, no...!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -9138,14 +8305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、駄目？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "No good?\\n<Man>"
                             ]
                         },
                         {
@@ -9198,14 +8358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おゥフ……んっ……！ふ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Ohh... nnh...! Phew...!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -9231,14 +8384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "で、で、出ちゃう……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "It's, it's, coming out...!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -9255,14 +8401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、何が……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "What is...?!\\n<Man>"
                             ]
                         },
                         {
@@ -9373,14 +8512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………！……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "...! ...!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -9480,14 +8612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふんーーー……！ん～～……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Hnn---...! Mmm~...\\n<Gekuran>"
                             ]
                         },
                         {
@@ -9504,14 +8629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あのォ……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "Um...?\\n<Man>"
                             ]
                         },
                         {
@@ -9604,14 +8722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふ、う……。ぶひぶ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Phew... oink oin...\\n<Gekuran>"
                             ]
                         },
                         {
@@ -9628,14 +8739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶふぅー……ぶふぶふぅー………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Puff-... puff puff-...\\n<Gekuran>"
                             ]
                         },
                         {
@@ -9652,14 +8756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひ、人を呼んできましょうか…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "Should I call someone...?\\n<Man>"
                             ]
                         },
                         {
@@ -9676,14 +8773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あぁ～……いえいえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Ahh~... no no.\\n<Gekuran>"
                             ]
                         },
                         {
@@ -9700,21 +8790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "す、すみませんねどうも。ぶひひっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでもないんですねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Sorry about that, hehe. It's nothing, really.\\n<Gekuran>"
                             ]
                         },
                         {
@@ -9818,14 +8894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう大丈ほほぉ～～ッ！！？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "I'm all good now, hoo hoo~!!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -9842,14 +8911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "?!\\n<Man>"
                             ]
                         },
                         {
@@ -9942,14 +9004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んぶひん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Ngh, oink!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -9966,14 +9021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほ、本当に大丈夫なんですか……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "Are you really okay...?\\n<Man>"
                             ]
                         },
                         {
@@ -10048,14 +9096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶひー……ぶひー……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Oink-... oink-...\\n<Gekuran>"
                             ]
                         },
                         {
@@ -10072,28 +9113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ……。はぁ……。えぇ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "も、もう落ち着きました。ぶひ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "す、スッキリ……。えがった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Ahh... haah... yes... I've calmed down now. Oink.\nThat was refreshing... glad...\\n<Gekuran>"
                             ]
                         },
                         {
@@ -10110,14 +9130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スッキリ……？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "Refreshing...?!\\n<Man>"
                             ]
                         },
                         {
@@ -10181,21 +9194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……依頼は確かに受け付けましたので。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうお帰りいただいて結構ですよ。ぶひ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "...Your request has been duly noted. You may leave\nnow, it's fine. Oink.\\n<Gekuran>"
                             ]
                         },
                         {
@@ -10212,21 +9211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そうですか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ではよろしくお願いしますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "Is that so...? Then, please take care of it.\\n<Man>"
                             ]
                         },
                         {
@@ -10422,14 +9407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "...\\n<Gekuran>"
                             ]
                         },
                         {
@@ -10486,28 +9464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぷふぅー……。セレナちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いけない子だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お仕事中の人を射精させちゃいけないんだぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Puff-... Serena-chan, you're a naughty girl. You\nshouldn't make someone ejaculate during work.\\n<Gekuran>"
                             ]
                         },
                         {
@@ -10564,14 +9521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んんむー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Mmmhm-.\\n<Serena>"
                             ]
                         },
                         {
@@ -10595,21 +9545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ。ぶひぶひ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言いつけを守ってくれてるんだ？えらいねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Ahh, oink oink. Are you following instructions?\nGood girl.\\n<Gekuran>"
                             ]
                         },
                         {
@@ -10704,14 +9640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあーそのまま、くちゅくちゅして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Then- keep going, squish squish.\\n<Gekuran>"
                             ]
                         },
                         {
@@ -10764,14 +9693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そぉー。あぁーかわいい…かわいいねぇ～…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Yes-... Ahh- you're cute... so cute~...\\n<Gekuran>"
                             ]
                         },
                         {
@@ -10824,14 +9746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん……うん……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Yeah... yeah...\\n<Gekuran>"
                             ]
                         },
                         {
@@ -10893,14 +9808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあそろそろゴックン。しようか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Now, shall we swallow soon?\\n<Gekuran>"
                             ]
                         },
                         {
@@ -10984,21 +9892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ～～ゴックン。ぶひー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいねぇ～。じゃ、お口開けて見せてぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Ahh~~ swallow. Oink. That's nice~. Now, open your\nmouth and show me.\\n<Gekuran>"
                             ]
                         },
                         {
@@ -11071,14 +9965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Mmm...\\n<Serena>"
                             ]
                         },
                         {
@@ -11102,14 +9989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶひひ！ぶひ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Oink oink! Oink!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -11173,21 +10053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、一滴も残らず……セレナちゃんに……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕の精液……！食べられちゃった……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Not a single drop left... Serena-chan...! My\nsemen...! You've eaten it all up...!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -11204,21 +10070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶひぶひひ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ね？ね？どう？美味しかった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Oink oink oink! Right? Right? How was it? Tasty?\\n<Gekuran>"
                             ]
                         },
                         {
@@ -11275,21 +10127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐっ……苦いような、しょっぱいような……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "吐き気のする味だ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Gulp... It's bitter and salty... a nauseating\ntaste...\\n<Serena>"
                             ]
                         },
                         {
@@ -11313,21 +10151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んん～～～～？おかしいなぁ～～～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セレナちゃんの大好物のはずだよねぇ～～～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Mmm~~~? That's strange~~~? It's supposed to be\nSerena-chan's favorite~~~?\\n<Gekuran>"
                             ]
                         },
                         {
@@ -11344,14 +10168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぼぉくのぉぉオぉお……精液ぃいィい……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Myyy semen~~~\\n<Gekuran>"
                             ]
                         },
                         {
@@ -11420,14 +10237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -11496,21 +10306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや……美味しくない……ものは……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんと言われようと……美味しくない……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "No... something that isn't tasty... no matter what\nyou say... won't become tasty...\\n<Serena>"
                             ]
                         },
                         {
@@ -11534,14 +10330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "?\\n<Gekuran>"
                             ]
                         },
                         {
@@ -11558,21 +10347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん……。今実際に感じている感覚を捻じ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "曲げるのは難しいって事なのかなぁ？ぶひ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Hmm... maybe it's difficult to twist the sensation\nyou're actually feeling right now, huh? Oink.\\n<Gekuran>"
                             ]
                         },
                         {
@@ -11589,21 +10364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ扱いがよくわかってないなぁ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと練習しなくちゃ。ぶひんぶひ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "I still don't quite understand how to handle it~.\nI need more practice. Oink oink.\\n<Gekuran>"
                             ]
                         },
                         {
@@ -11620,21 +10381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "幸い実験にはセレナちゃんがいくらでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "付き合ってくれるし……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Fortunately, Serena-chan is always willing to\nparticipate in experiments...\\n<Gekuran>"
                             ]
                         },
                         {
@@ -11651,14 +10398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一緒にお勉強頑張ろうねぇ～？ぶひひんぶひ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ゲクラン>"
+                                "Let's work hard on our studies together, shall\nwe~? Oink oink oink!\\n<Gekuran>"
                             ]
                         },
                         {
@@ -11715,14 +10455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "????\\n<Serena>"
                             ]
                         },
                         {
@@ -14960,14 +13693,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先にゲクラン殿から話を聞かねば。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "We must hear the story from Lord Gekuran first.\\n<Serena>"
                             ]
                         },
                         {

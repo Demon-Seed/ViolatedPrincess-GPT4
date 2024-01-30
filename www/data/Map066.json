@@ -2212,14 +2212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戻ったら死ぬって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "If we go back, we'll die!\\n<Cecilia>"
                             ]
                         },
                         {
@@ -3047,14 +3040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "早くシシリア殿の後を追おう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Let's hurry and follow after Lady Cecilia.\\n<Serena>"
                             ]
                         },
                         {
@@ -4153,14 +4139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "相手をしている暇はない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I don't have time to deal with you!\\n<Serena>"
                             ]
                         },
                         {
@@ -4265,14 +4244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "相手をしている暇はない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I don't have time to deal with you!\\n<Serena>"
                             ]
                         },
                         {
@@ -4441,14 +4413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちから上がるのは無理だ。シシリア殿の後を追おう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's impossible to go up from here. Let's follow\nafter Cecilia-sama.\\n<Serena>"
                             ]
                         },
                         {
@@ -4553,14 +4518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちから上がるのは無理だ。シシリア殿の後を追おう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's impossible to go up from here. Let's follow\nafter Cecilia-sama.\\n<Serena>"
                             ]
                         },
                         {
@@ -4665,14 +4623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戻ったら死ぬだけだ。先を急ごう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "If we go back, we'll just die. Let's hurry on\nahead.\\n<Serena>"
                             ]
                         },
                         {
@@ -4777,14 +4728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戻ったら死ぬだけだ。先を急ごう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "If we go back, we'll just die. Let's hurry on\nahead.\\n<Serena>"
                             ]
                         },
                         {
@@ -4889,14 +4833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戻ったら死ぬだけだ。先を急ごう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "If we go back, we'll just die. Let's hurry on\nahead.\\n<Serena>"
                             ]
                         },
                         {
@@ -5001,14 +4938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちから上がるのは無理だ。シシリア殿の後を追おう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's impossible to go up from here. Let's follow\nafter Cecilia-sama.\\n<Serena>"
                             ]
                         },
                         {

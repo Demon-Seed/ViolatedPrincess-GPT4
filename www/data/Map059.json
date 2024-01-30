@@ -2376,21 +2376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あまり近寄りすぎて襲われても面倒だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は先を急ごう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It would be troublesome if we get attacked by\ngetting too close. Let's hurry on ahead for now.\\n<Serena>"
                             ]
                         },
                         {
@@ -2576,7 +2562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クソッ、このスライム共次から次へと…ッ！"
+                                "Damn it, these slimes keep coming one after\nanother...!"
                             ]
                         },
                         {
@@ -2593,7 +2579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どけ！早くワシを逃がさぬか！！"
+                                "Move! Hurry up and let me escape!!"
                             ]
                         },
                         {
@@ -2610,7 +2596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "押すな！押してもスライムが…ギャァァァァ！！？？"
+                                "Don't push! Even if you push, the slime is...\nAaargh!!!??"
                             ]
                         },
                         {
@@ -2634,28 +2620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは……スライムが道を塞いでいるのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故かは知らぬが…ありがたい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま先へ進ませてもらおう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Is this... the slimes blocking the path? I don't\nknow why, but... I'm grateful! I'll take this\nchance to move forward.\\n<Serena>"
                             ]
                         },
                         {
@@ -2679,21 +2644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしこの死体は…スライムの仕業ではなさそうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か凄まじい力で無理やり壊されたような…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "But this corpse... it doesn't seem to be the work\nof slimes. It looks like it was destroyed by some\ntremendous force...\\n<Serena>"
                             ]
                         },
                         {
@@ -2717,21 +2668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何にせよ、この分なら私だけに手を回す余裕はなさそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この隙に正面突破で駆け抜けるぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Anyway, at this rate, it seems they won't have the\ncapacity to only deal with me. I'll take this\nopportunity to break through the front and run\npast.\\n<Serena>"
                             ]
                         },
                         {
@@ -2919,21 +2856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あまり近寄りすぎて襲われても面倒だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は先を急ごう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It would be troublesome if we get attacked by\ngetting too close. Let's hurry on ahead for now.\\n<Serena>"
                             ]
                         },
                         {
@@ -3475,21 +3398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あまり近寄りすぎて襲われても面倒だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は先を急ごう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It would be troublesome if we get attacked by\ngetting too close. Let's hurry on ahead for now.\\n<Serena>"
                             ]
                         },
                         {
@@ -3615,21 +3524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あまり近寄りすぎて襲われても面倒だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は先を急ごう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It would be troublesome if we get attacked for\ngetting too close. Let's hurry on ahead for now.\\n<Serena>"
                             ]
                         },
                         {
@@ -3755,21 +3650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あまり近寄りすぎて襲われても面倒だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は先を急ごう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"It would be troublesome if we get attacked by\ngetting too close. Let's hurry on ahead for now.\"\\n<Serena>"
                             ]
                         },
                         {
@@ -3895,21 +3776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あまり近寄りすぎて襲われても面倒だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は先を急ごう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"It would be troublesome if we get attacked by\ngetting too close. Let's hurry on ahead for now.\"\\n<Serena>"
                             ]
                         },
                         {

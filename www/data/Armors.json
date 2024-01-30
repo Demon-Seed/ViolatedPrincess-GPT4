@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 186,
-        "name": "本１",
+        "name": "Book 1",
         "note": "",
         "params": [
             0,
@@ -30,7 +30,7 @@
     {
         "id": 2,
         "atypeId": 2,
-        "description": "モンスターの情報が自動的に刻まれる魔書。\nモンスターについての基礎的な情報が書き込まれている。",
+        "description": "A magical tome that automatically inscribes information about\nmonsters. It contains basic information about them.",
         "etypeId": 2,
         "traits": [
             {
@@ -40,7 +40,7 @@
             }
         ],
         "iconIndex": 186,
-        "name": "モンスターの書",
+        "name": "Monster Tome",
         "note": "",
         "params": [
             0,
@@ -57,7 +57,7 @@
     {
         "id": 3,
         "atypeId": 7,
-        "description": "少女を守護する聖獣の加護。\n力でこれを打ち破る事は難しいだろう。",
+        "description": "The divine protection of the sacred beast that guards the girl. It\nwould be difficult to break through this with force.",
         "etypeId": 3,
         "traits": [
             {
@@ -67,7 +67,7 @@
             }
         ],
         "iconIndex": 160,
-        "name": "ユニコーンの加護",
+        "name": "Unicorn's Blessing",
         "note": "",
         "params": [
             0,

@@ -9171,14 +9171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "む…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hmm...?\\n<Serena>"
                             ]
                         },
                         {
@@ -9307,21 +9300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、うおー！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴブリン覚悟ぉー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<マリルー>"
+                                "Ugh, uwoah-!!! Goblins, brace yourselves-!\\n<Marilou>"
                             ]
                         },
                         {
@@ -9384,21 +9363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれは確かギルドにいた…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女もゴブリンの駆除依頼を請けていたのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "That's the girl from the guild...? Was she also\ntaking on a goblin extermination request?\\n<Serena>"
                             ]
                         },
                         {
@@ -10045,14 +10010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし。討伐完了だ。ギルドに報告へ行こう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Alright. The subjugation is complete. Let's go\nreport back to the guild.\\n<Serena>"
                             ]
                         },
                         {
@@ -10172,14 +10130,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "助けて！誰か助けてぇ―！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<マリルー>"
+                                "Help! Somebody help me-!!\\n<Marilou>"
                             ]
                         },
                         {
@@ -10279,14 +10230,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "たす、けてぇ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<マリルー>"
+                                "Help... me...\\n<Marilou>"
                             ]
                         },
                         {
@@ -10442,14 +10386,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やった…出口だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Yes... There's the exit!\\n<Serena>"
                             ]
                         },
                         {
@@ -10814,14 +10751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先にゴブリンはいない様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It seems there are no goblins ahead.\\n<Serena>"
                             ]
                         },
                         {
@@ -11048,14 +10978,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この先にゴブリンはいない様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It seems there are no goblins ahead.\\n<Serena>"
                             ]
                         },
                         {

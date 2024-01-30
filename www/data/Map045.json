@@ -6463,7 +6463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >That's enough, goblins."
+                                "\\n< Serena>That's enough, goblins."
                             ]
                         },
                         {
@@ -6531,7 +6531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I, Serena Fuoco R. Brillante D. La Gratia, have arrived...\\n< Serena >"
+                                "I, Serena Fuoco R. Brillante D. La Gratia, have\narrived...\\n< Serena>"
                             ]
                         },
                         {
@@ -6577,7 +6577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I will no longer tolerate such violent atrocities."
+                                "\\n< Serena>I will no longer tolerate such violent atrocities."
                             ]
                         },
                         {
@@ -6623,7 +6623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >If you scatter and flee, I won't bother to chase you..."
+                                "\\n< Serena>If you scatter and flee, I won't bother to chase\nyou..."
                             ]
                         },
                         {
@@ -6815,7 +6815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >It seems you're not inclined to do so. Very well."
+                                "\\n< Serena>It seems you're not inclined to do so. Very well."
                             ]
                         },
                         {
@@ -6872,7 +6872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The god who illuminates this world shall take your life and\ngrant you a shameful death!\\n< Serena >"
+                                "The god who illuminates this world shall take your\nlife and grant you a shameful death!\\n< Serena>"
                             ]
                         },
                         {
@@ -6947,7 +6947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Come at me if you dare!"
+                                "\\n< Serena>Come at me if you dare!"
                             ]
                         },
                         {
@@ -7420,7 +7420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Hmph!"
+                                "\\n< Serena>Hmph!"
                             ]
                         },
                         {
@@ -7853,7 +7853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Haah!"
+                                "\\n< Serena>Haah!"
                             ]
                         },
                         {
@@ -8162,7 +8162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >...Alright, with this..."
+                                "\\n< Serena>...Alright, with this..."
                             ]
                         },
                         {
@@ -8417,7 +8417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Tch!"
+                                "\\n< Serena>Tch!"
                             ]
                         },
                         {
@@ -8527,7 +8527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >They're still here?!"
+                                "\\n< Serena>They're still here?!"
                             ]
                         },
                         {
@@ -8754,7 +8754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Damn it, the magic stone is cracked..."
+                                "\\n< Serena>Damn it, the magic stone is cracked..."
                             ]
                         },
                         {
@@ -8825,7 +8825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Grr!"
+                                "\\n< Serena>Grr!"
                             ]
                         },
                         {
@@ -9644,7 +9644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Tsk!"
+                                "\\n< Serena>Tsk!"
                             ]
                         },
                         {
@@ -10224,7 +10224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >...This is bad. Most of the magic has come undone."
+                                "\\n< Serena>...This is bad. Most of the magic has come undone."
                             ]
                         },
                         {
@@ -10386,7 +10386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Two left, huh. Now, what to do..."
+                                "\\n< Serena>Two left, huh. Now, what to do..."
                             ]
                         },
                         {
@@ -10467,7 +10467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >..."
+                                "\\n< Serena>..."
                             ]
                         },
                         {
@@ -10808,7 +10808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >...Phew. Have they gone?"
+                                "\\n< Serena>...Phew. Have they gone?"
                             ]
                         },
                         {
@@ -11185,7 +11185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >You can relax now. They've left. Are you hurt?"
+                                "\\n< Serena>You can relax now. They've left. Are you hurt?"
                             ]
                         },
                         {
@@ -11328,7 +11328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Hmm, that's good to hear."
+                                "\\n< Serena>Hmm, that's good to hear."
                             ]
                         },
                         {
@@ -11409,7 +11409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >It's nothing serious."
+                                "\\n< Serena>It's nothing serious."
                             ]
                         },
                         {
@@ -11444,7 +11444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >(The ring is broken, but...)"
+                                "\\n< Serena>(The ring is broken, but...)"
                             ]
                         },
                         {
@@ -11490,7 +11490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >(I'll need to procure a replacement.)"
+                                "\\n< Serena>(I'll need to procure a replacement.)"
                             ]
                         },
                         {
@@ -11558,7 +11558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now, I'd like to return to town...\\n< Serena >"
+                                "Now, I'd like to return to town...\\n< Serena>"
                             ]
                         },
                         {
@@ -11639,7 +11639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've only just arrived in this area.\\n< Serena >"
+                                "I've only just arrived in this area.\\n< Serena>"
                             ]
                         },
                         {
@@ -11663,7 +11663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I don't know the way. May I ask you to guide me?\\n< Serena >"
+                                "...I don't know the way. May I ask you to guide\nme?\\n< Serena>"
                             ]
                         },
                         {

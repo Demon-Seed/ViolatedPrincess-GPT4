@@ -2349,21 +2349,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "またえらく腹の膨らんだガキが来やがったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<チンピラ>"
+                                "Huh? Another brat with a swollen belly has shown\nup, I see.\\n<Punk>"
                             ]
                         },
                         {
@@ -2390,21 +2376,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おぉん、誰だ…って、ガキじゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "迷子にでもなったのかい…ヒヒッ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<チンピラ>"
+                                "Oh, who's this... Oh, it's just a kid. Did you get\nlost or something... Heh heh.\\n<Punk>"
                             ]
                         },
                         {
@@ -2445,14 +2417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冒険者だ。ジョンとやら言う不逞の輩は貴様か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I'm an adventurer. Are you the infamous John I've\nheard about?\\n<Serena>"
                             ]
                         },
                         {
@@ -2476,21 +2441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへへ、冒険者、冒険者ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギルドからお越しかい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<チンピラ>"
+                                "Hehehe, an adventurer, huh? Did you come from the\nguild?\\n<Punk>"
                             ]
                         },
                         {
@@ -2518,21 +2469,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ジョンっつうのは俺だが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "腹ボテのガキが刺客たぁ、俺も安く見られたもんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<通り魔ジョン>"
+                                "The name's John... but if a kid with a belly like\nthat is an assassin, they must not think much of\nme.\\n<Thug John>"
                             ]
                         },
                         {
@@ -2559,21 +2496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ジョンっつうのは俺だが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お前みてえなチビが刺客たぁ、俺も安く見られたもんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<通り魔ジョン>"
+                                "The name's John... but if a runt like you is an\nassassin, they must not think much of me.\\n<Thug John>"
                             ]
                         },
                         {
@@ -2607,28 +2530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、実際安かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギルドが貴様につけた値段はたったの２００Ｓだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "乳搾り二回分だぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ah, indeed it was cheap. The guild only put a\nbounty of 200 S on your head. That's just two\nmilkings' worth.\\n<Serena>"
                             ]
                         },
                         {
@@ -2949,21 +2851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハ！だったらてめえをぶちのめしてよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "値札が間違ってる事を連中に教えてやらにゃあなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<通り魔ジョン>"
+                                "Ha! Then why don't you try to beat me down! I'll\nhave to teach those guys that they've put the\nwrong price tag on me!\\n<Thug John>"
                             ]
                         },
                         {
@@ -3001,28 +2889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは困る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "折角１００Ｓの労力で２００Ｓ儲かる仕事なのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "価格の是正は断固阻止させてもらうとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "That would be troublesome. After all, it's a job\nwhere I can earn 200 S with just 100 S worth of\neffort. I'll have to firmly prevent any price\ncorrections.\\n<Serena>"
                             ]
                         },
                         {
@@ -3678,14 +3545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふん、他愛のない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hmph, how trivial...\\n<Serena>"
                             ]
                         },
                         {
@@ -3726,14 +3586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、ギルドに報告をしてくるとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Now then, let's go report back to the guild.\\n<Serena>"
                             ]
                         },
                         {

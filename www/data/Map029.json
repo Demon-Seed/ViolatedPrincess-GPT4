@@ -4968,7 +4968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>ゴブリン如きに背は見せられぬ。"
+                                "\\n<Serena>I cannot show my back to mere goblins."
                             ]
                         },
                         {
@@ -5088,7 +5088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>声がどこから聞こえるのか確かめねば…。"
+                                "\\n<Serena>I must check where the voice is coming from..."
                             ]
                         },
                         {
@@ -5233,7 +5233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>どうやらここが奴らの本拠地か。"
+                                "\\n<Serena>It seems this is their stronghold."
                             ]
                         },
                         {
@@ -5264,14 +5264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>少々数は多いがゴブリン程度ならば問題あるまい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行くぞ！"
+                                "\\n<Serena>There are quite a few of them, but if it's just\ngoblins, there should be no problem. Let's go!"
                             ]
                         },
                         {
@@ -5492,7 +5485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>ふん、数が多いだけだったな。"
+                                "\\n<Serena>\"Hmph, there were just a lot of them.\""
                             ]
                         },
                         {
@@ -5516,7 +5509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>さて…気は進まんが、討伐の証をなにか…。"
+                                "\\n<Serena>\"Now... I'm not keen on it, but I need some proof\nof subjugation...\""
                             ]
                         },
                         {
@@ -5559,7 +5552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>…ん？"
+                                "\\n<Serena>\"...Hm?\""
                             ]
                         },
                         {
@@ -5584,7 +5577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ア…ギィイー……"
+                                "??? \"Ah...Gyiii-...\""
                             ]
                         },
                         {
@@ -5608,14 +5601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>……どこからか声が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生き残りか？"
+                                "\\n<Serena>\"...I can hear a voice from somewhere. A survivor,\nperhaps?\""
                             ]
                         },
                         {
@@ -5960,7 +5946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>ここから聞こえる。…生き残りか？"
+                                "\\n<Serena>Can you hear me from there... Are you a survivor?"
                             ]
                         },
                         {
@@ -6577,7 +6563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>ゴブリン如きに背は見せられぬ。"
+                                "\\n<Serena>I cannot show my back to mere goblins."
                             ]
                         },
                         {
@@ -6697,7 +6683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>声がどこから聞こえるのか確かめねば…。"
+                                "\\n<Serena>I must check where the voice is coming from..."
                             ]
                         },
                         {
@@ -6901,7 +6887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>ゴブリン如きに背は見せられぬ。"
+                                "\\n<Serena>I cannot show my back to mere goblins."
                             ]
                         },
                         {
@@ -7021,7 +7007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>声がどこから聞こえるのか確かめねば…。"
+                                "\\n<Serena>I must check where the voice is coming from..."
                             ]
                         },
                         {

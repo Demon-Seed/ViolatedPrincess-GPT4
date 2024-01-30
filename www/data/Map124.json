@@ -14999,14 +14999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここが略奪品の置き場か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Is this the place where they keep the plundered\ngoods?\\n<Serena>"
                             ]
                         },
                         {
@@ -15185,14 +15178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ。何度かここに引っ張り出されてよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Yeah. I've been dragged here a few times...\\n<Erika>"
                             ]
                         },
                         {
@@ -15216,14 +15202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "?\\n<Serena>"
                             ]
                         },
                         {
@@ -15247,14 +15226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや…なんでもね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "No... it's nothing.\\n<Erika>"
                             ]
                         },
                         {
@@ -15311,14 +15283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とにかくそん時に見かけて…確かこのへん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Anyway, I saw it when I was brought here before...\nIt should be around here...\\n<Erika>"
                             ]
                         },
                         {
@@ -15373,14 +15338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…酒？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Liquor?\\n<Serena>"
                             ]
                         },
                         {
@@ -15449,21 +15407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、ここの頭目が小癪な奴でよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗賊の分際で、蒸留酒なんかを集めてやがんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Yeah, the boss here is a pesky one. Despite being\na mere bandit, he's been collecting distilled\nspirits.\\n<Erika>"
                             ]
                         },
                         {
@@ -15480,21 +15424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "高ェんだぜ蒸留酒ってのは。手が出ねえってほどじゃねえに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しろ、気軽にはちょっとなー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Distilled spirits are expensive. Not too pricey to\ntouch, but not something you'd buy casually\neither.\\n<Erika>"
                             ]
                         },
                         {
@@ -15608,14 +15538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでちょいと失敬してやろうと思ってよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "So I thought I might help myself to a little...\\n<Erika>"
                             ]
                         },
                         {
@@ -15672,14 +15595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん、こりゃワインか。へぇ、年代物。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Hm, is this wine? Oh, it's vintage.\\n<Erika>"
                             ]
                         },
                         {
@@ -15714,14 +15630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何！？脱出の算段ではなかったのか？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "What?! Wasn't this supposed to be about planning\nour escape?!\\n<Serena>"
                             ]
                         },
                         {
@@ -15738,14 +15647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリカ殿、滅茶苦茶するとは言ったが、こんなのは…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Lady Erika, I said we could wreak havoc, but this\nis...!\\n<Serena>"
                             ]
                         },
                         {
@@ -15811,21 +15713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやいや、勿論脱出のために、今のは結構大事な話さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "蒸留酒ってのがミソでな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "No no, of course it's for our escape. This talk\nabout distilled spirits is actually quite\nimportant...\\n<Erika>"
                             ]
                         },
                         {
@@ -15842,21 +15730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おあつらえ向きに松明もある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結構結構。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "And conveniently, there's a torch here too. Very\ngood, very good.\\n<Erika>"
                             ]
                         },
                         {
@@ -15891,7 +15765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>？？"
+                                "\\n<Serena>??"
                             ]
                         },
                         {
@@ -16501,14 +16375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲホッ……。ケホ、エェーッホエホ！…へ！へ！へ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "*cough*...*hack*...*cough cough*!...heh! heh! heh!\\n<Erika>"
                             ]
                         },
                         {
@@ -16554,21 +16421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "火…。酒が燃えやすいとは聞いたことがあるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これほどの火勢になるとは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Fire... I've heard that alcohol burns easily, but\nI never expected it to blaze up like this...\\n<Serena>"
                             ]
                         },
                         {
@@ -16625,14 +16478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水夫がよく使う手でさ。蒸留酒は特によく燃えんだよなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "It's a common trick among sailors. Distilled\nspirits especially burn really well.\\n<Erika>"
                             ]
                         },
                         {
@@ -16656,21 +16502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "連中、火に巻かれておおわらわだ。これなら煙に紛れて楽に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "脱出できる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Those guys are in a panic because of the fire.\nWith this smoke, we can escape easily.\\n<Serena>"
                             ]
                         },
                         {
@@ -16727,14 +16559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ざまーみやがれってん……ちょい待ち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Serves them right... Hold on a sec.\\n<Erika>"
                             ]
                         },
                         {
@@ -16762,14 +16587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお、俺の装備…こんな所に打ち捨てられて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Oh, my gear... dumped here like trash...\\n<Erika>"
                             ]
                         },
                         {
@@ -16793,14 +16611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中身は…クソ、金も薬もねぇ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "The contents are... Damn, no money or medicine...\\n<Erika>"
                             ]
                         },
                         {
@@ -16850,21 +16661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お！けど馬鹿め！榴弾はそのままだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが一番価値があるってのによ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Oh! But the fools! They left the grenades! These\nare the most valuable of all!\\n<Erika>"
                             ]
                         },
                         {
@@ -16919,14 +16716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリカ殿！まごまごしていると我々まで火にまかれるぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Erika-dono! If we dawdle, we'll be caught up in\nthe fire too!\\n<Serena>"
                             ]
                         },
                         {
@@ -16983,21 +16773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかってる！くそっ鎧は諦めるしかねえか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめてベルトポーチと、あとブーツ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "I know! Damn, I guess I have to give up on the\narmor... At least let me grab my belt pouch and\nboots...\\n<Erika>"
                             ]
                         },
                         {
@@ -17088,14 +16864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪いセレナ！待たせた！これでちっとは戦えるぜ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Sorry Serena! Kept you waiting! Now I can fight a\nbit!!\\n<Erika>"
                             ]
                         },
                         {
@@ -17200,7 +16969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>行くぞ！"
+                                "\\n<Serena>Let's go!"
                             ]
                         },
                         {
@@ -18691,7 +18460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>３階に用はない。"
+                                "\\n<Serena>I have no business on the third floor."
                             ]
                         },
                         {

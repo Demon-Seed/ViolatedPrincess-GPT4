@@ -56,7 +56,7 @@
             }
         ],
         "learnings": [],
-        "name": "貴族令嬢",
+        "name": "Noble's Daughter",
         "note": "",
         "params": [
             [
@@ -943,7 +943,7 @@
             }
         ],
         "learnings": [],
-        "name": "戦士",
+        "name": "Warrior",
         "note": "",
         "params": [
             [
@@ -1821,7 +1821,7 @@
                 "skillId": 9
             }
         ],
-        "name": "魔術師",
+        "name": "Magician",
         "note": "",
         "params": [
             [
@@ -2699,7 +2699,7 @@
                 "skillId": 8
             }
         ],
-        "name": "僧侶",
+        "name": "Priest",
         "note": "",
         "params": [
             [
@@ -3566,7 +3566,7 @@
             }
         ],
         "learnings": [],
-        "name": "貴族令嬢",
+        "name": "Noble's Daughter",
         "note": "",
         "params": [
             [

@@ -10697,14 +10697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現在橋は通行止めだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "The bridge is currently closed to traffic!\\n<City Police>"
                             ]
                         },
                         {
@@ -10867,14 +10860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ。いいトコロに来たな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Oh, you've come at just the right time.\\n<City Police>"
                             ]
                         },
                         {
@@ -10899,14 +10885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "What is it...\\n<Serena>"
                             ]
                         },
                         {
@@ -10930,14 +10909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んん－？はっはっは……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Hmm? Hahaha...\\n<City Police>"
                             ]
                         },
                         {
@@ -10954,21 +10926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口の利き方がなってないぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またムショにぶち込まれたいか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "You don't know how to speak properly. Do you want\nto be thrown back in jail?\\n<City Police>"
                             ]
                         },
                         {
@@ -11011,14 +10969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っ……な……んでしょうか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Uh... what is it...?\\n<Serena>"
                             ]
                         },
                         {
@@ -11042,21 +10993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだ、愚図が。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いい加減自分の立場を弁えろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "That's right, you whiner. Learn your place\nalready.\\n<City Police>"
                             ]
                         },
                         {
@@ -11115,21 +11052,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "先輩、なんスかこいつ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "つゥか腹デッカ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Senpai, who is this? And look at that belly...\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -11157,14 +11080,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "先輩、なんスかこいつ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Senpai, who is this?\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -11200,21 +11116,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "顔も変な…いや入れ墨かぁこれ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんじゃぁー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "And what's with that weird face... oh, is that a\ntattoo? What the heck?\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -11273,14 +11175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Huh?\\n<City Police>"
                             ]
                         },
                         {
@@ -11329,21 +11224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あぁ。はは、そうか新入り。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前はあん時いなかったんだっけかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Ah, I see, you're the newbie. You weren't around\nback then, huh?\\n<City Police>"
                             ]
                         },
                         {
@@ -11361,21 +11242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あん時がどん時かは知んないスけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研修終わって配属されたの昨日なんで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "I don't know what time you're talking about, but I\njust got assigned here yesterday after finishing\ntraining.\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -11393,21 +11260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあー丁度いいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "親交を深めるって意味でも、な！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Then it's perfect timing. It's also a way to\ndeepen our camaraderie, right!\\n<City Police>"
                             ]
                         },
                         {
@@ -11432,14 +11285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...!\\n<Serena>"
                             ]
                         },
                         {
@@ -11752,14 +11598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅうううーーーぐっ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Uuuuugh---gah!!!\\n<Serena>"
                             ]
                         },
                         {
@@ -11794,21 +11633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うへーっほ、マジ入っちまいやんの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺の長チン！孕んでやがるくせにー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Uhehoho, seriously went in! My long dick! And\nyou're pregnant too?\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -11835,21 +11660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うへーっほ、マジ入っちまいやんの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺の長チン！ガキんくせにー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Uhehoho, seriously went in! My long dick! Even\nthough you're just a kid?\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -11876,21 +11687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかも二本挿し！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんだけ調教してんスかー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "And it's double penetration! How much training\nhave you been through?\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -11907,21 +11704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっは！これが市警隊の、役得って奴だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前の叔父さんに感謝しとけ、よ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Haha! This is the perk of being in the city\npolice! Be thankful to your uncle, yeah!\\n<City Police>"
                             ]
                         },
                         {
@@ -11978,14 +11761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んぅうう！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Nuuuuh!!\\n<Serena>"
                             ]
                         },
                         {
@@ -12009,14 +11785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っス！するっス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Yes! I'll do it!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -12033,21 +11802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふへっへっほ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "市警隊なんてダリぃ…！思った、けど！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Fufufuho! Thought the city police was boring...\nbut!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -12064,21 +11819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひひ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねえ先輩、こいついつでもヤリ放題スか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Hehe! Hey senpai, can we do this one anytime we\nwant?\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -12095,21 +11836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あー。一応、街中じゃあ人目につくような"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "事はするなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Ah- Just make sure not to do anything that catches\npeople's eye in the middle of town.\\n<City Police>"
                             ]
                         },
                         {
@@ -12126,21 +11853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺たちは街の治安を守らねえといけねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "市民を不安にさせちゃあマズいからよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "We have to maintain public order. We can't make\nthe citizens feel uneasy, right?\\n<City Police>"
                             ]
                         },
                         {
@@ -12157,14 +11870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ人目につかなきゃ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "So as long as it's out of sight?\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -12181,14 +11887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勿論ヤリ放題だなぁーー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Of course, it's all-you-can-do then--!!\\n<City Police>"
                             ]
                         },
                         {
@@ -12245,14 +11944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んぅううう！！！ああっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Nuuuuu!!! Ahhh!!\\n<Serena>"
                             ]
                         },
                         {
@@ -12276,14 +11968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うおお、すげえうねる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Woah, it's wriggling so much!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -12300,21 +11985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんガキケツのほうが感じやがるんス！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺もそっちが良かったかもっス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "This kid's ass feels it more! Maybe I should have\ngone for that too!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -12331,21 +12002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへ、慌てんなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからはいつでもいくらでも使えんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Hehe, don't rush. From now on, you can use it\nwhenever and however much you want.\\n<City Police>"
                             ]
                         },
                         {
@@ -12362,14 +12019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前だろうが、ケツだろうが、口だろうが…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Whether it's the front, the ass, or the mouth...!\\n<City Police>"
                             ]
                         },
                         {
@@ -12386,14 +12036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひゃほ！最高ゥオー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Hyaho! This is the best--!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -12450,21 +12093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああああっ！や……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆっく、り……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Aaaaah! No...! Please, slowly...!\\n<Serena>"
                             ]
                         },
                         {
@@ -12488,14 +12117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えひひ、濡れん濡れのくせに何ってんの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Ehehe, you're soaking wet and still saying what?\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -12512,28 +12134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "可愛い顔してさぁー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おまんこは気持ちい気持ちい言ってんよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このヤリマンビッチが！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Such a cute face and yet your pussy keeps saying\nit feels good! You slutty bitch!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -12590,14 +12191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "違う…ちが……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's not... that's not...!\\n<Serena>"
                             ]
                         },
                         {
@@ -12621,21 +12215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "胸の薄いガキんちょなのが玉に瑕だけど！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しっかり咥えこむし…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "It's a shame about the small tits on this kid! But\nshe takes it in well...!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -12652,14 +12232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なによりこんだけ上玉、なら！ひひ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Above all, she's such a fine piece! Hehe!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -12676,14 +12249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、くく、先輩、俺そろそろ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Ah, haha, senpai, I'm about to...!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -12700,21 +12266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なにぃー？もうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近頃のガキは軟弱でいかんな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "What? Already? Kids these days are too soft.\\n<City Police>"
                             ]
                         },
                         {
@@ -12731,21 +12283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁいい、記念すべき一発目だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一番奥で出してやれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Well, it's fine. It's your memorable first shot.\nLet it out deep inside.\\n<City Police>"
                             ]
                         },
                         {
@@ -12802,14 +12340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...!!\\n<Serena>"
                             ]
                         },
                         {
@@ -12844,21 +12375,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "い、いいんスか？中で出してェ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "妊婦に精液ってマズかったような…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Is it really okay? To cum inside? I thought it was\nbad to ejaculate inside a pregnant woman...\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -12875,21 +12392,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その妊婦ガキを前後からヤってんだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今更気にするな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<市警>"
+                                "You're screwing that pregnant kid from both ends.\nDon't start worrying about it now.\\n<City Police>"
                             ]
                         },
                         {
@@ -12906,21 +12409,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "第一、この腹のガキが駄目になったとして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺やお前に何か困る事があるか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Besides, even if the brat in her belly gets messed\nup, what does it matter to you or me?\\n<City Police>"
                             ]
                         },
                         {
@@ -12958,21 +12447,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "い、いいんスか？中で出してェ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こんなガキ相手に……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Is it really okay? To cum inside? With a kid like\nthis...\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -12989,28 +12464,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "がっつりハメておいて何言ってやがる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ここまできたら外で出そうが中で出そうが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何も変わらんだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<市警>"
+                                "After nailing her thoroughly, what are you saying?\nAt this point, it doesn't make any difference\nwhether you cum inside or outside.\\n<City Police>"
                             ]
                         },
                         {
@@ -13037,21 +12491,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "い、いいんスか？中で出してェ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "下手したら妊娠させちまうと思うんスけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Is it really okay? To cum inside? I mean, we might\nget her pregnant if we're not careful...\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -13068,21 +12508,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "だからどうした？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "肉便器が孕んで、誰が困る？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<市警>"
+                                "So what if we do? Who cares if a cum dumpster gets\nknocked up?\\n<City Police>"
                             ]
                         },
                         {
@@ -13119,21 +12545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。そっスね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいか！便器ガキだし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "...Right! It's fine! She's just a toilet brat!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -13190,14 +12602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "や、やめ……て……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Stop... please...!\\n<Serena>"
                             ]
                         },
                         {
@@ -13232,21 +12637,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふん。一丁前に母親ぶるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうせ父親もわからんガキだろうが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Hmph. Don't act like a mother all of a sudden.\nIt's probably a brat whose father is unknown\nanyway.\\n<City Police>"
                             ]
                         },
                         {
@@ -13273,14 +12664,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "って言ってますけどォ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "But she's saying...\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -13308,21 +12692,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あぁ、鳴き声みたいなもんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "思い切り中に欲しい時はこう言いやがる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Ah, that's just like a cry for help. When they\nreally want it inside, they say things like that.\\n<City Police>"
                             ]
                         },
                         {
@@ -13339,14 +12709,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "気にせず出しとけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Don't worry about it and just do it.\\n<City Police>"
                             ]
                         },
                         {
@@ -13373,21 +12736,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうせ毎日誰彼となく中に出されてんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "孕んだ所で種親なんぞわからん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<市警>"
+                                "She's getting cummed in every day by who knows\nwho. Even if she gets pregnant, no one will know\nwho the father is.\\n<City Police>"
                             ]
                         },
                         {
@@ -13404,14 +12753,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "気にせず出しとけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Don't worry about it and just do it.\\n<City Police>"
                             ]
                         },
                         {
@@ -13448,14 +12790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っス！っス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Yes! Yes!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -13472,14 +12807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すっすっすっスーーー！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Yes-yes-yes-YES---!!!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -13536,14 +12864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん！ぐ！あぁ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Nn! Guh! Aaah...!\\n<Serena>"
                             ]
                         },
                         {
@@ -13567,14 +12888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出っス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "I'm cumming!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -13700,14 +13014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁあ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Aaaaah!?\\n<Serena>"
                             ]
                         },
                         {
@@ -13731,21 +13038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うへー…ひほ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっべ、これが中出し…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Uhe-...hiho...damn, this is what creampie feels\nlike...\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -13762,14 +13055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ、童貞だったのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "What, you were a virgin?\\n<City Police>"
                             ]
                         },
                         {
@@ -13786,21 +13072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや経験は、年相応ありますけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最後はいつも外か避妊具なんでェ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "No, I have experience appropriate for my age,\nbut... I always pulled out or used protection...\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -13828,21 +13100,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "女の中に、生で出す、のは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これが初めて…おほほっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "This is the first time I've ever ejaculated inside\na woman, raw... ohoho!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -13869,21 +13127,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "女の中に、孕ます気で出す、のは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これが初めて…おほほっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "This is the first time I've ever ejaculated inside\na woman with the intent to impregnate... ohoho!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -13961,14 +13205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う……ぐっ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ugh...guh...\\n<Serena>"
                             ]
                         },
                         {
@@ -14003,21 +13240,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うおー……。出した……っス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "すげぇ。しかもガキで、妊婦。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Woah-...I did it...YES. It's amazing. And with a\nkid, and she's pregnant.\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -14034,21 +13257,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いいのかなァー…こんなセックス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やっちゃってぇ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Is this really okay...? This kind of sex. Doing\nit...\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -14065,14 +13274,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ならそいつが産んだガキ、引き取ってやるか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Then why don't you take care of the brat she gives\nbirth to?\\n<City Police>"
                             ]
                         },
                         {
@@ -14110,28 +13312,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うおー……。出した……っス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "中出しってこういう感じなんだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "カンドーッス……俺ェ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Woah-...I did it...YES. So this is what creampie\nfeels like... AMAZING...me...\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -14148,21 +13329,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "でもいいのかなァ本当に……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "商売女でも、こんなのさせねぇっすよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "But is it really okay...? Even hookers don't let\nyou do this, right?\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -14179,14 +13346,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ならお前がそいつの面倒見てやるか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Then are you going to take care of her?\\n<City Police>"
                             ]
                         },
                         {
@@ -14213,28 +13373,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うおー……。出した……っス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "すげぇ。これで子供できるんだ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "すげえな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Woah-...I did it...YES. This could make a\nchild...amazing...\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -14251,14 +13390,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ガキを産んだら引き取ってやるか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Will you take care of the kid after she gives\nbirth?\\n<City Police>"
                             ]
                         },
                         {
@@ -14295,21 +13427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冗談キツいっス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "便器のガキなんていらねっス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "That's a harsh joke! I don't need a toilet brat's\nkid!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -14326,21 +13444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はは、だとよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酷い奴に中出しされたもんだな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Haha, that's what you say? She got creampied by a\ncruel guy, huh?\\n<City Police>"
                             ]
                         },
                         {
@@ -14397,14 +13501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……っ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -14428,21 +13525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……っと……俺もそろそろ出しておくか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おい、支えておけよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "...Alright...I guess it's about time I let it out\ntoo. Hey, hold her steady, will you?\\n<City Police>"
                             ]
                         },
                         {
@@ -14459,21 +13542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへ、大丈夫っス！俺若いんでェ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "抜かずの二発目！ヤリヤリっス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Hehe, no problem! I'm young! Ready for a second\nround without pulling out! Let's do this!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -14490,14 +13559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そいつは頼もしい……むっ、ふ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "That's reassuring...ugh, hnn...!\\n<City Police>"
                             ]
                         },
                         {
@@ -14514,21 +13576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よしクソガキ、今度はケツだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと締めろよ、最後が大事なんだからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Alright, brat, this time it's your ass. Make sure\nyou clench tight, the end is what counts.\\n<City Police>"
                             ]
                         },
                         {
@@ -14585,14 +13633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぅう……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ugh...!\\n<Serena>"
                             ]
                         },
                         {
@@ -14616,21 +13657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぉ！締まるっス！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マジ躾けがパネェ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Oh! It's so tight!? Seriously, this training is\ninsane!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -14647,21 +13674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たっぷりおしおきをしてやったからなァ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺たちに逆らうとどうなる、か…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "We've given her plenty of punishment. She'll learn\nwhat happens when she defies us...!\\n<City Police>"
                             ]
                         },
                         {
@@ -14678,21 +13691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くく、必死よ、こいつも！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…ん、ん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Haha, she's desperate too! ...Hnn, hnn!\\n<City Police>"
                             ]
                         },
                         {
@@ -14709,14 +13708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし出すぞ、出す、出す…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Alright, I'm gonna let it out, let it out...!\\n<City Police>"
                             ]
                         },
                         {
@@ -14880,14 +13872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅううーーー！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Uuuuuh---!!!\\n<Serena>"
                             ]
                         },
                         {
@@ -14911,14 +13896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うははあ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Uwahaha...!\\n<City Police>"
                             ]
                         },
                         {
@@ -14971,21 +13949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ、相変わらずいいケツ穴だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これがただで使い放題というんだからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Huhu, as always, what a nice ass hole. To think we\ncan use this for free as much as we want.\\n<City Police>"
                             ]
                         },
                         {
@@ -15002,14 +13966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "市警隊最高っス！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "City Police is the best!!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -15026,21 +13983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだろうそうだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前もせっかくありついた特権だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Right? Right? You're also lucky to have such a\nprivilege.\\n<City Police>"
                             ]
                         },
                         {
@@ -15057,14 +14000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "市警隊にしっかり尽くせよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Make sure you serve the City Police well.\\n<City Police>"
                             ]
                         },
                         {
@@ -15081,14 +14017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Sir!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -15105,21 +14034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なかなか見どころのある奴だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後で俺らが飼ってる人犬も見せてやる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Quite an interesting one. Later, I'll show you the\nhuman dogs we keep.\\n<City Police>"
                             ]
                         },
                         {
@@ -15136,14 +14051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っスー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Sir-?\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -15200,14 +14108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ……あ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ahh...ah...\\n<Serena>"
                             ]
                         },
                         {
@@ -15426,14 +14327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よぅし！異常なし！行ってよし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Alright! All clear! You may proceed!\\n<City Police>"
                             ]
                         },
                         {
@@ -15451,14 +14345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あは、一応職務質問の体なんスね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Ahaha, so it's just a formality of a stop-and-\nfrisk, huh.\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -15507,21 +14394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、バカバカしく映るかもしれんが形式は大事だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前もよく覚えておけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Yeah, it might seem silly but protocol is\nimportant. Make sure you remember that well.\\n<City Police>"
                             ]
                         },
                         {
@@ -15539,14 +14412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っス！勉強させていただきましたっス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Sir! I've learned a lot!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -15668,21 +14534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……どうした。お前はもう用済みだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっととどこなりと失せろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "...What are you waiting for? You're no longer\nneeded. Scram wherever you want.\\n<City Police>"
                             ]
                         },
                         {
@@ -15707,14 +14559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ugh...\\n<Serena>"
                             ]
                         },
                         {
@@ -15973,21 +14818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ、また虐められに来たのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つくづく好き者だなお前も。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "What, you've come to be bullied again? You really\nare a masochist.\\n<City Police>"
                             ]
                         },
                         {
@@ -16015,21 +14846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "腹のガキも災難だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんな母親の腹に根付いてな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<市警>"
+                                "The kid in your belly is unlucky too, to be rooted\nin such a mother's womb, huh?\\n<City Police>"
                             ]
                         },
                         {
@@ -16056,21 +14873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁいい。遊んでやろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺達もいい加減うんざりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<市警>"
+                                "Well, fine. Let's play. We're pretty sick of it\ntoo.\\n<City Police>"
                             ]
                         },
                         {
@@ -17170,21 +15973,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今度は腹のガキが出るまで弄んでやるからな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "必ず来いよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<市警>"
+                                "\"Next time, I'll play with you until the brat in\nyour belly comes out! Make sure you come, got it?\"\\n<City Police>"
                             ]
                         },
                         {
@@ -17211,21 +16000,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁ、もう用済みだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さっさと消えろ。愚図が。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<市警>"
+                                "\"Ah, you're already used up. Scram quickly. You\nwhiner.\"\\n<City Police>"
                             ]
                         },
                         {
@@ -17372,14 +16147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁー…。やってらんねぇー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "*sigh*... I can't deal with this...\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -17518,21 +16286,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おっほ、デケェ腹抱えて、また遊びに来てくれたん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いいぜー、一緒に遊ぼうぜぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Oh ho, you've come to play again with that big\nbelly of yours? Nice, let's have some fun\ntogether!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -17559,21 +16313,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また来てくれたのかよーセレナちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "嬉しいッスねぇー、へへへ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "You came back again, Serena-chan! That makes me\nhappy, hehehe!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -17722,21 +16462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その腹のガキぃ、俺の種とか言わないでくれよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お前みたいな便器女と結婚とか、洒落なんねーから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Don't go around saying that brat in your belly is\nmy seed, alright? Marrying a toilet woman like you\nwould be no joke!\\n<Young City Police Officer>"
                             ]
                         },
                         {
@@ -17763,21 +16489,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はー出した出した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ありがとねぇー。おかげでスッキリッス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<若い市警>"
+                                "Ha- there it goes, there it goes. Thanks a bunch.\nI feel so refreshed now.\\n<Young City Police Officer>"
                             ]
                         },
                         {

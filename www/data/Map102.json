@@ -5359,14 +5359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの黒いの追って来てるの！？なんで！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Is that black thing chasing us?! Why?!\\n<Cecilia>"
                             ]
                         },
                         {
@@ -6734,14 +6727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああもうしつっこい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Ah, you're so persistent!\\n<Cecilia>"
                             ]
                         },
                         {
@@ -7414,14 +7400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うおおおおお！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Aaaaahhhhh!!!\\n<Cecilia>"
                             ]
                         },
                         {
@@ -7445,14 +7424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは…賞品の保管所か！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Is this... the prize storage room?\\n<Serena>"
                             ]
                         },
                         {
@@ -7476,14 +7448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいから進んで進んで！追って来とる！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Just keep going, keep going! They're chasing us!!\\n<Cecilia>"
                             ]
                         },
                         {
@@ -8635,14 +8600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "相手をしている暇はない、急ぐぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I don't have time to deal with you, we need to\nhurry!\\n<Serena>"
                             ]
                         },
                         {

@@ -6077,7 +6077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エリカ>セレナ！あぶねえ！"
+                                "\\n<Erika>Serena! Watch out!"
                             ]
                         },
                         {
@@ -6403,14 +6403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>すまぬ。だが私なら大丈夫だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの程度の矢はアファービレを貫通せぬ！"
+                                "\\n<Serena>My apologies. But I'll be fine. Arrows of that\ncaliber can't penetrate my Afa-Ville!"
                             ]
                         },
                         {
@@ -6467,21 +6460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エリカ>限界はあるだろうが！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チッ、入り口は抑えられてやがる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うかつに出られねえぜ、こりゃあ。"
+                                "\\n<Erika>There's a limit to everything! Tch, the entrance\nis being guarded. We can't carelessly make our\nmove, this is bad."
                             ]
                         },
                         {
@@ -6516,28 +6495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…私達を逃がさず、応援を待ってから襲撃をするつもりか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならばあまり時間はかけられん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは私が活路を…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...So they intend to trap us and wait for\nreinforcements before attacking. Then we can't\nafford to waste time. I must find a way out...\\n<Serena>"
                             ]
                         },
                         {
@@ -6594,14 +6552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エリカ>…いや、だから考えがあるって言っただろセレナ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさと略奪品置き場の方に行こうぜ。"
+                                "\\n<Erika>...No, that's why I said I have a plan, Serena.\nLet's quickly head to the loot storage area."
                             ]
                         },
                         {
@@ -6636,7 +6587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>……うむ。"
+                                "\\n<Serena>...Indeed."
                             ]
                         },
                         {
@@ -6864,14 +6815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エリカ>また撃たれるぜ、セレナ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "略奪品置き場は上だ。"
+                                "\\n<Erika>We're gonna get shot at again, Serena. The loot\nstorage is upstairs."
                             ]
                         },
                         {
@@ -7016,14 +6960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし、出口まで来た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Alright, we've made it to the exit.\\n<Serena>"
                             ]
                         },
                         {
@@ -7040,21 +6977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまで上手く運んだが、外に残っている盗賊も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ何人かはいるはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "We've managed well so far, but there should still\nbe some thieves left outside.\\n<Serena>"
                             ]
                         },
                         {
@@ -7071,21 +6994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そやつらとは戦闘になるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備は良いか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "We'll probably have to fight them. Are you ready?\\n<Serena>"
                             ]
                         },
                         {
@@ -7142,21 +7051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいも悪いもねえ。これ以上ここにいたら死んじまうしな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後は出たとこ勝負だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Ready or not doesn't matter. If we stay here any\nlonger, we'll die. It's do or die once we're out.\\n<Erika>"
                             ]
                         },
                         {
@@ -7180,14 +7075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし、行くぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Okay, let's go!\\n<Serena>"
                             ]
                         },
                         {
@@ -8022,7 +7910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エリカ>セレナ、ちょっと待ってくれ。"
+                                "\\n<Erika>Serena, wait a moment."
                             ]
                         },
                         {
@@ -8088,14 +7976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>どうしたのだエリカ殿？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く脱出せねば私たちまで火にまかれてしまうぞ。"
+                                "\\n<Serena>What's the matter, Lady Erika? We must escape\nquickly, or we'll be engulfed by the flames as\nwell."
                             ]
                         },
                         {
@@ -8152,14 +8033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エリカ>なぁに、すぐ済むさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…仕上げだオラァ！！"
+                                "\\n<Erika>No worries, this will be quick... Here's the\nfinishing blow!"
                             ]
                         },
                         {
@@ -8361,14 +8235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エリカ>これで唯一の逃げ道の階段は火の海だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後は焼け死ぬか飛び降りか、ご機嫌な二択だぜクソ共！"
+                                "\\n<Erika>Now, the only escape route, the stairs, are a sea\nof fire. The choice is to burn to death or jump\noff, what a delightful dilemma for these bastards!"
                             ]
                         },
                         {
@@ -8392,14 +8259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>…これで万が一の追撃も避けられそうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石だエリカ殿。"
+                                "\\n<Serena>...With this, even if by some chance they follow,\nthey should be avoidable. As expected of you, Lady\nErika."
                             ]
                         },
                         {
@@ -8456,14 +8316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エリカ>へへ、それほどでもねえよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ、行こうぜ。"
+                                "\\n<Erika>Heh, it's not that big of a deal. Now, let's go."
                             ]
                         },
                         {

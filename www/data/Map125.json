@@ -11506,14 +11506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "む。この森は川に面しているのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hmm, this forest faces a river.\\n<Serena>"
                             ]
                         },
                         {
@@ -11546,21 +11539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この川さえなければ、こうして冒険者の真似事など"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せずともスプレンドールを追えたものを…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "If it weren't for this river, I could have pursued\nSplend-r without having to play at being an\nadventurer...\\n<Serena>"
                             ]
                         },
                         {
@@ -11593,14 +11572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スプレンドール…あと少しだ。もうすぐ、この川を渡る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Splend-r... just a little further. Soon, I'll\ncross this river.\\n<Serena>"
                             ]
                         },
                         {
@@ -11624,14 +11596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうか無事でいてくれ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Please be safe...\\n<Serena>"
                             ]
                         },
                         {
@@ -11839,14 +11804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "む。この森は川に面しているのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hmm, this forest is facing a river.\\n<Serena>"
                             ]
                         },
                         {
@@ -11879,21 +11837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この川さえなければ、こうして冒険者の真似事など"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せずともスプレンドールを追えたものを…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "If it weren't for this river, I could have pursued\nSplendour without having to play at being an\nadventurer...\\n<Serena>"
                             ]
                         },
                         {
@@ -11926,14 +11870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スプレンドール…あと少しだ。もうすぐ、この川を渡る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Splendour... just a little further. Soon, I'll\ncross this river.\\n<Serena>"
                             ]
                         },
                         {
@@ -11957,14 +11894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうか無事でいてくれ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Please be safe...\\n<Serena>"
                             ]
                         },
                         {

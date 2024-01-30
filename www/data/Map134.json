@@ -2655,7 +2655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>…この辺りが目的の場所…のはずだが。"
+                                "\\n<Serena>...This should be the place we're aiming for."
                             ]
                         },
                         {
@@ -2812,21 +2812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ロープが見当たらぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目立たぬ場所に隠してあるのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...I can't find the rope. Is it hidden somewhere\ninconspicuous?\\n<Serena>"
                             ]
                         },
                         {
@@ -3027,14 +3013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダメだ、やはり見つからぬ。見つかって処分されたか…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "No good, I still can't find it. Was it found and\ndisposed of...?\\n<Serena>"
                             ]
                         },
                         {
@@ -3051,14 +3030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "早速マスターと話した通りになってしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's just as Master and I discussed.\\n<Serena>"
                             ]
                         },
                         {
@@ -3082,21 +3054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロープが破棄されていたら一度戻るという話ではあったが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "If the rope has been discarded, we were supposed\nto go back...\\n<Serena>"
                             ]
                         },
                         {
@@ -3120,21 +3078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "引き返すなどと悠長な真似はもはやできぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一分一秒、奴らの中にエリカ殿を置いておきたくない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "But I can no longer afford such leisurely actions.\nNot even for a minute or a second do I want to\nleave Erika-sama in their hands.\\n<Serena>"
                             ]
                         },
                         {
@@ -3158,21 +3102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それに…はなはだ不快な考えではあるが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "表のリンチ。今ならあちらに奴らの耳目は集まっているはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Besides... it's an utterly unpleasant thought, but\nwith the public lynching happening now, their\nattention should be focused there.\\n<Serena>"
                             ]
                         },
                         {
@@ -3196,21 +3126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "侵入を果たすには千載一遇の好機なのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この機を逃すわけにはいかぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "To infiltrate now would be a once-in-a-lifetime\nopportunity. I cannot let this chance slip by.\\n<Serena>"
                             ]
                         },
                         {
@@ -3227,14 +3143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -3289,14 +3198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "下までは私の身長で30人分程度の距離だろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The distance to the ground is about thirty times\nmy height, I suppose.\\n<Serena>"
                             ]
                         },
                         {
@@ -3313,21 +3215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "試した事はないが…この高さならアファービレで着地の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "衝撃は殺せるはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I've never tried it, but... from this height, I\nshould be able to kill the impact with Afa-Bile.\\n<Serena>"
                             ]
                         },
                         {
@@ -3351,14 +3239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "衝撃の変換と開放…。私がタイミングを間違えなければ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Converting and releasing the impact... as long as\nI don't miss the timing...\\n<Serena>"
                             ]
                         },
                         {
@@ -3475,7 +3356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>……。"
+                                "\\n<Serena>..."
                             ]
                         },
                         {
@@ -3499,7 +3380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>よし。"
+                                "\\n<Serena>Alright."
                             ]
                         },
                         {
@@ -3523,7 +3404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>…いくぞっ！"
+                                "\\n<Serena>...Here I go!"
                             ]
                         },
                         {

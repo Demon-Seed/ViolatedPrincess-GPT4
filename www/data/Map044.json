@@ -2898,14 +2898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -2929,21 +2922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、冒険者よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一つ聞かせてもらいたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "Now, adventurer, there's something I want to ask\nyou.\\n<Man>"
                             ]
                         },
                         {
@@ -2960,14 +2939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分が一体何をやったか…それは理解しているのかね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "Do you understand what you've done... what exactly\nyou're responsible for?\\n<Man>"
                             ]
                         },
                         {
@@ -2999,14 +2971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "正しい事をした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I did the right thing.\\n<Serena>"
                             ]
                         },
                         {
@@ -3031,14 +2996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…なるほど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "...I see.\\n<Man>"
                             ]
                         },
                         {
@@ -3056,21 +3014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふさわしくない者に、ふさわしくない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事が宛がわれた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "An unsuitable person was given an unsuitable job.\\n<Man>"
                             ]
                         },
                         {
@@ -3088,14 +3032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "事故とはまさに、そうして起こるもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "Accidents are precisely things that happen in such\ncases.\\n<Man>"
                             ]
                         },
                         {
@@ -3113,21 +3050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大損害。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大きな損害だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "A major loss. A significant loss indeed.\\n<Man>"
                             ]
                         },
                         {
@@ -3144,21 +3067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "逃げ散った女たちの抱える借金は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "合計５万８千Ｓ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "The total debt carried by the women who fled is\n58,000 S.\\n<Man>"
                             ]
                         },
                         {
@@ -3175,21 +3084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今回の騒動によって発生した機会損失は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "およそ３０万Ｓ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "The opportunity loss caused by this commotion is\nroughly 300,000 S.\\n<Man>"
                             ]
                         },
                         {
@@ -3206,21 +3101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さらに君には第一、第三、第四規定の違約金として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "８０万Ｓの支払い義務が発生している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "Furthermore, you have incurred a penalty of\n800,000 S for breaching the first, third, and\nfourth regulations.\\n<Man>"
                             ]
                         },
                         {
@@ -3237,28 +3118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "合計１１０万３８００Ｓ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに本件がギルドにもたらす将来的な損失を計上して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君のギルドへの負債は２００万Ｓとなった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "That brings the total to 1,103,800 S. Adding the\nfuture losses this incident will cause to the\nguild, your debt to the guild is now 2,000,000 S.\\n<Man>"
                             ]
                         },
                         {
@@ -3276,14 +3136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "異論は？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "Any objections?\\n<Man>"
                             ]
                         },
                         {
@@ -3308,14 +3161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "None.\\n<Serena>"
                             ]
                         },
                         {
@@ -3339,14 +3185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "Oh?\\n<Man>"
                             ]
                         },
                         {
@@ -3371,21 +3210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は私のやるべき事をやった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何恥じる事もない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I did what I had to do. I have nothing to be\nashamed of.\\n<Serena>"
                             ]
                         },
                         {
@@ -3410,21 +3235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そなたらはそなたらのすべき事をするがいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが公平というものだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "You all should do what you must as well. That\nwould be fair, wouldn't it?\\n<Serena>"
                             ]
                         },
                         {
@@ -3449,14 +3260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…これほどの金額、個人で返すアテがあると？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "...You have a way to repay such an amount\npersonally?\\n<Man>"
                             ]
                         },
                         {
@@ -3481,14 +3285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今の所はない。遺憾ながらな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Not at the moment, unfortunately.\\n<Serena>"
                             ]
                         },
                         {
@@ -3513,21 +3310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もちろん、冒険者を続けさせてもらえるなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いずれ返済に至る自信はあるが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Of course, if I were allowed to continue as an\nadventurer, I'm confident that I would eventually\nbe able to repay it.\\n<Serena>"
                             ]
                         },
                         {
@@ -3552,14 +3335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無論、その選択はありえない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "Naturally, that option is out of the question.\\n<Man>"
                             ]
                         },
                         {
@@ -3577,21 +3353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だがそうなると、我々は君の体という"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君が持つ唯一の資本に手をつけざるをえない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "But if that's the case, we have no choice but to\nlay our hands on your body, which is the only\ncapital you possess.\\n<Man>"
                             ]
                         },
                         {
@@ -3609,14 +3371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "問題は、どう換金するかだが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "The problem is how to monetize it.\\n<Man>"
                             ]
                         },
                         {
@@ -3679,14 +3434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "総長。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<部下>"
+                                "Chancellor.\\n<Subordinate>"
                             ]
                         },
                         {
@@ -3704,14 +3452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "I understand.\\n<Man>"
                             ]
                         },
                         {
@@ -3728,28 +3469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…冒険者セレナよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々は今回の損失に対する処置として、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君から君自身の主人たる資格をはく奪する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "...Adventurer Serena. As a measure against the\nlosses incurred this time, we hereby strip you of\nyour right to be your own master.\\n<Man>"
                             ]
                         },
                         {
@@ -3767,28 +3487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本日よりその身分を都市奴隷とし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君の主人たる資格をかけて競売にあて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もって損失を補填するものとする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "From today onwards, you will be designated as a\ncity slave, and we will auction off the right to\nbe your master in order to compensate for the\nlosses.\\n<Man>"
                             ]
                         },
                         {
@@ -3812,21 +3511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が奴隷？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教会法により王国内で奴隷の所有は禁じられているはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Me, a slave? The ownership of slaves within the\nkingdom is supposed to be forbidden by church law.\\n<Serena>"
                             ]
                         },
                         {
@@ -3850,28 +3535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君がなるのは「都市奴隷」だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "都市の中にいる限りにおいて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "移動・行動、そして財産私有の自由が制限される。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "What you will become is a 'city slave.' Within the\ncity limits, your freedom of movement, action, and\nprivate property ownership will be restricted.\\n<Man>"
                             ]
                         },
                         {
@@ -3889,28 +3553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは教会の禁じた奴隷ではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言葉が似ているのは…おお、今気づいた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはよくない…誤解を招く表現だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "This is not the slavery prohibited by the church.\nThe words may sound similar... oh, I've just\nrealized. This is not good... it's a misleading\nexpression.\\n<Man>"
                             ]
                         },
                         {
@@ -3927,21 +3570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いずれ修正される事もあるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが今の所、君は都市奴隷と呼ばれる身分となった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "It may well be corrected in time. But for now, you\nhave become what is known as a city slave.\\n<Man>"
                             ]
                         },
                         {
@@ -3966,14 +3595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…鼻もちならぬ連中だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Despicable people.\\n<Serena>"
                             ]
                         },
                         {
@@ -3997,14 +3619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいだろう。奴隷でも競売でも好きにするがいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Very well. Do as you like with me as a slave or at\nauction.\\n<Serena>"
                             ]
                         },
                         {
@@ -4021,21 +3636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが肩書がどうなろうと私は私だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "犬の首輪で狼を飼うという事がないようにな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "But no matter what title I bear, I am still\nmyself. Make sure you don't mistake a wolf for a\ndog just because of its collar.\\n<Serena>"
                             ]
                         },
                         {
@@ -4059,21 +3660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かしこい狼なら犬の首輪で満足するものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "より悪くもなりうるという事を知っているのであればな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "A wise wolf would be content with a dog's collar\nif it knew things could get much worse.\\n<Man>"
                             ]
                         },
                         {
@@ -4091,14 +3678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "連れていけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<男性>"
+                                "Take her away.\\n<Man>"
                             ]
                         },
                         {
@@ -4116,14 +3696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<部下>"
+                                "Yes sir!\\n<Subordinate>"
                             ]
                         },
                         {

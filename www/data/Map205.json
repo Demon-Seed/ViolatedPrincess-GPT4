@@ -2148,63 +2148,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　音源提供"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　月に憑かれたピエロ　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　音人　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　ちょい音　様"
+                                "\\c[14]Music provided by \\c[0]Pierrot Possessed by the\nMoon-sama, Otojin-sama, Choyne-sama"
                             ]
                         },
                         {
@@ -2219,35 +2163,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　マップ素材提供"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　コミュ将　様"
+                                "\\c[14]Map materials provided by \\c[0]Commu-Shou-sama"
                             ]
                         },
                         {
@@ -2262,266 +2178,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　スクリプト提供"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　ルさんちまん　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　トリアコンタン　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　えーしゅん　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　しぐれん　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　木星ペンギン　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　村人A　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　まっつＵＰ　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　Yanfly　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　panda　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　DarkPlasma　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　やな　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　道楽　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　マンカインド　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　tomoaky　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　Ruたん　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　ビービー　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　焼きノリ様　様"
+                                "\\c[14]Scripts provided by \\c[0]Ru-san Team-sama,\nToriacontan-sama, E-shun-sama, Shiguren-sama,\nJupiter Penguin-sama, Villager A-sama, Matts UP-\nsama, Yanfly-sama, panda-sama, DarkPlasma-sama,\nYana-sama, Douraku-sama, Mankind-sama, tomoaky-\nsama, Ru-tan-sama, BB-sama, Yakinori-sama-sama"
                             ]
                         },
                         {
@@ -2536,49 +2193,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　マップデータ提供"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　ハルマキ　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　HnapapaStudio　様"
+                                "\\c[14]Map data provided by \\c[0]Harumaki-sama,\nHnapapaStudio-sama"
                             ]
                         },
                         {
@@ -2593,35 +2208,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　フォント提供"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　JFドットAyuゴシック18　様"
+                                "\\c[14]Font provided by \\c[0]JF Dot Ayu Gothic 18-sama"
                             ]
                         },
                         {
@@ -2636,35 +2223,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　PV製作"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　KIZAWA studio　様"
+                                "\\c[14]PV Production by \\c[0]KIZAWA studio-sama"
                             ]
                         },
                         {
@@ -2679,49 +2238,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　PV協力"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　Zaku　様"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　みなとん　様"
+                                "\\c[14]PV Cooperation by \\c[0]Zaku-sama, Minaton-sama"
                             ]
                         },
                         {
@@ -2736,63 +2253,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　スペシャルサンクス"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　ルさんちまん　さん"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　いけ　さん"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　ボテ　さん"
+                                "\\c[14]Special Thanks to \\c[0]Ru-san Team-san, Ike-san,\nBote-san"
                             ]
                         },
                         {
@@ -2807,49 +2268,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　製作"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　÷÷"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　エロイベ"
+                                "\\c[14]Produced by \\c[0]÷÷ Ero Event"
                             ]
                         },
                         {

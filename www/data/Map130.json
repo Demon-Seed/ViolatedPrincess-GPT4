@@ -8312,14 +8312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>まだ目的は果たせていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "森の奥を探してみよう。"
+                                "\\n<Serena>We haven't achieved our goal yet. Let's explore\ndeeper into the forest."
                             ]
                         },
                         {
@@ -8523,14 +8516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>まだ目的は果たせていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "森の奥を探してみよう。"
+                                "\\n<Serena>We haven't achieved our goal yet. Let's explore\ndeeper into the forest."
                             ]
                         },
                         {
@@ -8734,14 +8720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>まだ目的は果たせていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "森の奥を探してみよう。"
+                                "\\n<Serena>We haven't achieved our goal yet. Let's explore\ndeeper into the forest."
                             ]
                         },
                         {
@@ -9041,14 +9020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "分かれ道…さてどちらに進んだものか…むん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "A fork in the road... Now, which way should I\ngo... Hmm?\\n<Serena>"
                             ]
                         },
                         {
@@ -9092,14 +9064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青い燐光。あれが例の蝶か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "A blue phosphorescence. Could that be the\nbutterfly in question?\\n<Serena>"
                             ]
                         },
                         {
@@ -9254,7 +9219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>森の奥に……追ってみるか。"
+                                "\\n<Serena>Into the depths of the forest... Should I give\nchase?"
                             ]
                         },
                         {
@@ -9439,14 +9404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "分かれ道…さてどちらに進んだものか…むん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "A fork in the road... Now, which way should I\ngo... Hmm?\\n<Serena>"
                             ]
                         },
                         {
@@ -9490,14 +9448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青い燐光。あれが例の蝶か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "A blue phosphorescence. Could that be the\nbutterfly in question?\\n<Serena>"
                             ]
                         },
                         {
@@ -9652,7 +9603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>森の奥に……追ってみるか。"
+                                "\\n<Serena>Into the depths of the forest... Should I give\nchase?"
                             ]
                         },
                         {
@@ -9828,7 +9779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>蝶が飛んで行ったのは左側だ。"
+                                "\\n<Serena>The butterfly flew off to the left side."
                             ]
                         },
                         {
@@ -9926,7 +9877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>蝶が飛んで行ったのは左側だ。"
+                                "\\n<Serena>The butterfly flew off to the left side."
                             ]
                         },
                         {
@@ -10451,14 +10402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>霊草は森の奥との事だが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モンスターもいるな。"
+                                "\\n<Serena>The spiritual herbs are said to be deep in the\nforest... but there are monsters too."
                             ]
                         },
                         {
@@ -10489,14 +10433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>こんな所で足止めされるわけにはいかぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手早く済まさねば。"
+                                "\\n<Serena>I can't afford to be held up in a place like this.\nI must finish this quickly."
                             ]
                         },
                         {

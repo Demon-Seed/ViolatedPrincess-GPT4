@@ -8968,14 +8968,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "むぅ…流石にこんな状態でこれ以上先に進むのは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hmm... It's really not wise to go any further in\nthis condition...\\n<Serena>"
                             ]
                         },
                         {
@@ -9023,21 +9016,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "よし、これならば問題はあるまい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "行ってみよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Alright, with this, there shouldn't be any\nproblems. Let's go ahead.\\n<Serena>"
                             ]
                         },
                         {
@@ -10444,21 +10423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水も思った程濁ってはいないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これもスライムの効果か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The water isn't as murky as I thought. Could this\nbe the effect of the slimes?\\n<Serena>"
                             ]
                         },
                         {
@@ -10482,21 +10447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確かに暮らすだけなら暮らす事もできるのかもしれん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしスライムの対処はどうしているのだ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's true that one could live here just for the\nsake of living. But how are they dealing with the\nslimes...?\\n<Serena>"
                             ]
                         },
                         {
@@ -10764,21 +10715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むぅ…構造に整合性のようなものが見えない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "都市の拡大にあわせて無計画に増築したのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hmm... I can't see any consistency in the\nstructure. Was it expanded haphazardly to match\nthe city's growth?\\n<Serena>"
                             ]
                         },
                         {
@@ -10802,14 +10739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…いや違うな。古い遺跡を転用しているのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...No, that's not it. Are they repurposing an old\nruin, perhaps?\\n<Serena>"
                             ]
                         },
                         {
@@ -10826,21 +10756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これだけの規模の下水道は王都にもないものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一都市の予算で備えられるものではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "A sewer system of this scale doesn't even exist in\nthe royal capital. It's not something a single\ncity's budget could afford.\\n<Serena>"
                             ]
                         },
                         {
@@ -10864,21 +10780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほどなるほど。それで下水として向かぬ部分は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スライムを飼って帳尻をあわせているのだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I see, I see. So the parts that don't serve as\nsewers are used to keep slimes, balancing the\nbooks that way.\\n<Serena>"
                             ]
                         },
                         {
@@ -10902,21 +10804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……いかん。ここには犯罪者の捕縛のために来たのだぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "物見遊山でいると足元を掬われる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...This won't do. I came here to capture a\ncriminal, not to sightsee. I must stay focused or\nI'll be caught off guard.\\n<Serena>"
                             ]
                         },
                         {
@@ -11156,14 +11044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…む！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Hm!?\\n<Serena>"
                             ]
                         },
                         {
@@ -11269,14 +11150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様！そこで何をしている！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "You there! What are you doing!\\n<Serena>"
                             ]
                         },
                         {
@@ -11353,14 +11227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なんでここに人が！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "W-why is there someone here!\\n<???>"
                             ]
                         },
                         {
@@ -11384,14 +11251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこになおれ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Stay right there!\\n<Serena>"
                             ]
                         },
                         {
@@ -11415,14 +11275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰が…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "Who would...!!\\n<???>"
                             ]
                         },
                         {
@@ -11620,14 +11473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんという逃げ足っ！奴がギーか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "What a quick escape! Could that person be a\nthief!?\\n<Serena>"
                             ]
                         },
                         {
@@ -11644,14 +11490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶対に逃がさん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I won't let you get away!\\n<Serena>"
                             ]
                         },
                         {
@@ -11934,14 +11773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむむ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hmm...\\n<Serena>"
                             ]
                         },
                         {
@@ -11958,14 +11790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地下だからか…何やらうそ寒いな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Is it because we're underground... It's rather\nchilly.\\n<Serena>"
                             ]
                         },
                         {
@@ -11996,21 +11821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが思っていたより臭いはない。スライムが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "汚物をすべて分解しているためであろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "But it's not as smelly as I thought it would be.\nPerhaps the slimes are decomposing all the waste?\\n<Serena>"
                             ]
                         },
                         {
@@ -12034,21 +11845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "決して心地よい環境とは言えぬがな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさとギーとやらを見つけ出してしまおう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's certainly not a comfortable environment.\nLet's hurry up and find this \"Gear\" or whatever it\nis.\\n<Serena>"
                             ]
                         },
                         {

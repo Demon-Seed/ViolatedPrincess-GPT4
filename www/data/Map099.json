@@ -7296,14 +7296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ……終点か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Phew... Is this the final stop?\\n<Adventurer>"
                             ]
                         },
                         {
@@ -7351,14 +7344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあこれで依頼完了だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "So with this, the request is complete, right?\\n<Adventurer>"
                             ]
                         },
                         {
@@ -7406,21 +7392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なわけないでしょ。肝心の奴が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ駆除できてない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女冒険者>"
+                                "As if that's the case. We still haven't\nexterminated the main target.\\n<Female Adventurer>"
                             ]
                         },
                         {
@@ -7468,21 +7440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昨日も被害報告があったって事は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遠くには行ってないはずだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女冒険者>"
+                                "There were reports of damage yesterday too, so it\nshouldn't have gone far...\\n<Female Adventurer>"
                             ]
                         },
                         {
@@ -8009,14 +7967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<オーク>"
+                                "...!!!\\n<Orc>"
                             ]
                         },
                         {
@@ -8040,14 +7991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っお……っと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Whoa... Oops.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8064,14 +8008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お出ましか。こいつだよな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "There it is. This is the one, right?\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8088,21 +8025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……金髪のガキを鎧にしたオーク。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間違いないと思うよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女冒険者>"
+                                "...A blond brat in armor, that's the orc. I'm\npretty sure of it.\\n<Female Adventurer>"
                             ]
                         },
                         {
@@ -8148,14 +8071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、ぅ……。んっ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ah, uh... mmm...\\n<Serena>"
                             ]
                         },
                         {
@@ -8179,14 +8095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エッグいのブチこまれてまぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Got a nasty one shoved in there, huh.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8203,14 +8112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あのガキ、意識はあんのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Does that kid even have any consciousness left?\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8227,14 +8129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "声かけてみるか。おい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Should we try calling out? Hey!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8350,14 +8245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ……あっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Mmm... Ah!?\\n<Serena>"
                             ]
                         },
                         {
@@ -8582,14 +8470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、いや！…あ、ああ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "No, I... Ah, ahh...!\\n<Serena>"
                             ]
                         },
                         {
@@ -8646,14 +8527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "み、見ないで…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Don't look...!\\n<Serena>"
                             ]
                         },
                         {
@@ -8677,21 +8551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今更だろ。そのままで何度も襲撃に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連れてかれてるわけだしよォ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Too late for that. You've been taken and attacked\nlike this multiple times already.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8708,14 +8568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一応聞くが、脱出は無理なんだな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Just to confirm, there's no way you can escape,\nright?\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8772,14 +8625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それができたら、こんな…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "If I could do that, then this...!\\n<Serena>"
                             ]
                         },
                         {
@@ -8803,21 +8649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかった。じゃあ攻撃が当たらないよう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "祈ってろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Got it. Then pray that my attacks don't hit you.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8834,14 +8666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肉鎧相手にゃ躊躇しねえのが鉄則でね…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "When facing a meat shield, hesitation is out of\nthe question...!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8858,14 +8683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし、やるぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Alright, let's do this!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8922,14 +8740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひ、ぐ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Eek, ugh!?\\n<Serena>"
                             ]
                         },
                         {
@@ -8953,14 +8764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁあ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Haaa!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8977,14 +8781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<オーク>"
+                                "...!!!\\n<Orc>"
                             ]
                         },
                         {
@@ -9242,14 +9039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クソッ、なんてぇ馬鹿力だ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Damn, what incredible brute strength...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9266,21 +9056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまでの雑魚オークとは一味違うな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そりゃそうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "This one's different from the usual weak orcs.\nWell, that figures.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9297,21 +9073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "３-１-１の連携でいく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フォロー任せたぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "We'll go with a 3-1-1 formation. I'm counting on\nyour support!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9328,14 +9090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あいよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女冒険者>"
+                                "Roger that!\\n<Female Adventurer>"
                             ]
                         },
                         {
@@ -9392,14 +9147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ！？ぐぅう！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ahh! Ughh!?\\n<Serena>"
                             ]
                         },
                         {
@@ -9423,14 +9171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9576,14 +9317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぐっ、うあぁ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hnggh, ugh ahh!?\\n<Serena>"
                             ]
                         },
                         {
@@ -9607,14 +9341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……おい！クソガキ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "...Hey! Brat!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9671,14 +9398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぇう…あ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Uh... ah...?\\n<Serena>"
                             ]
                         },
                         {
@@ -9702,21 +9422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アンアンうっせーんだよ！さっきからァ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気が散っ…ぐあ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Enough with the moaning! It's been non-stop and\nit's distracting... Gah!?\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9733,14 +9439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジャン！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女冒険者>"
+                                "Jump!?\\n<Female Adventurer>"
                             ]
                         },
                         {
@@ -9757,14 +9456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドラ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Thrust!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9781,14 +9473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<オーク>"
+                                "!!\\n<Orc>"
                             ]
                         },
                         {
@@ -9805,14 +9490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わ、わりーフィル…助かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Whew, that was close... Thanks for the save.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9829,21 +9507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、いつも通りとは行かねえわな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんなもん見せられながらじゃあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Well, it's not the usual routine. It's hard to\nfocus with that going on.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9900,14 +9564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、う…。わ、私の、せいで…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ugh, uhh... Is it my fault...?\\n<Serena>"
                             ]
                         },
                         {
@@ -9931,14 +9588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "来るぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Here it comes!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9955,14 +9605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クァ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Gwah!?\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9979,14 +9622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つ、か、普通に強ぇ！こいつ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "T-this thing is seriously strong...!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -10003,14 +9639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このォ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女冒険者>"
+                                "This...!\\n<Female Adventurer>"
                             ]
                         },
                         {
@@ -10027,14 +9656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アン！駄目だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Ahn! No good!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -10051,14 +9673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぇ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女冒険者>"
+                                "Eh...!\\n<Female Adventurer>"
                             ]
                         },
                         {
@@ -10126,14 +9741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んぅううう！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Nnnuuuuu!!!\\n<Serena>"
                             ]
                         },
                         {
@@ -10157,14 +9765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<オーク>"
+                                "??!!!\\n<Orc>"
                             ]
                         },
                         {
@@ -10181,14 +9782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あわ、わわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女冒険者>"
+                                "Awawa!\\n<Female Adventurer>"
                             ]
                         },
                         {
@@ -10296,14 +9890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁー…はぁー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Haa-... haa-...\\n<Serena>"
                             ]
                         },
                         {
@@ -10327,14 +9914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アン！気ぃつけろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Ahn! Watch out!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -10351,14 +9931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめんって！でもちゃんと躱したろ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女冒険者>"
+                                "Sorry! But I dodged it properly, didn't I!?\\n<Female Adventurer>"
                             ]
                         },
                         {
@@ -10375,21 +9948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁー今のはやられたと思ったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だがあのタイミングで決めれねぇってのは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Ahh, I thought I was done for that time. But not\nbeing able to finish at that timing is...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -10406,14 +9965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冷静に対応すりゃ、思った程じゃあねえのかも…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "If we stay calm, maybe it's not as bad as we\nthought...?\\n<Adventurer>"
                             ]
                         },
                         {
@@ -10430,21 +9982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "３-３-３でチクチク行くか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Let's go with a 3-3-3 rhythm. Alright!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -10501,14 +10039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ま、また何か…！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "(Something's happening again...!)\\n<Serena>"
                             ]
                         },
                         {
@@ -10525,14 +10056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（私も、こんな私にもできる事は…！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "(Even I, in this state, must have something I can\ndo...!)\\n<Serena>"
                             ]
                         },
                         {
@@ -10589,21 +10113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ、ぐっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひぅあ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Nn, guh...! Hiuah...!\\n<Serena>"
                             ]
                         },
                         {
@@ -10627,14 +10137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Ha!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -10691,14 +10194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ、うぅ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Nn, uuh...\\n<Serena>"
                             ]
                         },
                         {
@@ -10722,14 +10218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よいしょお！もういっちょッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Yoisho! And another one!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -10786,14 +10275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うううーー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Uuuu--!\\n<Serena>"
                             ]
                         },
                         {
@@ -10817,14 +10299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "！？？！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<オーク>"
+                                "!??!!!\\n<Orc>"
                             ]
                         },
                         {
@@ -10841,14 +10316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もらいーッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女冒険者>"
+                                "Gotcha!\\n<Female Adventurer>"
                             ]
                         },
                         {
@@ -10894,21 +10362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ…ぁ…ふと…硬いぃ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんで、いつもより、おっき……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ah... ah... it's so thick... why is it bigger than\nusual...\\n<Serena>"
                             ]
                         },
                         {
@@ -10932,14 +10386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…おい、あのガキ。さっきからよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "...Hey, you brat. Since earlier...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -10956,21 +10403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハァ…ハァ…あぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちが命がけで戦ってるってのに…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女冒険者>"
+                                "Haa... Haa... Ahh. Here we are fighting for our\nlives...!\\n<Female Adventurer>"
                             ]
                         },
                         {
@@ -10987,21 +10420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気にすんな。うっかり殺しちまっても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かえって気が楽ってもんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Don't worry about it. It'd be a relief if we\naccidentally killed it!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -11058,14 +10477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ち、ちが…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "That's not...!\\n<Serena>"
                             ]
                         },
                         {
@@ -11082,14 +10494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わた、しは…！そなたらの、為に…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I am...! For your sake...!\\n<Serena>"
                             ]
                         },
                         {
@@ -11146,21 +10551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ、はっ、はっ……うぁ、ふとく、なってぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、くる、どびゅどびゅがくる……っ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hah, hah, hah... it's getting thicker. Ah, it's\ncoming, the gushing is coming...\\n<Serena>"
                             ]
                         },
                         {
@@ -11226,14 +10617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んあぁぁぁぁぁ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Nnaaaaaahhh!?\\n<Serena>"
                             ]
                         },
                         {
@@ -11481,14 +10865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今だ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Now's the chance!!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -12311,14 +11688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あう、あっ……はぁ、はぁ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Auh, ah... haa, haa...\\n<Serena>"
                             ]
                         },
                         {
@@ -12342,14 +11712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ、何とかなったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Phew, somehow we managed.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -12366,21 +11729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コンビネーションの勝利だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人質も無事救出できて万々歳だぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "It's a victory for our combination. The hostage\nwas safely rescued, and all's well that ends well.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -12397,14 +11746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イェスイエス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Yes yes!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -12421,14 +11763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "で、このガキはどうする？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女冒険者>"
+                                "So, what do we do with this brat?\\n<Female Adventurer>"
                             ]
                         },
                         {
@@ -12445,14 +11780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうするもこうするも…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "What to do or how to do...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -12483,14 +11811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……んっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Nn.\\n<Serena>"
                             ]
                         },
                         {
@@ -12514,14 +11835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うげぇ、どんだけ出されたんだか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女冒険者>"
+                                "\"Ugh, how much did they let out inside.\"\\n<Female Adventurer>"
                             ]
                         },
                         {
@@ -12538,21 +11852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギルドに連れてく以外にあるか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一応救助依頼が出てるしな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "\"Is there any other option than taking her to the\nguild? There's a rescue request out for her after\nall.\"\\n<Adventurer>"
                             ]
                         },
                         {
@@ -12569,21 +11869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃああんたらが世話しなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はこういう淫売には手も触れたくない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女冒険者>"
+                                "\"Then you guys take care of her. I don't want to\nlay a finger on such a whore.\"\\n<Female Adventurer>"
                             ]
                         },
                         {
@@ -12600,21 +11886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "可哀そうだと思ったから、必死で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助けに来たってのに…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女冒険者>"
+                                "\"I thought she was pitiful, so I came to rescue\nher with all my might...!\"\\n<Female Adventurer>"
                             ]
                         },
                         {
@@ -12645,21 +11917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ、ま、待ってくれ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"Ah, wa-wait... I am...!\"\\n<Serena>"
                             ]
                         },
                         {
@@ -12683,28 +11941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいっていいって。あーんなデカチン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ブチ込まれたらアヘアヘってなっちまうのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕方ねえわな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "\"It's alright, it's alright. Getting all ahegao\nafter being rammed by such a huge dick is\ninevitable!\"\\n<Adventurer>"
                             ]
                         },
                         {
@@ -12721,21 +11958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな小さい体でもでけえチンポの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほうがいいもんなんだなー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "\"Even such a small body prefers a big cock, huh.\"\\n<Adventurer>"
                             ]
                         },
                         {
@@ -12766,21 +11989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなわけ…！あんなの、苦しくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つらくって…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"That's not it...! That was painful and tough...!\"\\n<Serena>"
                             ]
                         },
                         {
@@ -12804,21 +12013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はいはい。そういうのは帰ってから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "司祭様相手にやってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "\"Yeah yeah. Save that talk for when you're back\nand talking to the priest.\"\\n<Adventurer>"
                             ]
                         },
                         {
@@ -12835,21 +12030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おいそろそろ行かねえと我らがお姫様が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お冠だぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "\"Hey, we better get going or our princess here\nwill get cranky.\"\\n<Adventurer>"
                             ]
                         },
                         {
@@ -12880,14 +12061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぁ、ふ、服…。せめて身を隠すものを…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"Heh, my, my clothes... at least something to\ncover myself with...!\"\\n<Serena>"
                             ]
                         },
                         {
@@ -12911,14 +12085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねーよんなもんは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "\"No way, you're dreaming.\"\\n<Adventurer>"
                             ]
                         },
                         {
@@ -12935,21 +12102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほれ歩け歩け。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "命があるだけめっけもんだろが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "\"Come on, walk, walk. You should be thankful\nyou're still alive.\"\\n<Adventurer>"
                             ]
                         },
                         {
@@ -12980,14 +12133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、うう…う、う…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"Uu, uuu...uh, uh...\"\\n<Serena>"
                             ]
                         },
                         {
@@ -13382,14 +12528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クソッ、なんてぇ馬鹿力だ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Damn it, what incredible brute strength...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -13406,14 +12545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、オマケに厄介な鎧までつけやがって……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Ah, and to top it off, that troublesome armor\ntoo...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -13470,14 +12602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っ！？だがどうやって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Huh!? But how can I...\\n<Serena>"
                             ]
                         },
                         {
@@ -13494,28 +12619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな状態でも腰は振れるだろ！さっさとご自慢の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロリマンコで精液搾り取れ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それしか能のねえザコなんだからよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Even in such a state, you can still move your\nhips, can't you! Hurry up and milk out the semen\nwith your proud loli pussy!! That's all you're\ngood for, you weakling.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -13572,14 +12676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なっ！？そ、そんな事――。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Wha!? No, I can't do that--.\\n<Serena>"
                             ]
                         },
                         {
@@ -13596,21 +12693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うるせえ！いいからやりやがれ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来なきゃオークのチンコ咥えこんだままくたばりやがれ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Shut up! Just do it!! If you can't, then die with\nmy cock stuffed in your mouth!!\\n<Adventurer>"
                             ]
                         },
                         {
@@ -13667,28 +12750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（いやだ、そんな惨めで恥ずかしい……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんな大きすぎる物をいれられて、ずきずきしてる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あそこで自分からずぼずぼするなんて…。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "(No, this is so miserable and embarrassing... to\nbe penetrated by something so overly large, and to\nhave to move back and forth on it with my aching\npussy...)\\n<Serena>"
                             ]
                         },
                         {
@@ -13745,28 +12807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（…だが、命には代えられぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何よりこの事態を招いたのは私の未熟さだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これ以上迷惑もかけられぬ……っ！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "(...But my life is irreplaceable. Above all, it\nwas my lack of skill that led to this situation. I\ncan't cause any more trouble...!)\\n<Serena>"
                             ]
                         },
                         {

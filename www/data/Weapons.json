@@ -3,7 +3,7 @@
     {
         "id": 1,
         "animationId": 2,
-        "description": "セレナが愛用していた魔法の指輪。\n現在では宝石が壊れ、その能力のほとんどを消失している。",
+        "description": "A magical ring that Serena cherished. Now, with the gemstone broken,\nit has lost most of its abilities.",
         "etypeId": 1,
         "traits": [
             {
@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "壊れかけの指輪",
+        "name": "Worn-out Ring",
         "note": "",
         "params": [
             0,
@@ -36,11 +36,11 @@
     {
         "id": 2,
         "animationId": 0,
-        "description": "駆け出しの魔法使いが魔力を高めるために使用する指輪。\n気休め程度の品だが才能ある者が使えば立派な魔法の武器となる。",
+        "description": "A ring used by novice magicians to enhance their magical power. It's\nmore of a placebo, but in the hands of someone talented, it can become\na fine magical weapon.",
         "etypeId": 1,
         "traits": [],
         "iconIndex": 145,
-        "name": "低品質の指輪",
+        "name": "Poor Quality Ring",
         "note": "",
         "params": [
             0,
@@ -58,7 +58,7 @@
     {
         "id": 3,
         "animationId": 0,
-        "description": "古めかしく質素だが、一人の魔術師が生涯にわたって愛用\nし続けた、確かな性能を秘めた魔法の指輪。",
+        "description": "Old-fashioned and simple, yet a magic ring that a single magician\ncontinued to cherish throughout their life, hiding true performance\nwithin.",
         "etypeId": 1,
         "traits": [
             {
@@ -73,7 +73,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "形見の指輪",
+        "name": "Keepsake Ring",
         "note": "",
         "params": [
             0,
@@ -91,7 +91,7 @@
     {
         "id": 4,
         "animationId": 0,
-        "description": "薄汚れた安っぽい指輪だが秘めた性能は一級品。",
+        "description": "It's a dirty, cheap-looking ring, but the performance it conceals is\ntop-notch.",
         "etypeId": 1,
         "traits": [
             {
@@ -106,7 +106,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "シシリアの指輪",
+        "name": "Cecilia's Ring",
         "note": "",
         "params": [
             0,
@@ -134,7 +134,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "徴の指輪",
+        "name": "Signet Ring",
         "note": "",
         "params": [
             0,
@@ -152,7 +152,7 @@
     {
         "id": 6,
         "animationId": 0,
-        "description": "値段のつかない古びた指輪。\n魔法の指輪としてはそこそこ高い性能を秘めている。",
+        "description": "An old ring with no price tag. As a magic ring, it conceals fairly\nhigh performance.",
         "etypeId": 1,
         "traits": [
             {
@@ -167,7 +167,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "バーダンの指輪",
+        "name": "Bardan's Ring",
         "note": "",
         "params": [
             0,

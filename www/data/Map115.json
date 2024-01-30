@@ -8106,14 +8106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うう、この辺りは特にひでえな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Ugh, this area is particularly awful.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8130,14 +8123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "右も左も黒スライムだらけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "It's nothing but black slimes to the right and\nleft.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8154,14 +8140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それだけ中心に近づいてるって事だろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "That just means we're getting closer to the\ncenter.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8767,21 +8746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あった。目印だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前回のパーティーはここで引き返した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "There it is. A landmark. The last party turned\nback here.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8829,14 +8794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目標がいるとしたら、この先だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "If there's a target, it's beyond here.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8853,14 +8811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気合入れて行こうぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Let's go with all our might.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -8877,14 +8828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Oh.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9246,14 +9190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9270,14 +9207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9294,14 +9224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う……お……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Uh...oh...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9318,14 +9241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でけぇ……なんじゃっこりゃぁ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Huge... What in the world is that...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9342,14 +9258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おい、あそこだ。見ろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Hey, over there. Look.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9366,14 +9275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Ugh...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9390,21 +9292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようやくご対面か…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へ、噂ッどおり、怖気を振るう美しさ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Finally, a face-to-face encounter... Heh, just as\nthe rumors said, a beauty that strikes fear...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9444,21 +9332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "痛ましき姫君。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セレナ・ド・グラツィア……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "The pitiable princess, Serena de Gratia...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9601,14 +9475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -9632,14 +9499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゥ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ugh...\\n<Serena>"
                             ]
                         },
                         {
@@ -9663,21 +9523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大貴族のお姫様もあぁなっちゃぁな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何年この地下で、出来損ないを産み続けてるんだか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Even a great noble's princess has ended up like\nthis... Who knows how many years she's been down\nhere, birthing failures...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9694,14 +9540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確認するが、生け捕りじゃなくていいんだよな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Just to confirm, we don't need to capture her\nalive, right?\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9718,14 +9557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ。依頼は「退治」だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Yeah. The request is for 'extermination.'\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9849,21 +9681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前までは救助だったがな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "依頼主もとうとう諦めたって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "It used to be a rescue mission. But it seems the\nclient has finally given up...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -9880,14 +9698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――おい、今、彼女と目があった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "--Hey, I just made eye contact with her.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -10102,21 +9913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただの反射だろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かを見てるわけじゃあない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "It's just a reflex. She's not actually seeing\nanything.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -10133,21 +9930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…これまで何人もご同業縊り殺してンだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間違っても助けようなんて思うなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "...She's strangled many of our colleagues to death\nbefore. Don't even think about trying to save her.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -10171,21 +9954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかってるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確認しただけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "I know. Just checking.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -10202,14 +9971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし。準備できた。いつでもいいぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Alright. I'm ready. Anytime is good.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -10226,21 +9988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴さんもまだ様子見だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先手はこちらに譲ってくださるとよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "She's still watching us. The first move is ours\nfor the taking.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -10257,21 +10005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "３番で行く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上手くすりゃ初っ端で首落とせるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "We'll go with plan three. If we do it right, we\ncan take her head off from the start.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -10288,21 +10022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そろそろ終わらせてやろうぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気の毒な姫さんの地獄をよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Let's put an end to the poor princess's hell soon.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -10319,21 +10039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グラツィアからはたんまり金も出る事だしな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Yeah. We'll get a hefty sum from Gratia after\nall!!\\n<Adventurer>"
                             ]
                         },
                         {

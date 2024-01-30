@@ -4000,14 +4000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戻ってたまるか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Like I'd go back!\\n<Serena>"
                             ]
                         },
                         {
@@ -4146,14 +4139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁはぁ…やった！出口だ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "*panting*...I did it! The exit!!\\n<Serena>"
                             ]
                         },
                         {
@@ -4221,14 +4207,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はぁ、はぁ…早く、もっと早く逃げなくちゃ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "*panting*...Hurry, I have to escape faster...!\\n<Serena>"
                             ]
                         },
                         {
@@ -4271,14 +4250,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぅっ……あ、足が……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ahh...ah, my leg...!\\n<Serena>"
                             ]
                         },
                         {
@@ -4302,14 +4274,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "見つけたぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<ごろつき>"
+                                "Found you!\\n<Thug>"
                             ]
                         },
                         {
@@ -4333,14 +4298,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ひっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Eek!?\\n<Serena>"
                             ]
                         },
                         {
@@ -4364,21 +4322,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おおぃ、こっちだ！この肉便器、こんな所で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "バテてやがったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<ごろつき>"
+                                "Hey, over here! This meat toilet, she's pooped out\nright here.\\n<Thug>"
                             ]
                         },
                         {
@@ -4402,14 +4346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あっ、あっ……く、来るな…近づくな……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ah, ah...no, don't come...don't get closer...!\\n<Serena>"
                             ]
                         },
                         {
@@ -4433,14 +4370,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このクソガキが！手間かけさせやがって！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<ごろつき>"
+                                "You little shit! Making me go through all this\ntrouble!!\\n<Thug>"
                             ]
                         },
                         {
@@ -4476,14 +4406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぅっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Auh!\\n<Serena>"
                             ]
                         },
                         {
@@ -4507,28 +4430,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ったく、舐めやがって……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "二度と逃げる気が起きねえ様、お前の立場ってのを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "徹底的に叩き込んでやるからなぁ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<ごろつき>"
+                                "Seriously, you're asking for it... I'm gonna\nthoroughly pound into you your place so you'll\nnever think of running away again...!\\n<Thug>"
                             ]
                         },
                         {
@@ -4564,21 +4466,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やだ！やだぁ！もうあそこはやだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おうちにかえしてぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "No! Nooo! I don't want to go back there! Let me go\nhome!\\n<Serena>"
                             ]
                         },
                         {
@@ -4602,14 +4490,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やだぁぁぁぁぁぁぁぁぁ！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Nooooooooo!!\\n<Serena>"
                             ]
                         },
                         {
@@ -4701,14 +4582,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はぁ、はぁ……ここまで…来れば……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "*panting*...If I can just get...to here...\\n<Serena>"
                             ]
                         },
                         {
@@ -4732,14 +4606,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その後、意識を朦朧とさせながら、私は何とか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "安全な場所まで逃げ延びた…。"
+                                "Afterwards, while my consciousness was fading, I\nsomehow managed to escape to a safe place..."
                             ]
                         },
                         {

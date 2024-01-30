@@ -3459,14 +3459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>さて、情報によるとこの辺りのはずだが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "注意して進むとしよう。"
+                                "\\n<Serena>Well, according to the information, it should be\naround here... Let's proceed with caution."
                             ]
                         },
                         {
@@ -4556,14 +4549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…人の気配はしないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...There's no sign of anyone around.\\n<Serena>"
                             ]
                         },
                         {
@@ -4580,14 +4566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "放棄された木こり小屋、といった所か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It looks like an abandoned lumberjack's cabin.\\n<Serena>"
                             ]
                         },
                         {
@@ -4723,14 +4702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壺だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a pot.\\n<Serena>"
                             ]
                         },
                         {
@@ -4747,14 +4719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "枯れ葉とか、そんなものしか入っていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "There's nothing in it but dead leaves and such.\\n<Serena>"
                             ]
                         },
                         {
@@ -4859,14 +4824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "樽だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a barrel.\\n<Serena>"
                             ]
                         },
                         {
@@ -4883,14 +4841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見るからに汚そうだ。触るのはやめておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It looks filthy. I'd better not touch it.\\n<Serena>"
                             ]
                         },
                         {

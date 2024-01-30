@@ -6096,21 +6096,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こいつは以前倒したはずだが…まぁよい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何度でも倒すまでだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I thought we had defeated this one before... Well,\nno matter. We'll just have to defeat it as many\ntimes as it takes.\\n<Serena>"
                             ]
                         },
                         {
@@ -6165,14 +6151,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今度は負けぬぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "This time, I won't lose!\\n<Serena>"
                             ]
                         },
                         {

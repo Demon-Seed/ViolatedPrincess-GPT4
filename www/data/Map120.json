@@ -17233,7 +17233,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<セレナ>まだゴブリンが残っている。"
+                                "\\n<Serena>There are still goblins left."
                             ]
                         },
                         {
@@ -17532,7 +17532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>依頼を終えるまで戻るつもりはない！"
+                                "\\n<Serena>I have no intention of returning until I've\ncompleted the request!"
                             ]
                         },
                         {
@@ -17757,7 +17757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>依頼を終えるまで戻るつもりはない！"
+                                "\\n<Serena>I have no intention of returning until the request\nis complete!"
                             ]
                         },
                         {
@@ -17982,7 +17982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>依頼を終えるまで戻るつもりはない！"
+                                "\\n<Serena>I have no intention of returning until the request\nis complete!"
                             ]
                         },
                         {

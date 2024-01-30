@@ -3801,14 +3801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Welcome.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -3839,14 +3832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "湯あみをしたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I'd like to take a bath.\\n<Serena>"
                             ]
                         },
                         {
@@ -3870,14 +3856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…の、だが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...but...\\n<Serena>"
                             ]
                         },
                         {
@@ -3901,14 +3880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Hm?\\n<Receptionist>"
                             ]
                         },
                         {
@@ -3932,21 +3904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いささか懐具合に余裕がなくてな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いかほど支払えば良いであろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I'm a bit short on funds... How much do I need to\npay?\\n<Serena>"
                             ]
                         },
                         {
@@ -3970,21 +3928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一見さんかい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちは一回の入浴につき５Ｓいただくよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<番台>"
+                                "First time here? It's 5S for one bath.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -4026,14 +3970,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おお。それくらいならまぁ…支払える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Oh. If it's that much, well... I can pay.\\n<Serena>"
                             ]
                         },
                         {
@@ -4097,21 +4034,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うぅ、やはり痛すぎる出費。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "手持ちからするとギリギリだが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ugh, it's still quite a painful expense. It's\nbarely within my budget...\\n<Serena>"
                             ]
                         },
                         {
@@ -4135,21 +4058,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いい加減我慢も限界だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "入らせていただこう……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I can't stand it anymore. I'll take that bath...\\n<Serena>"
                             ]
                         },
                         {
@@ -4223,14 +4132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "むぅ…やはり足りぬな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Mmm... still not enough, huh...\\n<Serena>"
                             ]
                         },
                         {
@@ -4254,21 +4156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それじゃあ入れてやるわけにゃいかんな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "母ちゃんの手伝いでもしてお駄賃稼いできな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Then I can't let you in. Why don't you help out\naround here to earn some pocket money?\\n<Receptionist>"
                             ]
                         },
                         {
@@ -4292,14 +4180,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ugh...\\n<Serena>"
                             ]
                         },
                         {
@@ -4378,14 +4259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "５Ｓだ。更衣室は？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's 5S. Where is the changing room?\\n<Serena>"
                             ]
                         },
                         {
@@ -4409,14 +4283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "右っ側。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<番台>"
+                                "To the right.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -4440,21 +4307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "脱いだ服は適当な篭の中に入れりゃいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "篭の中のタオルは好きに使ってくんな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Just put your clothes in any basket. Feel free to\nuse the towels in the baskets as well.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -4471,14 +4324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奥から出ればそのまま女湯だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<番台>"
+                                "If you go out the back, you'll be right in the\nwomen's bath.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -4502,14 +4348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。うむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I see. I see.\\n<Serena>"
                             ]
                         },
                         {
@@ -4533,21 +4372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "支払いは日が沈むまで有効だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その日のうちなら何度入りなおしてもらっても構わねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<番台>"
+                                "The payment is valid until sunset. You can re-\nenter as many times as you want within the day.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -4564,21 +4389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それと、浴場内でのトラブルに俺は関わらねえからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗難だのなんだのは自分で気をつけてくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Also, I won't get involved with any trouble inside\nthe bathhouse. Be careful with theft and such on\nyour own.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -4602,21 +4413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは……。そういうものか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Is that so... Understood.\\n<Serena>"
                             ]
                         },
                         {
@@ -4640,14 +4437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "後はお好きにどうぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<番台>"
+                                "The rest is up to you.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -4671,14 +4461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Indeed.\\n<Serena>"
                             ]
                         },
                         {
@@ -4932,8 +4715,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入浴する（５S）",
-                                    "やめる"
+                                    "Take a bath (5S)",
+                                    "Stop"
                                 ],
                                 2,
                                 0,
@@ -4981,14 +4764,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（手持ちのお金が足りぬ……。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "(I don't have enough money on hand...)\\n<Serena>"
                             ]
                         },
                         {
@@ -5040,14 +4816,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "まいどぉ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Welcome back.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -5194,14 +4963,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あまり、他のお客さんの迷惑にならんように頼むよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Please try not to be too much of a bother to the\nother guests, okay?\\n<Receptionist>"
                             ]
                         },
                         {
@@ -5239,14 +5001,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お盛んで結構結構……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<番台>"
+                                "It's fine to be enthusiastic, very good...\\n<Receptionist>"
                             ]
                         },
                         {
@@ -5273,14 +5028,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "中で揉め事を起こすんじゃねえぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Don't start any trouble inside, got it?\\n<Receptionist>"
                             ]
                         },
                         {
@@ -6153,14 +5901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "樽だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a barrel.\\n<Serena>"
                             ]
                         },
                         {
@@ -6177,21 +5918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何らかの用途を思わせるが判然としない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう見せかけてただの飾りかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It suggests some sort of use, but it's not clear.\nIt might just be a decoration after all.\\n<Serena>"
                             ]
                         },
                         {
@@ -6296,21 +6023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁっ、はぁっ！な、何とか逃げ切れたか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちまで追って来る様子はないが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "*panting* *panting*! Did I somehow manage to\nescape...? It doesn't seem like they're following\nme this way...\\n<Serena>"
                             ]
                         },
                         {
@@ -6334,14 +6047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……手早く着替えて、ここから離れよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...I need to change quickly and get away from\nhere.\\n<Serena>"
                             ]
                         },
                         {
@@ -6883,14 +6589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだお金を払っていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "You haven't paid yet.\\n<Serena>"
                             ]
                         },
                         {
@@ -7294,14 +6993,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -7325,14 +7017,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "よぅ湯加減は……なんだよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<番台>"
+                                "How's the water temperature... what is it?\\n<Receptionist>"
                             ]
                         },
                         {
@@ -7363,21 +7048,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "その……浴場の中での……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "行為についてなのだが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's about... the acts inside the bathhouse...\\n<Serena>"
                             ]
                         },
                         {
@@ -7401,14 +7072,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "行為？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Acts?\\n<Receptionist>"
                             ]
                         },
                         {
@@ -7432,14 +7096,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "男性と女性の……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Between men and women...\\n<Serena>"
                             ]
                         },
                         {
@@ -7463,14 +7120,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ああ、売春の現場でも見たのかい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Ah, did you see a scene of prostitution?\\n<Receptionist>"
                             ]
                         },
                         {
@@ -7505,14 +7155,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ばい……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Prostitution...?\\n<Serena>"
                             ]
                         },
                         {
@@ -7536,28 +7179,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "なんと言うかは知らぬが、その…良いのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "ああいった事は、何か……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "風紀のびん乱にあたるのではないのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I don't know how to say it, but... is that\nalright? Such things, could they not be...\ndisrupting public morals?\\n<Serena>"
                             ]
                         },
                         {
@@ -7591,21 +7213,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "あれは、その…良いのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "風紀のびん乱にあたるのではないのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Is that... alright? Could it not be disrupting\npublic morals?\\n<Serena>"
                             ]
                         },
                         {
@@ -7639,21 +7247,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "風紀のびん乱ときたか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "まぁそりゃ褒められるこっちゃねえんだろうがよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Disrupting public morals, you say. Well, it's not\nsomething to be praised, I suppose.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -7670,21 +7264,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "慣習っつうのかね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ずっと昔の時代から売春は風呂場にゃつきもんさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Tradition, maybe? Prostitution has always been a\npart of bathhouses since ancient times.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -7701,28 +7281,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あんた、お上りさんかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "この辺の人間ならガキの頃から慣れっこで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "今更気にも留めねえや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Are you new here? Around these parts, people grow\nup used to it and don't give it a second thought\nanymore.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -7746,21 +7305,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "慣習……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "やはりあれが常識、なのか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Tradition... so that's considered normal here...\\n<Serena>"
                             ]
                         },
                         {
@@ -7784,21 +7329,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ま、とはいえ嬢ちゃんが興味を持つのはちと早ぇやな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "もう一回り胸が膨らんでからにしな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Well, even so, it's a bit early for a young lady\nlike you to take an interest. Wait until your\nchest fills out a bit more.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -7815,21 +7346,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "もっとも、それくらいがいいって奴もいるだろがよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "けけっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Although, there are those who prefer them about\nyour size. Kekeke!\\n<Receptionist>"
                             ]
                         },
                         {
@@ -7853,14 +7370,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -8037,14 +7547,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "……一つ、良いか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...May I ask something?\\n<Serena>"
                             ]
                         },
                         {
@@ -8068,14 +7571,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "どうぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Sure, what is it?\\n<Receptionist>"
                             ]
                         },
                         {
@@ -8099,14 +7595,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "私の声は、聞こえていなかったのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Was my voice not heard?\\n<Serena>"
                             ]
                         },
                         {
@@ -8130,21 +7619,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "あぁー。浴場で何かあったのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "…悪いね。近頃はどうにも耳が遠くてよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Ah-. Something happened in the bathhouse?... Sorry\nabout that. My hearing isn't what it used to be.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -8161,21 +7636,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "特にコインの、チャリンと積まれる音がするとな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "しばらくはその音以外、聞こえなくなっちまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Especially when I hear the sound of coins clinking\ntogether. Then for a while, I can't hear anything\nelse.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -8199,14 +7660,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "貴様……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "You...!\\n<Serena>"
                             ]
                         },
                         {
@@ -8230,21 +7684,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "おいおい、俺を恨むのは筋違いってもんだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ちゃんと最初に言ってやっただろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Hey now, blaming me is misdirected anger. I told\nyou right from the start, didn't I?\\n<Receptionist>"
                             ]
                         },
                         {
@@ -8261,14 +7701,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "浴場で何があっても俺は知らんとね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Whatever happens in the bathhouse, I don't want to\nknow.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -8285,21 +7718,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "通報する義務も、助けに入る義理も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "俺にゃハナからねえってわけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<番台>"
+                                "I have neither the duty to report it nor the\nobligation to step in and help. That's just how it\nis.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -8316,14 +7735,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "恨むんなら自分の不注意不見識を恨むんだなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<番台>"
+                                "If you're going to blame someone, blame your own\ncarelessness and lack of awareness.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -8347,14 +7759,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -8378,21 +7783,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "あぁ……もう……いい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "わかった……もう、……結構だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ah... never mind. I understand... that's enough...\\n<Serena>"
                             ]
                         },
                         {
@@ -8433,14 +7824,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "……一つ、良いか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...May I ask something?\\n<Serena>"
                             ]
                         },
                         {
@@ -8464,14 +7848,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "どうぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Sure, what is it?\\n<Receptionist>"
                             ]
                         },
                         {
@@ -8495,21 +7872,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "風呂場で、男達に襲われた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "あれはどういう事だ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "In the bathhouse, I was attacked by men. What does\nthat mean...\\n<Serena>"
                             ]
                         },
                         {
@@ -8533,21 +7896,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "どう、と言われてもね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "人間が一つ所に集まりゃあそういう事もあるだろよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<番台>"
+                                "What do you mean 'what'? When people gather in one\nplace, these things happen.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -8564,21 +7913,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "俺は風呂の管理をしてるだけさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "トラブルからは自分で身を守ってくんな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<番台>"
+                                "I'm just managing the baths. You have to protect\nyourself from trouble.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -8602,14 +7937,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -8633,14 +7961,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "あぁ……もういい。もう結構だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ah... never mind. That's enough.\\n<Serena>"
                             ]
                         },
                         {
@@ -8719,14 +8040,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "へっへ。またのお越しをぉ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Hehehe. Looking forward to your next visit.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -8774,21 +8088,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "……二度と近寄りたくはない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "たくはないが……。入浴施設が他にない……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...I don't ever want to come near this place\nagain. But there are no other bathing\nfacilities...\\n<Serena>"
                             ]
                         },
                         {
@@ -8812,21 +8112,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ずっと身を清めぬというわけにもいかぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "あぁ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I cannot simply go without cleansing myself\nforever. Ah...\\n<Serena>"
                             ]
                         },
                         {
@@ -9002,14 +8288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ、こんな格好では外に出られんぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I-I can't go outside dressed like this.\\n<Serena>"
                             ]
                         },
                         {
@@ -9128,14 +8407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらは男湯だ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "This is the men's bath.\\n<Serena>"
                             ]
                         },
                         {
@@ -9282,21 +8554,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お腹に子供がいると色々貯まっちゃうものね。たまには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "贅沢をして羽を伸ばさないと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<市民>"
+                                "When you have a child in your belly, things really\nstart to accumulate. Sometimes you just have to\ntreat yourself and stretch your wings.\\n<Citizen>"
                             ]
                         },
                         {
@@ -9323,21 +8581,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "たかだか身体を洗うだけなのに５Ｓも取るだなんて…高い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わよ。元を取らなきゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<市民>"
+                                "To think they charge 5S just for a bath... that's\nexpensive. I've got to get my money's worth!\\n<Citizen>"
                             ]
                         },
                         {
@@ -9682,14 +8926,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "よし。服を脱ごう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Alright, let's take off my clothes.\\n<Serena>"
                             ]
                         },
                         {
@@ -9706,14 +8943,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -9748,21 +8978,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うむ。……やはり、少し、勇気がいるものだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "知らぬ場所で裸になるというのは……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hmm... indeed, it takes a bit of courage. Getting\nnaked in an unfamiliar place is...\\n<Serena>"
                             ]
                         },
                         {
@@ -9956,14 +9172,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Phew.\\n<Serena>"
                             ]
                         },
                         {
@@ -9980,21 +9189,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "さて、この街の浴場いかほどのものか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "確かめさせてもらうとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Now, let's see what this town's bathhouse is like.\nI shall check it out.\\n<Serena>"
                             ]
                         },
                         {
@@ -10087,14 +9282,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "うぅ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ugh...\\n<Serena>"
                             ]
                         },
                         {
@@ -10272,14 +9460,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -10410,14 +9591,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "……ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Hm?\\n<Serena>"
                             ]
                         },
                         {
@@ -10446,14 +9620,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "あれ、おかしいな？確かにここで着替えたのだが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "That's strange? I'm certain I changed here.\\n<Serena>"
                             ]
                         },
                         {
@@ -10489,14 +9656,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "……ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...It's not here.\\n<Serena>"
                             ]
                         },
                         {
@@ -10532,14 +9692,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "馬鹿な。無いぞ…私の服が無い！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ridiculous. It's not here... My clothes are gone!?\\n<Serena>"
                             ]
                         },
                         {
@@ -10575,14 +9728,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ま、まさか盗まれた…？そんな、まさか…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Could it be... stolen? No, that can't be...!?\\n<Serena>"
                             ]
                         },
                         {
@@ -10877,14 +10023,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ば、番台殿。私の服が…っ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ex-excuse me, receptionist. My clothes are...!\\n<Serena>"
                             ]
                         },
                         {
@@ -10908,21 +10047,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "んん？盗まれたのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "あーあー、そりゃご愁傷様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Hm? They got stolen? Ah-ah-, that's unfortunate.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -10946,14 +10071,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "誰か不審な者は通らなかったか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Did anyone suspicious pass through here?!?\\n<Serena>"
                             ]
                         },
                         {
@@ -10977,14 +10095,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "そう言われてもね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Even if you say that...\\n<Receptionist>"
                             ]
                         },
                         {
@@ -11008,21 +10119,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "うっ、くっ……。服がなくては……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "わ、私はどうすれば……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ugh, gah... Without my clothes... what should\nI...?\\n<Serena>"
                             ]
                         },
                         {
@@ -11046,14 +10143,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "まぁ、家に帰るしかあるめぇな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Well, you've got no choice but to go home, I\nguess.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -11088,14 +10178,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こ、このまま！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Like this?!?\\n<Serena>"
                             ]
                         },
                         {
@@ -11119,21 +10202,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ああ、タオルは置いてってくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "ウチの備品だからな。持ち出し厳禁だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Yeah, leave the towel here. It's our property. No\ntaking it away.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -11168,14 +10237,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "それでは本当に丸裸でっ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Then I really have to go out... completely naked?!\\n<Serena>"
                             ]
                         },
                         {
@@ -11199,14 +10261,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "まぁそういう事になるわな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Well, that's how it is.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -11241,14 +10296,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "あっ、うぅうう……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ahh, uuuu...\\n<Serena>"
                             ]
                         },
                         {
@@ -11265,14 +10313,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "では、お金を払う故、少しの間タオルを……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Then, since I'm paying, may I keep the towel for a\nlittle while...\\n<Serena>"
                             ]
                         },
                         {
@@ -11296,21 +10337,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "生憎、そういうサービスはやってねえんでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "さ、タオルを返してくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Unfortunately, we don't offer that kind of\nservice. Now, hand back the towel.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -11356,14 +10383,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "～～～……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "~~~...\\n<Serena>"
                             ]
                         },
                         {
@@ -11485,14 +10505,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ま、宿がどこかは知らねえが、道中襲われねえようになァ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Well, I don't know where your lodging is, but be\ncareful not to get attacked on the way.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -11516,14 +10529,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "う、うぅうう……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ugh, uuuu...\\n<Serena>"
                             ]
                         },
                         {
@@ -11602,21 +10608,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "はぁ……っ！はぁ……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "裸、本当に裸で、出てきてしまった……っ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Haah...! Haah...! To come out truly naked...\\n<Serena>"
                             ]
                         },
                         {
@@ -11633,14 +10625,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "このまま裸で往来を…私の部屋まで、歩いていく、のか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "To walk on the street like this... to my room,\nwalking...\\n<Serena>"
                             ]
                         },
                         {
@@ -11664,28 +10649,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "とにかく、なるべく、人目につかぬように……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "もど、戻るのだ……私の部屋に…っ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "……うぅうう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Anyway, I must try to avoid being seen as much as\npossible... to return, to go back... to my room...\nuuuu.\\n<Serena>"
                             ]
                         },
                         {
@@ -11819,14 +10783,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "……ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Hm?\\n<Serena>"
                             ]
                         },
                         {
@@ -11855,14 +10812,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "あれ、おかしいな？…ま、まさかまた？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "That's odd?... Could it be, again?\\n<Serena>"
                             ]
                         },
                         {
@@ -11898,21 +10848,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "……ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "ない。ない……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Not here. Not here. Not here...\\n<Serena>"
                             ]
                         },
                         {
@@ -11948,14 +10884,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "そんな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "This can't be...\\n<Serena>"
                             ]
                         },
                         {
@@ -12273,14 +11202,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "私の服が…っ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "My clothes are...!\\n<Serena>"
                             ]
                         },
                         {
@@ -12304,21 +11226,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "おいおい、またかい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "注意不足にも程ってものがあるなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Hey hey, again? There's a limit to being careless,\nyou know.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -12342,14 +11250,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "うっ…ぐぐっ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ugh... gugh...\\n<Serena>"
                             ]
                         },
                         {
@@ -12373,21 +11274,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "ま、頑張って帰りなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "前はできたんだろ？もう一回やるだけじゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Well, do your best to get home. You managed\nbefore, right? Just do it one more time.\\n<Receptionist>"
                             ]
                         },
                         {
@@ -12422,14 +11309,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "う、うぅ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ugh, uuu...\\n<Serena>"
                             ]
                         },
                         {
@@ -12551,21 +11431,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "へっへっへ。可愛いらしいケツが丸見えだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "せいぜい家まで頑張りなよぉ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "\\n<番台>"
+                                "Heh heh heh. Your cute little ass is totally\nexposed. Do your best to get home, okay?\\n<Receptionist>"
                             ]
                         },
                         {
@@ -12589,14 +11455,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "ぐぐぅ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Guuugh...\\n<Serena>"
                             ]
                         },
                         {
@@ -12686,21 +11545,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "部屋に、戻る。戻るのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "今はそれだけ、それだけに全力を注ぐ…っ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "To my room, I must return. That's all I need to\nfocus on right now, with all my might...!\\n<Serena>"
                             ]
                         },
                         {
@@ -13598,21 +12443,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…そんなお腹なのに堂々と浴場に来るなんて…私も貴方"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぐらい綺麗だったらアレコレ気にしなくなるのかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "\"...To come to the bathhouse so boldly with that\nbelly... I wonder if I would stop worrying about\nthis and that if I were as beautiful as you.\"\\n<Adventurer>"
                             ]
                         },
                         {
@@ -13639,14 +12470,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いつつ…あー、痣になってる。恥ずかしいなぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "\"Ouch... Ah, it's turned into a bruise. How\nembarrassing...\"\\n<Adventurer>"
                             ]
                         },
                         {
@@ -13756,21 +12580,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここでならどれだけ汚れてもすぐ綺麗になるから気軽に売春"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "できるけど、洗っても中までは洗いきれないものねぇ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Even if I get dirty here, I can clean up quickly,\nso it's easy to turn to prostitution, but some\nthings can't be washed away inside, no matter how\nmuch you clean...\\n<Adventurer>"
                             ]
                         },
                         {
@@ -13797,21 +12607,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "本業の稼ぎが振るわないから、身体を洗うついでに一稼ぎ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "してこようかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<冒険者>"
+                                "Since my main job isn't paying well, maybe I\nshould make some extra money while I'm washing up.\\n<Adventurer>"
                             ]
                         },
                         {
@@ -14092,14 +12888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "服を着たまま風呂には入れぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "You can't get into the bath with your clothes on.\\n<Serena>"
                             ]
                         },
                         {
@@ -14206,14 +12995,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お、っと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Oops.\\n<Serena>"
                             ]
                         },
                         {
@@ -14237,21 +13019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふふ、そうだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "髪をまとめねばエリカ殿に怒られてしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hehe, that's right. I must tie up my hair or Lady\nErika will scold me.\\n<Serena>"
                             ]
                         },
                         {
@@ -14316,14 +13084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うむ。これで良し。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Yes, this is good.\\n<Serena>"
                             ]
                         },
                         {
@@ -14358,21 +13119,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しかしこの裏技とやら、今度は肌を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "隠すものがなくなってしまうのが難点だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "However, with this cheat code, the problem is that\nit leaves no clothing to cover the skin.\\n<Serena>"
                             ]
                         },
                         {
@@ -14396,21 +13143,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私が気にしすぎなのであろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "エリカ殿は平気の様子であったしな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Am I worrying too much? Lady Erika seemed unfazed\nby it...\\n<Serena>"
                             ]
                         },
                         {
@@ -14756,14 +13489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戻りたくない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I don't want to go back...\\n<Serena>"
                             ]
                         },
                         {
@@ -14875,14 +13601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "記帳だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's the ledger.\\n<Serena>"
                             ]
                         },
                         {
@@ -14899,14 +13618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客の利用記録が細かい文字で書き込まれている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The customer's usage records are written in fine\nprint.\\n<Serena>"
                             ]
                         },
                         {
@@ -15018,14 +13730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a small shelf.\\n<Serena>"
                             ]
                         },
                         {
@@ -15042,14 +13747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現金が入っている。触ってはいけない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "There's cash inside. I shouldn't touch it.\\n<Serena>"
                             ]
                         },
                         {
@@ -15197,14 +13895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "荷物棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's the luggage shelf.\\n<Serena>"
                             ]
                         },
                         {
@@ -15221,14 +13912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出入り口のすぐ側で着替えをするのは流石に躊躇う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I hesitate to change clothes right next to the\nentrance.\\n<Serena>"
                             ]
                         },
                         {
@@ -15476,14 +14160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "荷物棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a luggage rack.\\n<Serena>"
                             ]
                         },
                         {
@@ -15500,14 +14177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一番上が空いているようだが、私では手が届かない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The top seems to be empty, but I can't reach it.\\n<Serena>"
                             ]
                         },
                         {
@@ -15664,14 +14334,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "荷物棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a luggage rack.\\n<Serena>"
                             ]
                         },
                         {
@@ -15688,21 +14351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "籠の中のタオルが湿っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ついさっき誰かに使われたままなのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The towel in the basket is damp. It must have been\nused by someone just recently.\\n<Serena>"
                             ]
                         },
                         {
@@ -15719,14 +14368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "別の所を探そう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Let's look somewhere else.\\n<Serena>"
                             ]
                         },
                         {
@@ -15953,14 +14595,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "荷物棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a luggage rack.\\n<Serena>"
                             ]
                         },
                         {
@@ -15977,21 +14612,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "三段とも籠に服が入っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここに私の場所はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "All three tiers are filled with baskets of\nclothes. There's no space for me here.\\n<Serena>"
                             ]
                         },
                         {
@@ -16149,14 +14770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "荷物棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a luggage rack.\\n<Serena>"
                             ]
                         },
                         {
@@ -16173,14 +14787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少しジメっとしている。ここはやめておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a bit damp. Let's not do it here.\\n<Serena>"
                             ]
                         },
                         {
@@ -16328,14 +14935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "籠だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a basket.\\n<Serena>"
                             ]
                         },
                         {
@@ -16352,21 +14952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "長く使われているのであろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボロボロであちこちにほつれが見える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It seems to have been used for a long time. It's\ntattered and frayed in various places.\\n<Serena>"
                             ]
                         },
                         {
@@ -16514,14 +15100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "荷物棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a luggage rack.\\n<Serena>"
                             ]
                         },
                         {
@@ -16538,14 +15117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "全ての段が使用されている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "All the shelves are being used.\\n<Serena>"
                             ]
                         },
                         {
@@ -16693,14 +15265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "荷物棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a luggage rack.\\n<Serena>"
                             ]
                         },
                         {
@@ -16717,28 +15282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうして私が調べ回っている事で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗難が未然に防がれている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "By looking around like this, I might be preventing\ntheft before it happens.\\n<Serena>"
                             ]
                         },
                         {
@@ -16895,14 +15439,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "荷物棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a luggage shelf.\\n<Serena>"
                             ]
                         },
                         {
@@ -16919,14 +15456,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "出入り口のすぐ横で着替えるのは少し億劫だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Changing right next to the entrance is a bit of a\nhassle.\\n<Serena>"
                             ]
                         },
                         {
@@ -17093,14 +15623,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "荷物棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a luggage rack.\\n<Serena>"
                             ]
                         },
                         {
@@ -17117,21 +15640,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "出入りの人の目が常にあるゆえ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "防犯という観点からは良い場所かもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Since it's always in everyone's sight, it might be\na good place from a security standpoint.\\n<Serena>"
                             ]
                         },
                         {
@@ -17289,14 +15798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "荷物棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a luggage shelf.\\n<Serena>"
                             ]
                         },
                         {
@@ -17313,21 +15815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここもなかなか良さげではあるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例によって高い棚しか空いていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "This place seems quite nice, but as usual, only\nthe high shelves are available.\\n<Serena>"
                             ]
                         },
                         {
@@ -17344,21 +15832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "別に使って使えぬ事はないと思うが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "裸で伸びをする事になるのもな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's not that I can't use it, but having to\nstretch naked to reach it is another matter...\\n<Serena>"
                             ]
                         },
                         {
@@ -17506,14 +15980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "荷物棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a luggage shelf.\\n<Serena>"
                             ]
                         },
                         {
@@ -17530,21 +15997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一番奥まった場所。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんとなく嫌だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The farthest back spot. I somehow don't like it.\\n<Serena>"
                             ]
                         },
                         {
@@ -17656,14 +16109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a small shelf.\\n<Serena>"
                             ]
                         },
                         {
@@ -17680,14 +16126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現金が入っている。触ってはいけない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "There's cash inside. I shouldn't touch it.\\n<Serena>"
                             ]
                         },
                         {

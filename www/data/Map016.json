@@ -1405,7 +1405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲームモードを選択して下さい。"
+                                "Please select a game mode."
                             ]
                         },
                         {

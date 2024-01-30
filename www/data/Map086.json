@@ -2838,14 +2838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、ど、どうでした？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Ah, h-how was it?\\n<Tim>"
                             ]
                         },
                         {
@@ -2870,14 +2863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二～三、我が家の書斎でも見かけぬ本があった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "There were two or three books that I haven't even\nseen in my own study.\\n<Serena>"
                             ]
                         },
                         {
@@ -2902,14 +2888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "取り置きをお願いしたいところだが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I would like to ask for them to be put on hold,\nbut...\\n<Serena>"
                             ]
                         },
                         {
@@ -2934,21 +2913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "します！します取り置き！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どれですか！？厳重に保管します！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "I'll do it! I'll put them on hold! Which ones are\nthey?! I'll keep them safe!\\n<Tim>"
                             ]
                         },
                         {
@@ -2973,21 +2938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、いや、そういうわけにはいかぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は不安定な身の上ゆえ、いつ買いに来れるとも知れぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "No, that won't be possible. My current situation\nis unstable, and I can't be sure when I'll be able\nto come and buy them.\\n<Serena>"
                             ]
                         },
                         {
@@ -3012,21 +2963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでは店にも迷惑であろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身の回りが落ち着いたらその時に改めて伺わせてもらう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It would be a nuisance to the store. Once things\nhave settled down, I'll come back and ask again.\\n<Serena>"
                             ]
                         },
                         {
@@ -3051,14 +2988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう……ですか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Is that so...\\n<Tim>"
                             ]
                         },
                         {
@@ -3083,21 +3013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも、すごいですね。見た事のない本が二つか三つって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまりうちの蔵書並の書斎をお持ちって事ですよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "But that's amazing. To have two or three books\nyou've never seen means you must have a study as\nextensive as our collection, right?\\n<Tim>"
                             ]
                         },
                         {
@@ -3122,14 +3038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。あっ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Yes. Ah...\\n<Serena>"
                             ]
                         },
                         {
@@ -3154,14 +3063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "?\\n<Tim>"
                             ]
                         },
                         {
@@ -3185,14 +3087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "し、しまった。ティム殿、今の事、内密に願う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Oh, I've slipped up. Tim-dono, please keep what I\njust said confidential.\\n<Serena>"
                             ]
                         },
                         {
@@ -3217,14 +3112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今の？取り置きの事ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Just now? You mean about putting books on hold?\\n<Tim>"
                             ]
                         },
                         {
@@ -3249,14 +3137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、蔵書の件だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "No, about the collection of books...\\n<Serena>"
                             ]
                         },
                         {
@@ -3281,21 +3162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あ、あぁ。そうですよね。よく考えたら高価な本を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "個人でこんなにお持ちって、いったいどれだけの…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "...Ah, right. When you think about it, owning so\nmany expensive books personally, just how much...\\n<Tim>"
                             ]
                         },
                         {
@@ -3320,14 +3187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティム殿っ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Tim-dono!\\n<Serena>"
                             ]
                         },
                         {
@@ -3352,14 +3212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、ご、ごめんなさい。でも他に誰もいませんけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Oh, sorry. But there's no one else here...\\n<Tim>"
                             ]
                         },
                         {
@@ -3384,21 +3237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでもだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の失言に付き合わせるようですまぬとは思うが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Even so. I regret involving you in my slip of the\ntongue...\\n<Serena>"
                             ]
                         },
                         {
@@ -3423,21 +3262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あは。だ、大丈夫です。お口を縫っちゃいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう二度と口に出しません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Ahaha. It's okay. I'll sew my mouth shut. I won't\nmention it again.\\n<Tim>"
                             ]
                         },
                         {
@@ -3462,14 +3287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "助かる…。少々特殊な事情があってな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I'm grateful... There are some special\ncircumstances...\\n<Serena>"
                             ]
                         },
                         {
@@ -3505,21 +3323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "りょ、了解です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…でも、じゃあ、これって、その。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Understood... But then, this means, that...\\n<Tim>"
                             ]
                         },
                         {
@@ -3544,14 +3348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "?\\n<Serena>"
                             ]
                         },
                         {
@@ -3576,14 +3373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕たち二人だけの、秘密って事、ですよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "It's a secret just between the two of us, right?\\n<Tim>"
                             ]
                         },
                         {
@@ -3608,21 +3398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う……む？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、そういう事になろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Uh... Well? I suppose that's what it amounts to.\\n<Serena>"
                             ]
                         },
                         {
@@ -3647,14 +3423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、えへ、えへへ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Hehe, hehehe.\\n<Tim>"
                             ]
                         },
                         {
@@ -3679,14 +3448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "?\\n<Serena>"
                             ]
                         },
                         {
@@ -3711,14 +3473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "す、すいません。顔が、にやけ、ちゃって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "S-sorry. My face just... breaks into a smile.\\n<Tim>"
                             ]
                         },
                         {
@@ -3743,14 +3498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……えーと、えと……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "...Um, well...\\n<Tim>"
                             ]
                         },
                         {
@@ -3775,14 +3523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すいません、ちょっとお茶を入れてきますねっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Sorry, I'll go make some tea!\\n<Tim>"
                             ]
                         },
                         {
@@ -3984,14 +3725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、あまり長居はできぬのだ、もう帰るゆえ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "No need, I can't stay long, I must be going now...\\n<Serena>"
                             ]
                         },
                         {
@@ -4023,14 +3757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hmm-\\n<Serena>"
                             ]
                         },
                         {
@@ -4156,14 +3883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オース。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Yo.\\n<Burdan>"
                             ]
                         },
                         {
@@ -4298,14 +4018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hmm?\\n<Serena>"
                             ]
                         },
                         {
@@ -4361,14 +4074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Huh?\\n<Burdan>"
                             ]
                         },
                         {
@@ -4576,14 +4282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お客か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "A customer?\\n<Serena>"
                             ]
                         },
                         {
@@ -4608,14 +4307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…まぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "...Well.\\n<Burdan>"
                             ]
                         },
                         {
@@ -4640,21 +4332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまぬが店員殿は少し席を外している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに戻ってくるとは思うが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Sorry, but the clerk has stepped out for a moment.\nHe should be back shortly.\\n<Serena>"
                             ]
                         },
                         {
@@ -4689,21 +4367,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あっそ。で、おたくは？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "妊婦さんが何の用事で？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "I see. And you? What does a pregnant lady need\nhere?\\n<Burdan>"
                             ]
                         },
                         {
@@ -4738,14 +4402,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あっそ。で、おたくは何の用事で？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "I see. And what do you need here?\\n<Burdan>"
                             ]
                         },
                         {
@@ -4780,14 +4437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…書店に来る用事と言えば、本を見に来る事以外にあるまい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...The reason for coming to a bookstore would be\nto look at books, nothing else.\\n<Serena>"
                             ]
                         },
                         {
@@ -4812,14 +4462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そりゃそーですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "That's true.\\n<Burdan>"
                             ]
                         },
                         {
@@ -4844,14 +4487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そなた、妙な雰囲気だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "You have a strange aura about you.\\n<Serena>"
                             ]
                         },
                         {
@@ -4876,14 +4512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肌の色の事か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Are you talking about my skin color?\\n<Burdan>"
                             ]
                         },
                         {
@@ -4908,14 +4537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "No...\\n<Serena>"
                             ]
                         },
                         {
@@ -5124,14 +4746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、お待たせしましッ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Oh, sorry to keep you waiting...!\\n<Tim>"
                             ]
                         },
                         {
@@ -5156,14 +4771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Ah...\\n<Tim>"
                             ]
                         },
                         {
@@ -5195,14 +4803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふーん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Hmph.\\n<Burdan>"
                             ]
                         },
                         {
@@ -5337,14 +4938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティム殿、お知り合いか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Tim-dono, do you know this person?\\n<Serena>"
                             ]
                         },
                         {
@@ -5376,14 +4970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え……と……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Uh... well...\\n<Tim>"
                             ]
                         },
                         {
@@ -5408,14 +4995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、……はいッ！友……達……！でして！彼とは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Yes! He's a... friend...! That's right, him and I\nare!\\n<Tim>"
                             ]
                         },
                         {
@@ -5447,14 +5027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "...\\n<Burdan>"
                             ]
                         },
                         {
@@ -5486,14 +5059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "親し……く……。その、色々と……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Close... we... that is, in various ways...\\n<Tim>"
                             ]
                         },
                         {
@@ -5518,14 +5084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…そうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...I see.\\n<Serena>"
                             ]
                         },
                         {
@@ -5550,21 +5109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご友人の訪問という事ならお邪魔するわけにもいかぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はそろそろ失礼させていただくとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "If it's a visit from a friend, then I shouldn't\nintrude. I should be taking my leave soon.\\n<Serena>"
                             ]
                         },
                         {
@@ -5582,21 +5127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実際この後の予定もあってな。元々ゆっくりするような"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "時間はなかったのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Actually, I have another appointment after this. I\ndidn't have much time to begin with.\\n<Serena>"
                             ]
                         },
                         {
@@ -5621,14 +5152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お茶を入れていただいて申し訳ないが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I apologize for having you make tea for me.\\n<Serena>"
                             ]
                         },
                         {
@@ -5660,14 +5184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……いえ。気になさらないで……ください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "...No. Please don't worry about it...\\n<Tim>"
                             ]
                         },
                         {
@@ -5692,14 +5209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また時間ができたら立ち寄らせてもらう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I'll stop by again when I have more time.\\n<Serena>"
                             ]
                         },
                         {
@@ -5731,14 +5241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい。では、また…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Yes. Until then...\\n<Tim>"
                             ]
                         },
                         {
@@ -6072,14 +5575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -6283,21 +5779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、い、いらっしゃいませ、セレナさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆっくりしていってください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Ah, w-welcome, Serena-san. Please make yourself\ncomfortable!\\n<Tim>"
                             ]
                         },
                         {
@@ -6321,14 +5803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、うむ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "U-um...\\n<Serena>"
                             ]
                         },
                         {
@@ -6710,14 +6185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Excuse me.\\n<Serena>"
                             ]
                         },
                         {
@@ -6741,14 +6209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<少年>"
+                                "...\\n<Boy>"
                             ]
                         },
                         {
@@ -6780,14 +6241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もし、店主殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Excuse me, shopkeeper.\\n<Serena>"
                             ]
                         },
                         {
@@ -6987,21 +6441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…あっははい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うわわ、お客さんだ…すみません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<少年>"
+                                "...Ahahaha! Oh no, a customer... I'm sorry!\\n<Boy>"
                             ]
                         },
                         {
@@ -7026,14 +6466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主殿。本を売りたいのだが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Shopkeeper, I'd like to sell a book.\\n<Serena>"
                             ]
                         },
                         {
@@ -7068,21 +6501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、ご、ごごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぼ、僕店主じゃなくって、ただの店番です…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<少年>"
+                                "Oh, I-I'm sorry. I-I'm not the shopkeeper, just\nthe clerk...\\n<Boy>"
                             ]
                         },
                         {
@@ -7107,21 +6526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "む？そうなのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では店主殿は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hm? Is that so? Then where is the shopkeeper...\\n<Serena>"
                             ]
                         },
                         {
@@ -7179,21 +6584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "買い付けに出てらして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらくは戻ってこられません…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<少年>"
+                                "They've gone out to procure goods and won't be\nback for a while...\\n<Boy>"
                             ]
                         },
                         {
@@ -7225,14 +6616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなのか…。むぅ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Is that so... Hmm...\\n<Serena>"
                             ]
                         },
                         {
@@ -7256,21 +6640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、買い取りですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目録にあるものなら値段をおつけできますが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<少年>"
+                                "Oh, are you looking to sell? If it's listed in the\ncatalog, I can offer you a price...\\n<Boy>"
                             ]
                         },
                         {
@@ -7295,14 +6665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか？この本なのだが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Is that so? It's this book here...\\n<Serena>"
                             ]
                         },
                         {
@@ -7360,21 +6723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわ、原語。…えーっとタイトルは…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『自然本性の自由』…かな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<少年>"
+                                "Wow, it's in the original language... Uh, the\ntitle is... \"The Freedom of Natural Instinct\"...\nmaybe?\\n<Boy>"
                             ]
                         },
                         {
@@ -7398,14 +6747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "原語は表紙だけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The original language is only on the cover.\\n<Serena>"
                             ]
                         },
                         {
@@ -7451,14 +6793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、ほんとですね…って書き込みが凄い…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<少年>"
+                                "Oh, you're right... and there's so much writing\ninside...\\n<Boy>"
                             ]
                         },
                         {
@@ -7482,14 +6817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "買取は難しいだろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Would it be difficult to sell?\\n<Serena>"
                             ]
                         },
                         {
@@ -7513,21 +6841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ、これくらいは普通ですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "真っ新な本のほうが珍しいくらいで…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<少年>"
+                                "No, this is quite normal. It's rarer to find a\nbook that's brand new...\\n<Boy>"
                             ]
                         },
                         {
@@ -7544,21 +6858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でもうーん……すみません、この本はちょっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目録に載ってないみたいですね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<少年>"
+                                "But um... I'm sorry, it seems this book isn't\nlisted in our catalog...\\n<Boy>"
                             ]
                         },
                         {
@@ -7593,21 +6893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長がいれば値段をつけてもらえたと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思うんですけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<少年>"
+                                "If the manager were here, they might be able to\nset a price for it...\\n<Boy>"
                             ]
                         },
                         {
@@ -7664,21 +6950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか…。まぁあまり期待はしていなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "買取が無理なら無理で、それでよい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I see... Well, I wasn't expecting much. If you\ncan't buy it, that's fine.\\n<Serena>"
                             ]
                         },
                         {
@@ -7714,14 +6986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと嬉しそうですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<少年>"
+                                "You seem a bit happy about that.\\n<Boy>"
                             ]
                         },
                         {
@@ -7746,14 +7011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、いやそんな事はないぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "N-No, that's not it at all.\\n<Serena>"
                             ]
                         },
                         {
@@ -7799,14 +7057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本はお好きですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<少年>"
+                                "Do you like books?\\n<Boy>"
                             ]
                         },
                         {
@@ -7830,21 +7081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ。本は良い。脳髄の滋養だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良い本は良き料理に似ている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Yes. Books are good. They nourish the brain. A\ngood book is like a fine meal.\\n<Serena>"
                             ]
                         },
                         {
@@ -7890,21 +7127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ、いい事言いますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕の持論も、本は食べれる、です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<少年>"
+                                "Ehehe, you say such nice things. My own theory is\nthat books are edible.\\n<Boy>"
                             ]
                         },
                         {
@@ -7936,21 +7159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なかなか気が合いそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はセレナ。冒険者だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It seems we have similar tastes. My name is\nSerena. I'm an adventurer.\\n<Serena>"
                             ]
                         },
                         {
@@ -7997,21 +7206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、これはこれは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕はティムです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Oh, what do we have here. My name is Tim.\\n<Tim>"
                             ]
                         },
                         {
@@ -8028,28 +7223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一応冒険者もしています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "荒事が苦手で、もっぱらこういう雑用の依頼"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ばっかり受けてますけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "I'm sort of an adventurer too. I'm not good with\nrough stuff, so I mostly take on these kinds of\nerrands...\\n<Tim>"
                             ]
                         },
                         {
@@ -8073,21 +7247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなのか。ならお互い、知らぬ間にギルドで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すれ違ってやもかもしれぬな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Is that so? Then perhaps we've crossed paths at\nthe guild without knowing it.\\n<Serena>"
                             ]
                         },
                         {
@@ -8133,28 +7293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やー、それはどうでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕、あそこの雰囲気が苦手で…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "できるだけ寄り付かないようにしてるので…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Well, I wonder about that. I don't really like the\natmosphere there... I try to avoid going if I\ncan...\\n<Tim>"
                             ]
                         },
                         {
@@ -8178,21 +7317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ、それも同感だ。あそこは雰囲気が良くない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まず空気が悪い。あと採光もな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Haha, I feel the same way. The atmosphere there\nisn't great. First off, the air is bad. And the\nlighting too.\\n<Serena>"
                             ]
                         },
                         {
@@ -8239,14 +7364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大人の世界って感じですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "It feels like an adult's world, doesn't it?\\n<Tim>"
                             ]
                         },
                         {
@@ -8271,21 +7389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪い大人だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…あぁ、益体もない話をしてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Bad adults... Ah, we've ended up talking about\nnothing of substance.\\n<Serena>"
                             ]
                         },
                         {
@@ -8302,21 +7406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまぬ、急ぐ身でな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しかったが、あまり話し込んでもいられない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Sorry, but I must hurry along. It was enjoyable\nbut I can't stay and chat for long.\\n<Serena>"
                             ]
                         },
                         {
@@ -8373,21 +7463,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お腹大きくて、た、大変そうですもんね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Is that so? You seem to have quite the belly on\nyou... must be tough...\\n<Tim>"
                             ]
                         },
                         {
@@ -8411,14 +7487,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うむ……。まぁ、それもな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Yes... well, there's that too...\\n<Serena>"
                             ]
                         },
                         {
@@ -8464,28 +7533,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その、もしよければ、また来てください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "妊婦の方って、あまり動けない、ですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本とか、きっとお役に立つと思うんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "If you don't mind, please come again. Pregnant\nwomen can't move around much, right? Books could\nsurely be of help to you.\\n<Tim>"
                             ]
                         },
                         {
@@ -8542,21 +7590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "残念だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Is that so? That's a shame.\\n<Tim>"
                             ]
                         },
                         {
@@ -8602,28 +7636,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もしよければ、また来てください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "店長はしばらく帰ってきませんけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本は毎日入れ替えてますし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "If you'd like, please come again. The manager\nwon't be back for a while, but we're always\nupdating our stock of books...\\n<Tim>"
                             ]
                         },
                         {
@@ -8650,21 +7663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本好きなら、楽しんでいただける店かな…って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、思います、から……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "If you love books, I think you'll enjoy our\nstore... that's what I believe, anyway...\\n<Tim>"
                             ]
                         },
                         {
@@ -8688,14 +7687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。時間ができればまた寄らせていただこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hmm. If I find the time, I'll make sure to stop by\nagain.\\n<Serena>"
                             ]
                         },
                         {
@@ -8720,14 +7712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでは。ティム殿。失礼する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Then, Tim-dono, I shall take my leave.\\n<Serena>"
                             ]
                         },
                         {
@@ -8999,21 +7984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぁー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "びっくりしちゃった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Whew... that surprised me.\\n<Tim>"
                             ]
                         },
                         {
@@ -9071,21 +8042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんて可愛い女の子なんだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルビーみたいな真っ赤な瞳。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "What a cute girl she is. Eyes as red as rubies.\\n<Tim>"
                             ]
                         },
                         {
@@ -9121,14 +8078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セレナちゃんかー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Serena-chan, huh...\\n<Tim>"
                             ]
                         },
                         {
@@ -9174,14 +8124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また来てくれるかな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "I wonder if she'll come again...\\n<Tim>"
                             ]
                         },
                         {
@@ -9292,21 +8235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、そろそろ娼館に戻るか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新しい仕事とはいかなる物か……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Now, it's about time to return to the brothel. I\nwonder what this new job will entail...\\n<Serena>"
                             ]
                         },
                         {
@@ -9544,14 +8473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティム殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Lord Tim.\\n<Serena>"
                             ]
                         },
                         {
@@ -9594,14 +8516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セ、セレナさん！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "S-Serena-san!?\\n<Tim>"
                             ]
                         },
                         {
@@ -9626,14 +8541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしてうちに！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Why are you here at my place!?\\n<Tim>"
                             ]
                         },
                         {
@@ -9661,14 +8569,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "とととというか、そのお腹は…！？！？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "I-I mean, that belly...!?\\n<Tim>"
                             ]
                         },
                         {
@@ -9692,14 +8593,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そこは……あまり触れないでもらいたいのだが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "That is... something I would prefer not to be\ntouched upon...\\n<Serena>"
                             ]
                         },
                         {
@@ -9723,21 +8617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ、ご、ごごご、ごめ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "で、ですよね～…！はは……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Ah, s-s-s-sorry...! Right, of course...! Ha ha...!\\n<Tim>"
                             ]
                         },
                         {
@@ -9761,21 +8641,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やはりこんな体で店に寄らせていただくのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無作法であったろうか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Perhaps it was rude of me to visit the shop with\nsuch a figure...\\n<Serena>"
                             ]
                         },
                         {
@@ -9810,14 +8676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どうしてと言われても。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "As for why,\\n<Serena>"
                             ]
                         },
                         {
@@ -9842,14 +8701,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また寄らせてもらうと言ったはずだが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I believe I mentioned I would come by again.\\n<Serena>"
                             ]
                         },
                         {
@@ -9874,14 +8726,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "迷惑であったろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Was it a bother?\\n<Serena>"
                             ]
                         },
                         {
@@ -9916,14 +8761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ととととんでもない！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "N-n-not at all!!!\\n<Tim>"
                             ]
                         },
                         {
@@ -9948,14 +8786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どど、どうぞ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "P-please...!\\n<Tim>"
                             ]
                         },
                         {
@@ -9990,21 +8821,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何故か無性に本を手に取りたくなってな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Thank you. For some reason, I had an irresistible\nurge to pick up a book...\\n<Serena>"
                             ]
                         },
                         {
@@ -10038,21 +8855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うむ、では少し書棚を拝見させてもらうとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まぁ時間がないのであまり長居はできぬが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Well then, I shall take a brief look at your\nbookshelves. Alas, I don't have much time to stay\nlong.\\n<Serena>"
                             ]
                         },
                         {
@@ -10087,14 +8890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへ、えへ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Ehe, ehe.\\n<Tim>"
                             ]
                         },
                         {
@@ -10156,14 +8952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて…では、お言葉に甘えさせてもらおうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Now then... I shall take you up on your kind\noffer.\\n<Serena>"
                             ]
                         },
                         {
@@ -10545,14 +9334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "失礼。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Excuse me.\\n<Serena>"
                             ]
                         },
                         {
@@ -10584,14 +9366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "...Hm?\\n<Burdan>"
                             ]
                         },
                         {
@@ -10616,14 +9391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hmm?\\n<Serena>"
                             ]
                         },
                         {
@@ -10728,14 +9496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そなたは……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "You are...\\n<Serena>"
                             ]
                         },
                         {
@@ -10760,14 +9521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バーダンだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "It's Burdan.\\n<Burdan>"
                             ]
                         },
                         {
@@ -10792,14 +9546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "失礼した。私はセレナだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "My apologies. I am Serena.\\n<Serena>"
                             ]
                         },
                         {
@@ -10824,14 +9571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふーん……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Huh...\\n<Burdan>"
                             ]
                         },
                         {
@@ -10849,14 +9589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティム殿はどちらへ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Where is Lord Tim?\\n<Serena>"
                             ]
                         },
                         {
@@ -10881,21 +9614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あー……、ちょっと仕事があってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は奥に引っ込んでる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Ah... he's got some work to do. He's in the back\nright now.\\n<Burdan>"
                             ]
                         },
                         {
@@ -10913,14 +9632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バーダン殿はその代わりの店番という事か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "So, Burdan-san, you're taking over the shop in his\nstead?\\n<Serena>"
                             ]
                         },
                         {
@@ -10955,21 +9667,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まぁそんなところだけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "妊婦さんがあいつに何の用だよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Well, something like that. What does a pregnant\nlady like you want with him?\\n<Burdan>"
                             ]
                         },
                         {
@@ -11004,21 +9702,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まぁそんなところ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ティムに用かい？生憎今あいつは手が離せなくてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Yeah, something like that. You need Tim?\nUnfortunately, he's tied up right now and can't\ncome out.\\n<Burdan>"
                             ]
                         },
                         {
@@ -11052,21 +9736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、用と言うほどの事はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し近くに寄ったのでな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "No, it's not so important. I just happened to be\nin the neighborhood.\\n<Serena>"
                             ]
                         },
                         {
@@ -11091,14 +9761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふーーーん……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Hmmm...\\n<Burdan>"
                             ]
                         },
                         {
@@ -11123,14 +9786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ。さっきから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "What is it? You've been acting strange since a\nwhile ago.\\n<Serena>"
                             ]
                         },
                         {
@@ -11165,21 +9821,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そりゃ、こんな可愛い子がデケェ腹ブラ下げてたらな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見なきゃかえって失礼だろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Well, when a cute girl like you comes by with such\na big belly, it'd be rude not to look.\\n<Burdan>"
                             ]
                         },
                         {
@@ -11214,14 +9856,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -11246,21 +9881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あんたも見られ慣れてんじゃないの。その目立つナリでさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "道を歩くだけでもジロジロ見られっでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "You must be used to being looked at, with that\neye-catching appearance of yours. You get stared\nat just walking down the street, right?\\n<Burdan>"
                             ]
                         },
                         {
@@ -11291,21 +9912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……人目を気にしている余裕はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今の私にはな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...I don't have the luxury to care about the\npublic eye. Not in my current state.\\n<Serena>"
                             ]
                         },
                         {
@@ -11329,14 +9936,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "笑わば笑え。さぞ無様に映るであろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Laugh if you want. I must look quite unsightly.\\n<Serena>"
                             ]
                         },
                         {
@@ -11361,14 +9961,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シッシッシ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Heh heh heh...\\n<Burdan>"
                             ]
                         },
                         {
@@ -11403,14 +9996,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "可愛い女の子はガン見するのが礼儀ってもんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "It's only polite to give a good look when a cute\ngirl is around, right?\\n<Burdan>"
                             ]
                         },
                         {
@@ -11446,14 +10032,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "な、にゃに？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Wh-what?\\n<Serena>"
                             ]
                         },
                         {
@@ -11478,21 +10057,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あんたも見られ慣れてんじゃないの。その目立つナリでさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "道を歩くだけでもジロジロ見られっでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "You must be used to being looked at, with that\neye-catching appearance of yours. You get stared\nat just walking down the street, right?\\n<Burdan>"
                             ]
                         },
                         {
@@ -11524,21 +10089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……意識した事はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いつもは人と接さぬし、今はその、何かと必死でな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...I haven't paid it any mind. I usually don't\ninteract with people, and right now, I'm rather\npreoccupied.\\n<Serena>"
                             ]
                         },
                         {
@@ -11563,21 +10114,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "周囲に気を配る余裕などはない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…私の装いはそんなに目立つであろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I don't have the luxury to pay attention to my\nsurroundings... Does my attire really stand out\nthat much?\\n<Serena>"
                             ]
                         },
                         {
@@ -11602,14 +10139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シッシッシ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Heh heh heh...\\n<Burdan>"
                             ]
                         },
                         {
@@ -11644,14 +10174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "What is it?\\n<Serena>"
                             ]
                         },
                         {
@@ -11676,14 +10199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやぁ、美味そうだなと思っただけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Just thinking you look delicious, that's all.\\n<Burdan>"
                             ]
                         },
                         {
@@ -11708,14 +10224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "美味しい？私が？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Delicious? Me?\\n<Serena>"
                             ]
                         },
                         {
@@ -11740,14 +10249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。かぶりつきたいくらいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Yeah. Makes me want to take a big bite.\\n<Burdan>"
                             ]
                         },
                         {
@@ -11906,14 +10408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -11937,14 +10432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "...\\n<Burdan>"
                             ]
                         },
                         {
@@ -12077,14 +10565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バーダンさん、準備終わり……ま……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Burdan-san, the preparations are finished...\nwell...\\n<Tim>"
                             ]
                         },
                         {
@@ -12158,14 +10639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティム殿？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Lord Tim?\\n<Serena>"
                             ]
                         },
                         {
@@ -12190,14 +10664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セレ…ナ……さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Sere...na...san.\\n<Tim>"
                             ]
                         },
                         {
@@ -12229,14 +10696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あーー……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Ah--...\\n<Burdan>"
                             ]
                         },
                         {
@@ -12292,21 +10752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わりぃな、セレナちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと今から奥の掃除しないとなんだわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Sorry, Serena-chan. I've got to clean up the back\nsoon.\\n<Burdan>"
                             ]
                         },
                         {
@@ -12324,14 +10770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日の所は帰ってもらえる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Can you leave for today?\\n<Burdan>"
                             ]
                         },
                         {
@@ -12355,14 +10794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……そうなのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Is that so?\\n<Serena>"
                             ]
                         },
                         {
@@ -12394,21 +10826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あ、は、はい！そ、そー…なんです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで、バーダンさんには手伝ってもら……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "Ah, ye-yes! Th-that's... right! And so, I was\nhoping Burdan-san could help...\\n<Tim>"
                             ]
                         },
                         {
@@ -12575,14 +10993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "って、て……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "with... that...\\n<Tim>"
                             ]
                         },
                         {
@@ -12607,14 +11018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -12639,14 +11043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "...aha.\\n<Tim>"
                             ]
                         },
                         {
@@ -12671,21 +11068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…わかった。ならば今日の所は出直そう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元より大した用事があったわけでもない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Understood. In that case, I'll come back\nanother day. It's not as if I had any pressing\nmatters.\\n<Serena>"
                             ]
                         },
                         {
@@ -12717,21 +11100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…すいません。また来てくださると……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……いや……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "...I'm sorry. If you could come again... no...\\n<Tim>"
                             ]
                         },
                         {
@@ -12794,21 +11163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これからちょっと店の棚卸に入るんでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらく休みになるんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "We're about to start taking inventory in the shop.\nWe'll be closed for a little while.\\n<Burdan>"
                             ]
                         },
                         {
@@ -12857,14 +11212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なぁティム？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バーダン>"
+                                "Right, Tim?\\n<Burdan>"
                             ]
                         },
                         {
@@ -12896,14 +11244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あ、えと、そ…うですね。そうです。はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "...Ah, um, ye-yes. That's correct. Yes.\\n<Tim>"
                             ]
                         },
                         {
@@ -12935,14 +11276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だから、しばらくは、その。忙しい、かもで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "So, for a while, we might be... busy.\\n<Tim>"
                             ]
                         },
                         {
@@ -12967,21 +11301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残念だが、そういう事なら仕方がない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I see. It's unfortunate, but if that's the case,\nit can't be helped.\\n<Serena>"
                             ]
                         },
                         {
@@ -13006,14 +11326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "またいずれ、店が再開したら寄らせてもらうとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I'll make sure to stop by once the shop reopens.\\n<Serena>"
                             ]
                         },
                         {
@@ -13045,14 +11358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……はい。また…いつか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ティム>"
+                                "...Yes. Again... someday.\\n<Tim>"
                             ]
                         },
                         {
@@ -13292,14 +11598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -13466,14 +11765,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティム殿に一声かけてから帰ろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Let's say goodbye to Lord Tim before we head back.\\n<Serena>"
                             ]
                         },
                         {
@@ -13710,14 +12002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a bookshelf.\\n<Serena>"
                             ]
                         },
                         {
@@ -13734,28 +12019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは詩集の棚のようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『四行詩集』…？妙に目を引く装丁だが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや今はこんなものを買っている場合ではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "This seems to be a shelf for poetry collections.\n\"Quatrain Collection\"...? The binding is oddly\neye-catching... but now is not the time to be\nbuying such things.\\n<Serena>"
                             ]
                         },
                         {
@@ -13867,14 +12131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a bookshelf.\\n<Serena>"
                             ]
                         },
                         {
@@ -13891,28 +12148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "詩集の棚。ここは古代のものが主か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "巻数は飛び飛びだが原本が散逸しているのだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕方のない話だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "A shelf for poetry collections. It seems to be\nmostly ancient works. The volumes are scattered,\nbut that can't be helped since the originals have\nbeen lost.\\n<Serena>"
                             ]
                         },
                         {
@@ -14024,14 +12260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a bookshelf.\\n<Serena>"
                             ]
                         },
                         {
@@ -14048,28 +12277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神学関連の棚だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "既に読んだ本とこれから読まねばならぬ本が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "半々くらいで並んでいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "This is the theology section. About half of these\nbooks I've already read, and the other half I\nstill need to read.\\n<Serena>"
                             ]
                         },
                         {
@@ -14181,14 +12389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a bookshelf.\\n<Serena>"
                             ]
                         },
                         {
@@ -14205,21 +12406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神学の棚だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あー…普遍問題の論考をやらねばならぬのを思い出した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "This is the theology section. Ah... I just\nremembered I have to work on a dissertation about\nthe problem of universals.\\n<Serena>"
                             ]
                         },
                         {
@@ -14331,14 +12518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a bookshelf.\\n<Serena>"
                             ]
                         },
                         {
@@ -14355,21 +12535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "滑稽本や民話寓話の類が並んでいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり読ませてもらえないので少し興味がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "There are collections of comic books and\nfolktales. I'm a bit interested since I don't get\nto read them much.\\n<Serena>"
                             ]
                         },
                         {
@@ -14481,14 +12647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a bookshelf.\\n<Serena>"
                             ]
                         },
                         {
@@ -14505,21 +12664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昔の叙事詩など冒険がテーマの棚のようだが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事の参考にはならなさそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It seems to be a shelf themed around old epics and\nadventures... but it doesn't look like it'll be\nuseful for work.\\n<Serena>"
                             ]
                         },
                         {
@@ -14631,14 +12776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a bookshelf.\\n<Serena>"
                             ]
                         },
                         {
@@ -14655,21 +12793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "料理本などの実用書が並んでいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山菜図鑑…メアリ殿に差し上げたら喜ばれるかもしれぬな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "There are practical books like cookbooks lined up.\nA wild plant guidebook... Mary-sama might be\npleased if I give it to her.\\n<Serena>"
                             ]
                         },
                         {
@@ -14781,14 +12905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a bookshelf.\\n<Serena>"
                             ]
                         },
                         {
@@ -14805,21 +12922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体調に関する本が並んでいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "胃腸風邪に効くおまじない…月齢と頭痛の関係性…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "There are books about health. Charms for\ngastroenteritis... The relationship between the\nlunar phase and headaches...\\n<Serena>"
                             ]
                         },
                         {
@@ -14847,28 +12950,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "妊娠に関する本もある。買っておこうか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いやどうせお金をだすならカトリーヌ殿に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "かかったほうがいいだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "There are also books about pregnancy. Should I buy\none... No, if I'm going to spend money, it would\nbe better to consult Catherine-sama.\\n<Serena>"
                             ]
                         },
                         {
@@ -14895,14 +12977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今の所私には必要のなさそうな本ばかりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "For now, it seems like these books are unnecessary\nfor me.\\n<Serena>"
                             ]
                         },
                         {
@@ -15024,14 +13099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絵画だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a painting.\\n<Serena>"
                             ]
                         },
                         {
@@ -15048,21 +13116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王都の遠景図だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰の作品だろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a panoramic view of the royal capital. I\nwonder who the artist is.\\n<Serena>"
                             ]
                         },
                         {
@@ -15174,14 +13228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絵画だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a painting.\\n<Serena>"
                             ]
                         },
                         {
@@ -15198,21 +13245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王都の遠景図だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰の作品だろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a distant view of the capital. I wonder who\nthe artist is.\\n<Serena>"
                             ]
                         },
                         {
@@ -15324,14 +13357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a book.\\n<Serena>"
                             ]
                         },
                         {
@@ -15348,14 +13374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "存在者の諸原理…古代の哲学書だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The Principles of Being... It's an ancient\nphilosophy book.\\n<Serena>"
                             ]
                         },
                         {
@@ -15467,14 +13486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a book.\\n<Serena>"
                             ]
                         },
                         {
@@ -15491,21 +13503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "読みかけの本らしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人の読書を覗くのはあまり行儀のよい行いではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Seems like a book that's been read halfway\nthrough. It's not very polite to peek at someone\nelse's reading.\\n<Serena>"
                             ]
                         },
                         {

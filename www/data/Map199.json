@@ -4848,21 +4848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…あれが、スタリオン…か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "依頼の、討伐対象。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...So that's the Stallion... The target of the\nquest.\\n<Serena>"
                             ]
                         },
                         {
@@ -4897,28 +4883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "トイレの、あの男……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この化け物から名前をとったのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "似ても似つかぬ姿だが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The man in the restroom... Did he take his name\nfrom this monster? They bear no resemblance...\\n<Serena>"
                             ]
                         },
                         {
@@ -4945,28 +4910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんという異様な魔物だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "馬は美しい生き物と思うが…魔に交わると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こうまで醜く歪むものなのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "What a bizarre creature. I thought horses were\nbeautiful beings, but... to be so grotesquely\ntwisted by evil.\\n<Serena>"
                             ]
                         },
                         {
@@ -5044,14 +4988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…うっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Ugh.\\n<Serena>"
                             ]
                         },
                         {
@@ -5075,14 +5012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ？…私を見て…笑っている？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "What? ...Is it looking at me... and laughing?\\n<Serena>"
                             ]
                         },
                         {
@@ -5099,14 +5029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "獲物が向こうからやってきた…と言った所か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's as if the prey has come to us...\\n<Serena>"
                             ]
                         },
                         {
@@ -5144,21 +5067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいだろう、その下卑た笑みを歪んだ顔から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "引き剥がしてくれる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Very well, I shall strip that vile smile from your\ntwisted face!\\n<Serena>"
                             ]
                         },
                         {
@@ -5427,21 +5336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっ、何と言う膂力…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上はアファービレの護りがもたぬ…っ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Damn, what strength... I can't maintain the\nprotection of Afa-Bile any longer...\\n<Serena>"
                             ]
                         },
                         {
@@ -5472,21 +5367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一度退いて、態勢を立て直すしかない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴の突撃に音拳を打ち込んで、その隙に…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I must retreat and regroup... I'll strike with a\nsonic punch during his charge, and in that\nmoment...\\n<Serena>"
                             ]
                         },
                         {
@@ -5589,14 +5470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……うっ！？な…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Ugh!? Wha...\\n<Serena>"
                             ]
                         },
                         {
@@ -5992,14 +5866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うあぁっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Uwaaah!?\\n<Serena>"
                             ]
                         },
                         {
@@ -6090,14 +5957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっ、あっ…、しまっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Damn, ah... no...!\\n<Serena>"
                             ]
                         },
                         {
@@ -6226,14 +6086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃあああ！？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Kyaaaah!?!\\n<Serena>"
                             ]
                         },
                         {
@@ -6385,14 +6238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐっ…は、放せ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Grr... let go!\\n<Serena>"
                             ]
                         },
                         {
@@ -6505,21 +6351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐっ、うぅ…び、びくともしない…っ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで鉄枷…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Grr, ugh... it won't budge... It's like iron\nshackles...!\\n<Serena>"
                             ]
                         },
                         {
@@ -6617,14 +6449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ん゛ゥっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Nngh!?\\n<Serena>"
                             ]
                         },
                         {
@@ -6692,14 +6517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なにか、当たって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Wha... something's touching...\\n<Serena>"
                             ]
                         },
                         {
@@ -6756,21 +6574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この、体勢、姿勢。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "股…下……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "This position, posture... my crotch... below...\\n<Serena>"
                             ]
                         },
                         {
@@ -6849,21 +6653,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ま、まさか貴様…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "You can't be...! ...!\\n<Serena>"
                             ]
                         },
                         {
@@ -6890,21 +6680,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ま、まさか貴様、さ…っきの…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "物を…！それを、そんな物、を…っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Don't tell me you... from before... that thing...!\nYou're using such a thing...!\\n<Serena>"
                             ]
                         },
                         {
@@ -7012,14 +6788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅうう！あっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Uuuu! Ahh!!\\n<Serena>"
                             ]
                         },
                         {
@@ -7087,14 +6856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひぃ…ィ…うぅ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hii...ii... uuu...!\\n<Serena>"
                             ]
                         },
                         {
@@ -7151,14 +6913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嘘だ…冗談……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's a lie... a joke...\\n<Serena>"
                             ]
                         },
                         {
@@ -7238,14 +6993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐっ、いぃ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Grr, eek!?\\n<Serena>"
                             ]
                         },
                         {
@@ -7313,14 +7061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私に、突き、入れ…ようと…っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "You're trying to thrust it into me...!\\n<Serena>"
                             ]
                         },
                         {
@@ -7441,21 +7182,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お、お腹に、子供…が…ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "たの…む…それだけ、は…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "My stomach, there's a child... inside! Please...\nanything but that...!\\n<Serena>"
                             ]
                         },
                         {
@@ -7482,21 +7209,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "入るわけが、ないッ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "入らない…からァ！や、め……ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It can't possibly fit...! It won't go in...!\nStop...!\\n<Serena>"
                             ]
                         },
                         {
@@ -7593,21 +7306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぎぃぃ、いぃぃ！？いだっ、ぎっ…さ、裂け…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やめ、やめ…てッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Gyii, eee! It hurts, stop... I'm tearing apart...\nstop, please stop!\\n<Serena>"
                             ]
                         },
                         {
@@ -7694,21 +7393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無理だ…！裂ける、壊れる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなの入らない！入るわけない！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's impossible...! I'll tear, I'll break! That\ncan't go in! It just can't!!\\n<Serena>"
                             ]
                         },
                         {
@@ -7795,14 +7480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入…入れられっ…ったら……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "If it goes in...!\\n<Serena>"
                             ]
                         },
                         {
@@ -7870,14 +7548,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私も…子供も…死……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Both I and the child will die...\\n<Serena>"
                             ]
                         },
                         {
@@ -7904,14 +7575,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "死……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Die...\\n<Serena>"
                             ]
                         },
                         {
@@ -8008,14 +7672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁああ！嫌だ！嫌だぁああ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Aaahhh! No! I don't want this!!\\n<Serena>"
                             ]
                         },
                         {
@@ -8102,21 +7759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな所で！こんな惨めな…死に方…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやっ…ぎっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Not here! Not such a miserable way to die...!\nNooo... gah!?\\n<Serena>"
                             ]
                         },
                         {
@@ -8203,14 +7846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁあああ無理、無理無理無理ム…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Aaaahhh it's impossible, impossible impossible\nimpossible Im...!!\\n<Serena>"
                             ]
                         },
                         {
@@ -8319,14 +7955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んンぎぃぃィぃ゛ぃイぃぃ！！？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Nnghyiiiiiiii!!??\\n<Serena>"
                             ]
                         },
                         {
@@ -8383,14 +8012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…アッ！…カハッ…ッッ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Ah! ...Cough...!!\\n<Serena>"
                             ]
                         },
                         {
@@ -8447,14 +8069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "げぼッ…！お…！あガ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Gobuh...! Oh...! Agah...!\\n<Serena>"
                             ]
                         },
                         {
@@ -8471,21 +8086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はひっ゛…はっ…わ゛、たっ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いき゛…て…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hahh... hahh... am I still alive...?\\n<Serena>"
                             ]
                         },
                         {
@@ -8553,21 +8154,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…おなか、の、中…あか…ちゃ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どう……な……。かん、かく…が…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Inside my stomach... the child... what's\nhappening to it, the sensation is...\\n<Serena>"
                             ]
                         },
                         {
@@ -8594,21 +8181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…おなか、の、中…わたし、じゃ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "な…い……。かん、かく…が…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Inside my stomach... it's not me, the sensation\nis...\\n<Serena>"
                             ]
                         },
                         {
@@ -8733,14 +8306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ゛あ゛あ゛あ゛あ゛っ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Aaaaaah!?!\\n<Serena>"
                             ]
                         },
                         {
@@ -8797,14 +8363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おごぉおッッ！お゛ェ！あ゛ァア゛ア！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ooohhhhh! Oooh! Aaaahhhh!!\\n<Serena>"
                             ]
                         },
                         {
@@ -8939,14 +8498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごボッ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Gobuh!?!\\n<Serena>"
                             ]
                         },
                         {
@@ -9014,14 +8566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かひゅっ…かっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Kahyuh... cough...\\n<Serena>"
                             ]
                         },
                         {
@@ -9125,14 +8670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひぎぃいい……ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Higyiiii...!\\n<Serena>"
                             ]
                         },
                         {
@@ -9236,14 +8774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ゛っ、あ゛あ゛あ゛あ゛っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ahh, ahh ahh ahh!!\\n<Serena>"
                             ]
                         },
                         {
@@ -9349,14 +8880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いかっ！？ぎっ！や、め゛っ！ぉ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "No! Stop! Ah, don't...! Oh!?\\n<Serena>"
                             ]
                         },
                         {
@@ -9413,14 +8937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "からっ…だ…めちゃく、なっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's empty... inside... it's a mess...!\\n<Serena>"
                             ]
                         },
                         {
@@ -9488,14 +9005,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あか、ちゃ…産ん……出たり…入った…り…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Red... it's... giving birth... coming out... going\nin...!\\n<Serena>"
                             ]
                         },
                         {
@@ -9512,14 +9022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ご…ん゛な…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's... wrong...!\\n<Serena>"
                             ]
                         },
                         {
@@ -9546,21 +9049,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どうなっ…！わた…から、だ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わからな、なに、もっ、あァアあああ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "What's happening...! From me... inside, I don't\nunderstand, what's happening, ahhhhhh!\\n<Serena>"
                             ]
                         },
                         {
@@ -9638,14 +9127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃぐっ！？ひぐッ！あ！ゲ！ボ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Kyaguh!? Higuh! Ah! Gah! Buh...!\\n<Serena>"
                             ]
                         },
                         {
@@ -9702,14 +9184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アッ！ガ！ひ…おボ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ah! Gah! Hi... oh buh...!\\n<Serena>"
                             ]
                         },
                         {
@@ -9766,14 +9241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "終わっ…終わって゛…！は、や…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's over... it's ending...! Ha, quickly...!\\n<Serena>"
                             ]
                         },
                         {
@@ -9830,14 +9298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こわれ、わた…、こわれ……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Breaking, I'm... breaking apart...!\\n<Serena>"
                             ]
                         },
                         {
@@ -10050,14 +9511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ァ゛あ゛あああ゛ぁぁアぁ゛ぁアぁ゛！！？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Aaaaaaahhhhhhhh!!??\\n<Serena>"
                             ]
                         },
                         {
@@ -10161,14 +9615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ゛っ、あああ、ああぁぁぁ…あっ、あっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ahh, ahhh, ahhhhhh... ah, ah...\\n<Serena>"
                             ]
                         },
                         {
@@ -10254,14 +9701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひっ…はっ、ひっ……あっ、あっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hih... hah, hih... ah, ah...\\n<Serena>"
                             ]
                         },
                         {
@@ -10329,14 +9769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Oh...?\\n<Serena>"
                             ]
                         },
                         {
@@ -10440,14 +9873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごぼっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Gobuh.\\n<Serena>"
                             ]
                         },
                         {
@@ -10504,14 +9930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あ゛っ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Ahh...\\n<Serena>"
                             ]
                         },
                         {
@@ -10528,14 +9947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……死…………。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "(...dying...)\\n<Serena>"
                             ]
                         },
                         {
@@ -10552,14 +9964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（…………ぬ……。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "(...dead...)\\n<Serena>"
                             ]
                         },
                         {
@@ -10674,14 +10079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -11983,14 +11381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -12134,14 +11525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ、はぁ……。あ、うぅ…っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "*panting*...ah, uhh...!\\n<Serena>"
                             ]
                         },
                         {
@@ -12228,14 +11612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……うな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...don't.\\n<Serena>"
                             ]
                         },
                         {
@@ -12292,14 +11669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "笑うな！笑うな！！ああああぁぁぁーーー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Don't laugh! Don't laugh!! Aaaaaah---!!\\n<Serena>"
                             ]
                         },
                         {
@@ -12599,14 +11969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…あっ、あっ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ah, ah...\\n<Serena>"
                             ]
                         },
                         {
@@ -12663,21 +12026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かて、ない…。こいつに、勝てないのか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I can't win... Can't I beat this guy... I...\\n<Serena>"
                             ]
                         },
                         {
@@ -12828,14 +12177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひっ、あっ…あっ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hah, ah... ah...\\n<Serena>"
                             ]
                         },
                         {
@@ -13012,14 +12354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やめ、やめて…こないで、近寄らないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Stop, stop it... Don't come, don't come any\ncloser.\\n<Serena>"
                             ]
                         },
                         {
@@ -13234,21 +12569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あああっ…いやぁ、もういや、それは嫌…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけはいや、今度こそ死んじゃうっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Aaah... no more, I can't take it, that's the\nworst...! Not that, I'll really die this time!\\n<Serena>"
                             ]
                         },
                         {
@@ -13336,14 +12657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たのむ、たの…む、やだ、や――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Please, plea...se, no, no--\\n<Serena>"
                             ]
                         },
                         {
@@ -13595,14 +12909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嫌ァアーーーっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Nooo---!\\n<Serena>"
                             ]
                         },
                         {
@@ -13681,21 +12988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなのむり！いやぁ！こんどこそ死ぬ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しんじゃ――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "That's impossible! Nooo! I'll really die this\ntime! I'm gonna die--\\n<Serena>"
                             ]
                         },
                         {
@@ -13818,14 +13111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お゛げっ！！！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ughh!!!?\\n<Serena>"
                             ]
                         },
                         {
@@ -13900,21 +13186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ゛っ…あ、あ…入っ…で…なんで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前よりこんな…あっさり…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ahh... ah, ah... It's in... why, it's so much\neasier than before...\\n<Serena>"
                             ]
                         },
                         {
@@ -14029,14 +13301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん、ぎぃぃぃ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Yeah, giiii!\\n<Serena>"
                             ]
                         },
                         {
@@ -14151,14 +13416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かはっ、ひぃ、ひぃぃぃ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Kahh, hii, hiiii!!\\n<Serena>"
                             ]
                         },
                         {
@@ -14246,21 +13504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なん、で…ごん、な…お腹の中ぜんぶ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おちんちん、に…こひゅっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Why... such... my stomach is all filled with your\ncock... squish.\\n<Serena>"
                             ]
                         },
                         {
@@ -14328,14 +13572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひっ、ひぃぃ、ひぃぃーーーっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hah, hiii, hiiii---!?\\n<Serena>"
                             ]
                         },
                         {
@@ -14401,14 +13638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ゛っ、まだふくらん、でぇぇっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Aaahh, it's still swelling, noooo!\\n<Serena>"
                             ]
                         },
                         {
@@ -14612,21 +13842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぼぇぇっ、でて、おなか、破裂…お、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お゛お゛っ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Uboeeeh, it's coming out, my stomach is going to\nburst... oh, ohhh!\\n<Serena>"
                             ]
                         },
                         {
@@ -14703,14 +13919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いん、ぎっ！？おごっ、あっ、やべっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "In, gih!? Ughh, ah, crap.\\n<Serena>"
                             ]
                         },
                         {
@@ -14787,14 +13996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かひっ…ひゅー、ひゅー…ひっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Kahh... hyu-, hyu-... hah.\\n<Serena>"
                             ]
                         },
                         {
@@ -14898,14 +14100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぴっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ahp.\\n<Serena>"
                             ]
                         },
                         {
@@ -15092,14 +14287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っ……ぉ゛っ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...ughh...\\n<Serena>"
                             ]
                         },
                         {
@@ -15198,21 +14386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い……識……っ……ごふっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぉ……ッ！ごっ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Consciousness... fading... cough! Oh...! Cough...!\\n<Serena>"
                             ]
                         },
                         {
@@ -15311,14 +14485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ！ぎ！ぅうぐぎっ！ぃい！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Nnh! Gih! Uugh gih! Eeek!!\\n<Serena>"
                             ]
                         },
                         {
@@ -15364,14 +14531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、ぐ、ぅ………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ah, guh, uuh...\\n<Serena>"
                             ]
                         },
                         {
@@ -15500,14 +14660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は……やくっ……も、ぉ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Please... hurry... more, oh...\\n<Serena>"
                             ]
                         },
                         {
@@ -15808,14 +14961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "らく、に……し、て…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Make it... easy... for me...\\n<Serena>"
                             ]
                         },
                         {

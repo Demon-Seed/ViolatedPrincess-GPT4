@@ -9574,14 +9574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セレナ、早く逃げよう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Serena, let's escape quickly!\\n<Cecilia>"
                             ]
                         },
                         {
@@ -9778,14 +9771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "\"...\"\\n<Cecilia>"
                             ]
                         },
                         {
@@ -9810,14 +9796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おかしいな、妙に警備が少ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "\"Strange, the security seems unusually sparse.\"\\n<Cecilia>"
                             ]
                         },
                         {
@@ -9835,14 +9814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もうちょっと人がいると思ったけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "\"I thought there would be more people around...\"\\n<Cecilia>"
                             ]
                         },
                         {
@@ -9867,14 +9839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "\"...\"\\n<Cecilia>"
                             ]
                         },
                         {
@@ -9985,21 +9950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "４００万！４００万Ｓです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ございませんか！ございませんか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<司会の男>"
+                                "\"4 million! 4 million S! Does anyone have it? Does\nanyone have it!?\"\\n<The Male Host>"
                             ]
                         },
                         {
@@ -10017,14 +9968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "４１５万！まだ出ます！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<司会の男>"
+                                "\"4.15 million! The bids are still coming!!\"\\n<The Male Host>"
                             ]
                         },
                         {
@@ -10042,14 +9986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<司会の男>"
+                                "\"...! ...!\"\\n<The Male Host>"
                             ]
                         },
                         {
@@ -10118,14 +10055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。骨…。大量の血痕……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "\"...bones... a large amount of bloodstains...\"\\n<Cecilia>"
                             ]
                         },
                         {
@@ -10150,14 +10080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どういう事、なんで……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "\"What does this mean, why...?\"\\n<Cecilia>"
                             ]
                         },
                         {
@@ -10175,14 +10098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっそ、血のりが奥に続いてるじゃねーか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "\"Damn it, the trail of blood continues further\nin...\"\\n<Cecilia>"
                             ]
                         },
                         {
@@ -10207,21 +10123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "首の後ろがチリッチリする……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あー、義理がどうとか言わなきゃよかった…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "\"I've got chills down my spine...! Ah, I shouldn't\nhave talked about obligations...!\"\\n<Cecilia>"
                             ]
                         },
                         {
@@ -10478,14 +10380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "情報が確かなら、ここが照明制御室のはずだけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "\"If the information is correct, this should be the\nlighting control room...\"\\n<Cecilia>"
                             ]
                         },
                         {
@@ -10592,14 +10487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "\"!!\"\\n<Cecilia>"
                             ]
                         },
                         {
@@ -10624,14 +10512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "\"...?!\"\\n<Cecilia>"
                             ]
                         },
                         {
@@ -10649,14 +10530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、何あんた？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "\"Eh, who are you?\"\\n<Cecilia>"
                             ]
                         },
                         {
@@ -10924,14 +10798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁああ暴れんなあああ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Ahhh, stop thrashing around!!!\\n<Cecilia>"
                             ]
                         },
                         {
@@ -11013,14 +10880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『眠れ』！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "\"Sleep\"!\\n<Cecilia>"
                             ]
                         },
                         {
@@ -11077,14 +10937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ、子守のアミュレット、効くじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Oh, the lullaby amulet is working!\\n<Cecilia>"
                             ]
                         },
                         {
@@ -11108,14 +10961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまぬ、手間をかける…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "My apologies for the trouble...\\n<Serena>"
                             ]
                         },
                         {
@@ -11170,21 +11016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁお代金はいただいてますからね…っと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よっしゃ！行くよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Well, I've received my payment after all...\nAlright! Let's go!\\n<Cecilia>"
                             ]
                         },
                         {
@@ -11208,14 +11040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hmm!\\n<Serena>"
                             ]
                         },
                         {
@@ -12183,14 +12008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この様子では、あの会場の者達は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "With the situation like this, those people at the\nvenue are...\\n<Serena>"
                             ]
                         },
                         {
@@ -12553,14 +12371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この様子では、あの会場の者達は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "With things like this, those people at the venue\nare...\\n<Serena>"
                             ]
                         },
                         {
@@ -14068,14 +13879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戻るのは危険だ、急がねば！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's dangerous to go back, we must hurry!\\n<Serena>"
                             ]
                         },
                         {
@@ -14173,14 +13977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "逃げ道はこっちではない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The escape route is not this way!\\n<Serena>"
                             ]
                         },
                         {

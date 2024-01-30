@@ -4276,14 +4276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -4753,14 +4746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……閑散としているな。こんな娼館は初めて見た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...It's so deserted. I've never seen a brothel\nthis quiet before.\\n<Serena>"
                             ]
                         },
                         {
@@ -4784,21 +4770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この店の騒々しさには心底うんざりしていたものだが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いざなくなってみると妙な気分だ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I was utterly sick of the noise in this place, but\nnow that it's gone, it feels strangely odd...\\n<Serena>"
                             ]
                         },
                         {
@@ -4904,21 +4876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰だ？今店は…って、ジニーじゃねえか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "てめェ！何処をほっつき歩いてやがった！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ディーコン>"
+                                "Who's there? The shop is... wait, isn't that\nGinny?! You bastard! Where the hell have you been\nwandering off to!?\\n<Deacon>"
                             ]
                         },
                         {
@@ -4973,14 +4931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ディーコン。そなた、無事だったのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Deacon. You're safe, then.\\n<Serena>"
                             ]
                         },
                         {
@@ -5004,21 +4955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "色々とあって……今ようやく戻った。のだが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "A lot has happened... and I've only just managed\nto return. But this is...\\n<Serena>"
                             ]
                         },
                         {
@@ -5042,21 +4979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ。お前も聞いたろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マダムがよ、ぶっ殺されちまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ディーコン>"
+                                "Yeah. You must've heard too. The madam, she got\nkilled.\\n<Deacon>"
                             ]
                         },
                         {
@@ -5073,21 +4996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そりゃあ方々に怨み買ってるお人じゃあったがよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんな殺され方……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ディーコン>"
+                                "She had her share of grudges against her from all\nover... but to be killed like that...\\n<Deacon>"
                             ]
                         },
                         {
@@ -5111,14 +5020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見ていたのか？何があった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Did you see it happen? What occurred?\\n<Serena>"
                             ]
                         },
                         {
@@ -5142,21 +5044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "殺された瞬間は見てねえよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺だけじゃねえ。誰も見てない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ディーコン>"
+                                "I didn't see the moment she was killed. Not just\nme, nobody did.\\n<Deacon>"
                             ]
                         },
                         {
@@ -5173,21 +5061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いつも通り仕事してよ。閉店時間になったんだが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マダムがぜんぜん部屋から出て来ねえだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ディーコン>"
+                                "We were all just doing our jobs as usual. Then it\ngot to closing time, and the madam wasn't coming\nout of her room, see?\\n<Deacon>"
                             ]
                         },
                         {
@@ -5204,28 +5078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "妙に思って扉を開けたら……へへ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "血と肉が部屋中飛び散って……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "念入りにかき混ぜたシチューみてえになってた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ディーコン>"
+                                "Thought it was odd, so I opened the door and...\nheh. Blood and flesh were splattered all over the\nroom... looked like a stew that had been\nthoroughly stirred.\\n<Deacon>"
                             ]
                         },
                         {
@@ -5249,14 +5102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ……。れは……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "That is...\\n<Serena>"
                             ]
                         },
                         {
@@ -5280,21 +5126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "凄まじい殺され方……だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰も気付かなかったのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "A gruesome way to be killed... Didn't anyone\nnotice anything?\\n<Serena>"
                             ]
                         },
                         {
@@ -5318,21 +5150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少なくとも俺は気付かなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他の娼婦共はすぐに逃げ出しちまったしよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ディーコン>"
+                                "At least I didn't notice anything. The other\nwhores ran off right away.\\n<Deacon>"
                             ]
                         },
                         {
@@ -5349,21 +5167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "逃げたのは俺も一緒だけどな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "市警に見つかりゃ有無を言わさず犯人扱いで縛り首だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ディーコン>"
+                                "I ran off too. If the city guards found us, they'd\nhang us without a second thought, treating us as\nthe culprits.\\n<Deacon>"
                             ]
                         },
                         {
@@ -5387,21 +5191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なら何故今ここにいる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "市警はまだ犯人捜しをしているぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Then why are you here now? The city guards are\nstill searching for the murderer.\\n<Serena>"
                             ]
                         },
                         {
@@ -5434,14 +5224,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ガヌロンサマが俺のケツ持ちをしてくださるんだと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<ディーコン>"
+                                "Lord Ganuron has got my back.\\n<Deacon>"
                             ]
                         },
                         {
@@ -5468,21 +5251,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ガヌロンサマが俺のケツ持ちをしてくださるんだと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お前もそうだろ？ここにこうしているって事は……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<ディーコン>"
+                                "Lord Ganuron has got my back. You too, right?\nBeing here means...\\n<Deacon>"
                             ]
                         },
                         {
@@ -5509,21 +5278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへ、市警から守ってやるから、娼館を再開しろってな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがたくって涙が出るぜ……クソ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ディーコン>"
+                                "Heh, \"I'll protect you from the city guards, so\nget the brothel up and running again,\" he says.\nMakes me so grateful I could cry... Bullshit.\\n<Deacon>"
                             ]
                         },
                         {
@@ -5547,14 +5302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -5578,28 +5326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うちを支店にでもするつもりなのか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "折角競合が潰れたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スラムの奥で好きにやってりゃいいものをよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ディーコン>"
+                                "Planning to make our place a branch or\nsomething... Just when the competition's been\ncrushed. They should've just kept to themselves in\nthe depths of the slums.\\n<Deacon>"
                             ]
                         },
                         {
@@ -5616,21 +5343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とにかく、娼館は再開する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二階だけだがな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ディーコン>"
+                                "Anyway, we're reopening the brothel. Just the\nsecond floor though.\\n<Deacon>"
                             ]
                         },
                         {
@@ -5647,28 +5360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あー忙しい忙しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "挨拶して、人の手配をして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "商売の再開っつうのはよ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<ディーコン>"
+                                "Ah—busy, busy. Gotta greet people, arrange for\nstaff, restarting a business is...\\n<Deacon>"
                             ]
                         },
                         {
@@ -5894,14 +5586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ah...\\n<Serena>"
                             ]
                         },
                         {
@@ -5925,14 +5610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -6524,14 +6202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホールのドアだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's the hall door.\\n<Serena>"
                             ]
                         },
                         {
@@ -6548,14 +6219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もうここを通る事もあるまい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I doubt we'll pass through here again...\\n<Serena>"
                             ]
                         },
                         {

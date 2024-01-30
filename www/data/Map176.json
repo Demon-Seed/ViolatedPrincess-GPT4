@@ -13803,14 +13803,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戻るのはいやだ…絶対に逃げるんだ…っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I don't want to go back... I must escape...!\\n<Serena>"
                             ]
                         },
                         {
@@ -14090,14 +14083,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "っ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -14114,14 +14100,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "この先には、あの魔物が……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Beyond here lies that monster...\\n<Serena>"
                             ]
                         },
                         {
@@ -14145,14 +14124,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -14160,7 +14132,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "戦う",
+                                    "Fight",
                                     "……"
                                 ],
                                 1,
@@ -14198,21 +14170,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "怯えるな…戦わねばならぬ。目の前の恐怖から逃げて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "どうして困難を達成する事が出来る！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Don't be afraid... We must fight. How can we\novercome difficulties if we flee from the fear\nbefore us!\\n<Serena>"
                             ]
                         },
                         {
@@ -14236,14 +14194,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "私は、恐怖を克服するのだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I will conquer my fear!\\n<Serena>"
                             ]
                         },
                         {
@@ -14324,14 +14275,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "うっ…ぐっ、おぇ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ugh...ugh, bleh...\\n<Serena>"
                             ]
                         },
                         {
@@ -14430,14 +14374,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "はぁ、はぁ……う、うぅ……。かあさま…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "*panting*...uh, uhh...mother...\\n<Serena>"
                             ]
                         },
                         {
@@ -14754,14 +14691,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "今はこの先に用事はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "There's no need to go beyond here right now.\\n<Serena>"
                             ]
                         },
                         {
@@ -15028,14 +14958,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "今はこの先に用事はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "There's no need to go beyond here right now.\\n<Serena>"
                             ]
                         },
                         {

@@ -4011,21 +4011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あーくっそ…腰痛ェ～…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どういう体重してんだあのおっさん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Ah, damn it... My back hurts... How heavy was that\nold man...\\n<Cecilia>"
                             ]
                         },
                         {
@@ -4100,21 +4086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でもま、これでしばらくは見つかんないでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガキ共は勝手に部屋に入れないよう躾られてるし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "But well, we won't be found for a while now. The\nkids are trained not to enter rooms on their own.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -4178,14 +4150,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あんたは怪我の具合どう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "How are your injuries?\\n<Cecilia>"
                             ]
                         },
                         {
@@ -4254,14 +4219,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんとか…顔の腫れはひいてきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Somehow... The swelling on my face has gone down.\\n<Serena>"
                             ]
                         },
                         {
@@ -4285,14 +4243,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それならいいけどね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "That's good then...\\n<Cecilia>"
                             ]
                         },
                         {
@@ -4323,14 +4274,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -4354,21 +4298,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "浮かない顔ね。ってまぁ、今さっきレイプされといて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "浮くも浮かないもないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "You look down. But then again, you were just\nraped, so it's not like you could be cheerful.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -4399,14 +4329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…それも…あるが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...That's part of it...\\n<Serena>"
                             ]
                         },
                         {
@@ -4430,21 +4353,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何、人死にを気にしてるわけ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ハッ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "What, are you worried about the guy who died? Ha.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -4468,21 +4377,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いい？さっきも言ったけどあんたは何も気にしなくていい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あいつは死んで当然の奴で、だから私がブッ殺した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Listen, like I said before, you don't need to\nworry about anything. That guy deserved to die,\nand that's why I killed him.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -4499,14 +4394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あんたは偶々その場そのタイミングに居合わせただけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "You just happened to be there at that time.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -4530,14 +4418,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……うむ………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Yes...\\n<Serena>"
                             ]
                         },
                         {
@@ -4592,14 +4473,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅー………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Phew...\\n<Cecilia>"
                             ]
                         },
                         {
@@ -4664,14 +4538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとね何から何まで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Thanks for everything.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -4740,14 +4607,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うむ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Yes...\\n<Serena>"
                             ]
                         },
                         {
@@ -4771,14 +4631,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…もう一度言うけど、あんたは何も気にしなくていい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "...I'll say it again, you don't need to worry\nabout anything.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -4795,21 +4648,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あいつは後ろから刺されて当然の生き方してた奴で。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日警戒が足りなくて死んだ。私がブッ殺した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "He lived his life in a way that he deserved to be\nstabbed from behind. He was careless today and\ndied. I killed him.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -4826,14 +4665,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あんたは偶々その場そのタイミングに居合わせただけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "You just happened to be there at that time.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -4857,14 +4689,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……うむ………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Yes...\\n<Serena>"
                             ]
                         },
                         {
@@ -4919,14 +4744,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はー………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Ha-...\\n<Cecilia>"
                             ]
                         },
                         {
@@ -4991,21 +4809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はいはい。とにかく、この件はもう私の預かりだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "終了。切り替え。閑話休題。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Alright, alright. Anyway, this matter is now in my\nhands. It's over. Move on. End of discussion.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -5060,14 +4864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これからの話をしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Let's talk about what comes next.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -5091,14 +4888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これから？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "What comes next?\\n<Serena>"
                             ]
                         },
                         {
@@ -5153,21 +4943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はあんたに…セレナに、超スッゲどデカい恩ができた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Yes. I owe you... Serena, a huge debt of\ngratitude.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -5184,14 +4960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だから今度は私の番。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "So now it's my turn.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -5215,21 +4984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユニコーンちゃんを助ける。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例の作戦、私も本気で乗っからせてもらう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "I'll help save Unicorn-chan. That plan we talked\nabout, I'm going to seriously get involved.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -5262,14 +5017,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それは…ありがたいが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "That is... appreciated but...\\n<Serena>"
                             ]
                         },
                         {
@@ -5303,14 +5051,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それは…素直にありがたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "That is... sincerely appreciated.\\n<Serena>"
                             ]
                         },
                         {
@@ -5344,21 +5085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "特に今、この状況。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上手く使えば作戦の精度を何段階も上げられる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Especially now, in this situation. If used well,\nwe can greatly improve the precision of the plan.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -5382,21 +5109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただちょっと確認とか、やる事をまとめたりとか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その時間が欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Just need some time to confirm things and organize\nwhat needs to be done.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -5413,21 +5126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セレナが急いでるのもわかってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから、一晩だけ頂戴。一晩で作戦をまとめてみせる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "I know Serena is in a hurry. So just give me one\nnight. I'll put together a plan in one night.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -5451,21 +5150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明日、日が昇ったら孤児院に来て。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこでセレナに作戦を話す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Come to the orphanage when the sun rises tomorrow.\nThere, I'll discuss the plan with Serena.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -5491,21 +5176,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あんたも体を休めたり、色々切り替えたり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "落ち着く時間必要でしょ。今。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "You also need time to rest your body, switch\ngears, and calm down. Right now.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -5529,14 +5200,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…うむ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Yes...\\n<Serena>"
                             ]
                         },
                         {
@@ -5570,14 +5234,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Understood.\\n<Serena>"
                             ]
                         },
                         {
@@ -5656,14 +5313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あとこれ。さっきのお金１００００Ｓ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Oh, and this. Here's the money from earlier, 10000\nS.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -5699,14 +5349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ah...\\n<Serena>"
                             ]
                         },
                         {
@@ -5730,21 +5373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさかここで泊まってかないでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宿代にでも使って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "You're not planning to stay here, right? Use it\nfor lodging or something.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -5777,14 +5406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうさせてもらおう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I will do that...\\n<Serena>"
                             ]
                         },
                         {
@@ -5818,14 +5440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうさせてもらおう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I will do that.\\n<Serena>"
                             ]
                         },
                         {
@@ -5859,21 +5474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかってると思うけど、外のガキ共はここで何が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あったかまだ知らない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "I think you understand, but the kids outside still\ndon't know what happened here.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -5890,21 +5491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怪しまれないように自然ん～に出てってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "万一ここの状況が外に漏れたら作戦は台無しになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Make sure you leave naturally without arousing\nsuspicion. If the situation here leaks out, our\nplan will be ruined.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -5928,14 +5515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "心得た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I have taken note.\\n<Serena>"
                             ]
                         },
                         {
@@ -6004,14 +5584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では、明日。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Then, until tomorrow.\\n<Serena>"
                             ]
                         },
                         {
@@ -6035,14 +5608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん、明日。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Yes, until tomorrow.\\n<Cecilia>"
                             ]
                         },
                         {
@@ -6261,14 +5827,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…くッ……う……痛ぅ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Ah...uh...it hurts...\\n<Serena>"
                             ]
                         },
                         {
@@ -6299,14 +5858,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -6330,21 +5882,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…恐怖も、苦痛も。罪も戸惑いも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全てこの夜に置いて行こう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Fear, pain, sin, and confusion. I'll leave it\nall behind tonight.\\n<Serena>"
                             ]
                         },
                         {
@@ -6368,21 +5906,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ようやく、ようやく道が開けたのだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今膝を折っている場合ではないのだから……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Finally, finally a path has opened up. Now is not\nthe time to falter...\\n<Serena>"
                             ]
                         },
                         {
@@ -6435,14 +5959,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…すっかり夜だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...It's completely night now.\\n<Serena>"
                             ]
                         },
                         {
@@ -6459,21 +5976,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…思えば、これがこの街に来てから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "初めて誰の指図も受けずに過ごす夜かもしれぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Come to think of it, this might be the first\nnight I've spent in this town without following\nanyone's orders.\\n<Serena>"
                             ]
                         },
                         {
@@ -6497,14 +6000,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -6528,14 +6024,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…少し肌寒いな。早く宿を取ってしまおう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...It's a bit chilly. I should find a place to\nstay quickly.\\n<Serena>"
                             ]
                         },
                         {

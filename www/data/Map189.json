@@ -2725,21 +2725,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まったく、土から出るやら穴から湧くやら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "キリがないな。こういった手合いの相手は。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"Honestly, they just keep coming out of the ground\nand crawling out of holes. There's no end to it.\nDealing with these types is...\\n<Serena>"
                             ]
                         },
                         {
@@ -2763,21 +2749,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私の仕事になってくれていると思えば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "都合が良いと言えるのかもしれんが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"If I think of it as part of my job, maybe it's\nconvenient in a way, but...\\n<Serena>"
                             ]
                         },
                         {
@@ -2808,14 +2780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まぁよい。戻って報告を終わらせるとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"Well, it's fine. Let's go back and finish the\nreport.\\n<Serena>"
                             ]
                         },
                         {
@@ -2856,14 +2821,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……はぁ、はぁ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"...Haa, haa...\\n<Serena>"
                             ]
                         },
                         {
@@ -2887,21 +2845,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この程度の連中に不覚を取っていたというのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…勝って、ますます嫌になる……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"To think I let my guard down against such\nriffraff... Winning only makes it more\ndistasteful...\\n<Serena>"
                             ]
                         },
                         {
@@ -2932,21 +2876,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…もはや用もない……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "戻って報告をしてこよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "\"...No more need for this... Let's go back and\nreport.\\n<Serena>"
                             ]
                         },
                         {
@@ -3224,14 +3154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他愛のない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "How trivial.\\n<Serena>"
                             ]
                         },
                         {
@@ -3255,21 +3178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしこういった連中の相手をこそ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本来は市警が行うべきではないのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "But shouldn't the city police be the ones to deal\nwith these types of people?\\n<Serena>"
                             ]
                         },
                         {
@@ -3286,28 +3195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その分冒険者への依頼が増えるのだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の立場では喜んでよいのかもしれぬが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…少し複雑な感情だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Though it means more requests for adventurers,\nwhich should please me... I have mixed feelings\nabout it.\\n<Serena>"
                             ]
                         },
                         {
@@ -3338,14 +3226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁよい。…戻って報告を終わらせるとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Well, no matter... Let's head back and finish the\nreport.\\n<Serena>"
                             ]
                         },
                         {

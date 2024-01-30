@@ -7036,14 +7036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くそがあ！あのメス豚共ぉ！ぼこすか火ィつけやがって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<盗賊>"
+                                "Damn it! Those bitches! They've set the place on\nfire!\\n<Thief>"
                             ]
                         },
                         {
@@ -7060,14 +7053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せっかく貯めたお宝がぁ！水だ！火を消せぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<盗賊>"
+                                "My precious hoarded treasure! Water! Put out the\nfire!\\n<Thief>"
                             ]
                         },
                         {
@@ -8762,14 +8748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よぉー。ようやく出て来たな。待ってたぜぇ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "Yo... Finally showed up, huh? I've been waiting...\\n<???>"
                             ]
                         },
                         {
@@ -8786,14 +8765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
@@ -8909,14 +8881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あン？エリカ一人じゃねえのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<頭目>"
+                                "Huh? Isn't it just Erika alone?\\n<Boss>"
                             ]
                         },
                         {
@@ -8933,21 +8898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁそりゃあそうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助けがなきゃあこんな事はヤれねえわなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<頭目>"
+                                "Well, that figures. You wouldn't dare do this\nwithout some help.\\n<Boss>"
                             ]
                         },
                         {
@@ -8971,14 +8922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こやつは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "This guy is...\\n<Serena>"
                             ]
                         },
                         {
@@ -9091,14 +9035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドッヂ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Dodge...\\n<Erika>"
                             ]
                         },
                         {
@@ -9115,14 +9052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ？エリカちゃんよぉ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<熊手のドッヂ>"
+                                "Eh? Erika-chan, you say!\\n<Bear Claw Dodge>"
                             ]
                         },
                         {
@@ -9139,21 +9069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お得意の哀れっぽい悲鳴で、ご同業に助けていただいた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ってわけだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<熊手のドッヂ>"
+                                "So you called for help from your peers with your\npitiful screams, huh!\\n<Bear Claw Dodge>"
                             ]
                         },
                         {
@@ -9170,21 +9086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その助っ人さんには見てもらったのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テメーが嫌だいやだって泣きわめくとこ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<熊手のドッヂ>"
+                                "Did your rescuer get to see you crying and wailing\nabout how much you didn't want it?\\n<Bear Claw Dodge>"
                             ]
                         },
                         {
@@ -9201,21 +9103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺のガキ孕むの嫌さに、土下座までしてたよな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まーすぐにぶち込んでやったがよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<熊手のドッヂ>"
+                                "You were so against getting pregnant with my kid,\nyou even groveled on your knees! But I shoved it\nin straight away!\\n<Bear Claw Dodge>"
                             ]
                         },
                         {
@@ -9232,21 +9120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺の濃厚精液流し込まれた時のお前の泣きべそ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっちの助っ人さんにも聞かせてやりたかったなぁ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<熊手のドッヂ>"
+                                "The look on your face when my thick semen was\npouring into you! I wish I could've shown that to\nyour rescuer too~?\\n<Bear Claw Dodge>"
                             ]
                         },
                         {
@@ -9303,7 +9177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エリカ>てめぇ……。"
+                                "\\n<Erika>You bastard..."
                             ]
                         },
                         {
@@ -9397,14 +9271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くだらぬ挑発だ。とりあう価値もない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Such worthless provocation. Not even worth\nresponding to.\\n<Serena>"
                             ]
                         },
                         {
@@ -9428,14 +9295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>数は５…こちらは２…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エリカ殿、動けるという事でよいのだな？"
+                                "\\n<Serena>There are five of them... and two of us... Erika-\ndono, you can move, right?"
                             ]
                         },
                         {
@@ -9499,14 +9359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "飛んだり跳ねたりとまではいかねえけどな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "I can't exactly fly or jump around, but yeah.\\n<Erika>"
                             ]
                         },
                         {
@@ -9563,21 +9416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、まァ…こっちは腹ン中、溶岩みてえにグツグツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フットーしちまってっからよぉ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "But, well... my insides are boiling like lava\nright now...!\\n<Erika>"
                             ]
                         },
                         {
@@ -9594,14 +9433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へたりこんじゃあいられねえ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "I can't just collapse here...!\\n<Erika>"
                             ]
                         },
                         {
@@ -9658,21 +9490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺の虎の子、榴弾を…クソカス野郎のケツ穴にぶちこんで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "点火してやる！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "I'll take my precious grenade... shove it up that\nshithead's ass and light the fuse!!\\n<Erika>"
                             ]
                         },
                         {
@@ -9740,21 +9558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ！その意気だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならば…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Indeed! That's the spirit! Then...!\\n<Serena>"
                             ]
                         },
                         {
@@ -9822,14 +9626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこの下衆！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "You scoundrel over there!\\n<Serena>"
                             ]
                         },
                         {
@@ -9853,14 +9650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あァん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<熊手のドッヂ>"
+                                "What's that?\\n<Bear Claw Dodge>"
                             ]
                         },
                         {
@@ -9928,21 +9718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様は我が友エリカ・リンルートに対し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "侮辱、嘲弄を加え、苦しめ、苛み、弄んだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "You have insulted, mocked, tormented, harassed,\nand toyed with my friend Erika Rinruto!\\n<Serena>"
                             ]
                         },
                         {
@@ -10039,21 +9815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その愚行！その悪業！決して看過できぬ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "決して許すわけにはいかぬ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Such folly! Such evil deeds! They cannot be\noverlooked! They cannot be forgiven!\\n<Serena>"
                             ]
                         },
                         {
@@ -10121,21 +9883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わが身わが命を賭して！今日今ここで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様の行いにふさわしい報いの一撃をくれてやろう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I stake my life and my honor! Today, right here! I\nshall deliver a blow that befits your actions!\\n<Serena>"
                             ]
                         },
                         {
@@ -10166,14 +9914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁあー？なぁーんのまじないだそりゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<熊手のドッヂ>"
+                                "Hah? What kind of mumbo jumbo is that?\\n<Bear Claw Dodge>"
                             ]
                         },
                         {
@@ -10190,14 +9931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今から始まるのはなぁ！てめーらメス豚の屠殺ショーだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<熊手のドッヂ>"
+                                "What's about to start here is the slaughter show\nof you sow pigs!\\n<Bear Claw Dodge>"
                             ]
                         },
                         {
@@ -10214,14 +9948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶん殴ってぶった斬ってぶちのめしてぶち折ってェ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<熊手のドッヂ>"
+                                "I'll punch, slash, beat down, and break you!\\n<Bear Claw Dodge>"
                             ]
                         },
                         {
@@ -10238,14 +9965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人生最後の瞬間を、チンポとザー汁で塗りつぶしてやらぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<熊手のドッヂ>"
+                                "And fill your last moments with dick and cum!\\n<Bear Claw Dodge>"
                             ]
                         },
                         {
@@ -11414,14 +11134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギャババァーー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<熊手のドッヂ>"
+                                "GYABABAA--!!\\n<Bear Claw Dodge>"
                             ]
                         },
                         {
@@ -11930,14 +11643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ハァ…ハァ…。やっ……たぞ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "...Haa... Haa... I did it...\\n<Erika>"
                             ]
                         },
                         {
@@ -12069,14 +11775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見てたかァー！セレナ！やってやったぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Did you see that, Serena?! I did it!\\n<Erika>"
                             ]
                         },
                         {
@@ -12111,14 +11810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ。見事だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ah, splendid.\\n<Serena>"
                             ]
                         },
                         {
@@ -12213,21 +11905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうだ！クソ野郎が！どうだ！…人の…体をぉ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よくも！好き放題…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "How about that! You bastards! How about that!\n...Toying with... someone's... body...! How dare\nyou do whatever you please...!\\n<Erika>"
                             ]
                         },
                         {
@@ -12302,21 +11980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "てめえにも無理矢理ぶち込まれる痛みと苦しみを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…味合わせ…て…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "I'll make you taste the pain and suffering of\nbeing forcefully penetrated...\\n<Erika>"
                             ]
                         },
                         {
@@ -12429,14 +12093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリカ殿！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Lady Erika!\\n<Serena>"
                             ]
                         },
                         {
@@ -12617,21 +12274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へ…へ、大丈夫…大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちっと足がもつれただけ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Heh... heh, I'm okay... I'm okay. Just tripped\nover my feet a bit...\\n<Erika>"
                             ]
                         },
                         {
@@ -12648,21 +12291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しっかしま…流石の俺も今度ばかりは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちっとばかりくたびれたぜ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "But damn... even for me, this time I'm a bit worn\nout...\\n<Erika>"
                             ]
                         },
                         {
@@ -12730,14 +12359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作戦だどうだ言っといて…結局正面突破になっちまったし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Talking about strategies and all that... in the\nend, it turned into a frontal assault.\\n<Erika>"
                             ]
                         },
                         {
@@ -12754,14 +12376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奥の手も結局、使いそびれちまったなぁー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "And in the end, I didn't even get to use my trump\ncard...\\n<Erika>"
                             ]
                         },
                         {
@@ -12778,14 +12393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今からブチ込んでやってもいいけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "I could still shove it in now if I wanted to...\\n<Erika>"
                             ]
                         },
                         {
@@ -12809,21 +12417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仇のモンスターを倒す為に用立てた兵器なのであろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "温存できたのなら良い事ではないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It was a weapon prepared to defeat the enemy\nmonster. If it could be conserved, isn't that a\ngood thing?\\n<Serena>"
                             ]
                         },
                         {
@@ -12930,21 +12524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それもそうか。こんなクズに使ってやんのももったいネ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、イッチチチ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "That's true too. It would be a waste to use it on\nsuch trash... Ah, ouch ouch ouch...!\\n<Erika>"
                             ]
                         },
                         {
@@ -12968,14 +12548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "街まで…歩けそうか…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Can you walk to town...?\\n<Serena>"
                             ]
                         },
                         {
@@ -13043,21 +12616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつを杖にすりゃあなんとかな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セレナこそ、大丈夫かよ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "If I use this guy as a cane, somehow... But are\nyou really okay, Serena...?\\n<Erika>"
                             ]
                         },
                         {
@@ -13081,21 +12640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アファービレの防御は健在だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幸い、大きな怪我もない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The defense of Afa-Bire is still intact.\nFortunately, there are no major injuries.\\n<Serena>"
                             ]
                         },
                         {
@@ -13119,21 +12664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ、全身痛いし…それに疲れた…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな大立ち回りはしばらく遠慮したい気分だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "But my whole body hurts... and I'm tired... I'd\nlike to refrain from such a big fight for a while.\\n<Serena>"
                             ]
                         },
                         {
@@ -13157,14 +12688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハッハ、俺は金輪際御免こうむりたいぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Hah-hah, I'd like to decline such an ordeal for\ngood.\\n<Erika>"
                             ]
                         },
                         {
@@ -13210,14 +12734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…よし、あんまウダついてらんねえし。そろそろ行くか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "...Alright, we can't dawdle too much. Let's get\ngoing.\\n<Erika>"
                             ]
                         },
                         {
@@ -13234,21 +12751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "早えとこここを離れねえと。血の匂いにつられて野犬やら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モンスターやらが寄ってきちまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "We need to get out of here quick. The smell of\nblood will attract stray dogs and monsters.\\n<Erika>"
                             ]
                         },
                         {
@@ -13272,14 +12775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほど、それは悠長にしている場合ではないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Indeed, this is not the time to take things\nleisurely.\\n<Serena>"
                             ]
                         },
                         {
@@ -13296,14 +12792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なにしろ今の我々には子犬一匹の相手すらままならぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "After all, we're in no shape to even handle a\nsingle puppy right now.\\n<Serena>"
                             ]
                         },
                         {
@@ -13320,14 +12809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし、行こう、エリカ殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Let's go, Lady Erika.\\n<Serena>"
                             ]
                         },
                         {
@@ -13384,21 +12866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ最後に、ちょっとだけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Ah... then just one last thing, just a little bit.\\n<Erika>"
                             ]
                         },
                         {
@@ -13506,21 +12974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハァ…スゥ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハァー…スゥーーー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Haa... Swoo... Haa-... Swoo---.\\n<Erika>"
                             ]
                         },
                         {
@@ -13537,14 +12991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "...\\n<Erika>"
                             ]
                         },
                         {
@@ -13608,14 +13055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ッッザッマぁああーー！！みやッッッがれぇええええ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Take THAT--!! Die in agony!!\\n<Erika>"
                             ]
                         },
                         {
@@ -13650,21 +13090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クソ野郎共ォ、オオオオ！！人間のゴミが！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モンスター以下の最低下劣のカスクソがァア！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "You bastards, UGH!! Human trash! Lower than\nmonsters, the lowest of the low scum!\\n<Erika>"
                             ]
                         },
                         {
@@ -13681,21 +13107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人の体をよくも…！よくも好き放題…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好き放題レイプしてくれやがってよォおオおおおお！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "To think you would...! To think you would do as\nyou please...! Do as you please and rape someone!!\\n<Erika>"
                             ]
                         },
                         {
@@ -13759,14 +13171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "てめーらはこのまま野ざらしだ！死ね！全員死んじまえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "You'll be left here to rot! Die! All of you, just\ndie!\\n<Erika>"
                             ]
                         },
                         {
@@ -13783,21 +13188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出血多量で死ね！火にまかれて焼け死ね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生きたままモンスターに貪り食われろ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Bleed out and die! Burn in a fire and die! Be\ndevoured alive by monsters!\\n<Erika>"
                             ]
                         },
                         {
@@ -13854,21 +13245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "苦しんで！悶えて！のたうちまわって！生まれてきた事を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後悔しながらくたばりやがれえええェェエ！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Suffer! Writhe! Squirm! Die regretting ever being\nborn!!\\n<Erika>"
                             ]
                         },
                         {
@@ -13925,14 +13302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ッ。ハァ…ハァ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "...Haa... Haa...\\n<Erika>"
                             ]
                         },
                         {
@@ -14001,14 +13371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリカ殿…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Lady Erika...\\n<Serena>"
                             ]
                         },
                         {
@@ -14065,21 +13428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ…悪い……。…ダセーよな…。…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもよ、…我慢、できねかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Ah... sorry... That was lame... But I just\ncouldn't... hold it in.\\n<Erika>"
                             ]
                         },
                         {
@@ -14136,14 +13485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしても…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "No matter what...\\n<Erika>"
                             ]
                         },
                         {
@@ -14200,14 +13542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くそっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Damn it...\\n<Erika>"
                             ]
                         },
                         {
@@ -14231,7 +13566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>…いいや。"
+                                "\\n<Serena>...It's fine."
                             ]
                         },
                         {
@@ -14330,21 +13665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずびび…っ。さっ…行こうぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後の事はギルドの奴らに任せちまおう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Sniffle... Alright... let's go. We'll leave the\nrest to the guild guys.\\n<Erika>"
                             ]
                         },
                         {
@@ -14368,14 +13689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、面倒な後始末は全てマスターに押し付けてしまおう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Ah, let's just push all the troublesome cleanup\nonto the Master.\\n<Serena>"
                             ]
                         },
                         {
@@ -14392,14 +13706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのぐらいの権利はある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "We have that much right.\\n<Serena>"
                             ]
                         },
                         {
@@ -14478,21 +13785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いひひっひ、違ぇねえ。俺たちが苦労してっ間、ケツで椅子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "磨いてるだけ――セレナッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<エリカ>"
+                                "Eheheh, no kidding. While we're out here\nstruggling, they're just polishing chairs with\ntheir asses—Serena!\\n<Erika>"
                             ]
                         },
                         {
@@ -14598,7 +13891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>え？"
+                                "\\n<Serena>Huh?"
                             ]
                         },
                         {
@@ -15348,14 +14641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…何とか見つからずにここまで近づけたか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Somehow I've managed to get this close without\nbeing discovered.\\n<Serena>"
                             ]
                         },
                         {
@@ -15388,28 +14674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…周囲は崖に囲まれ、入口にも多数の見張り。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やはりエリカ殿のロープを使用して侵入するしか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なさそうだな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...The area is surrounded by cliffs, and there are\nmany lookouts at the entrance. It seems we have no\nchoice but to use Erika-sama's rope to\ninfiltrate...\\n<Serena>"
                             ]
                         },
                         {
@@ -15442,14 +14707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…人の死体、か。あれは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...A human corpse, is it? That is...\\n<Serena>"
                             ]
                         },
                         {
@@ -15466,28 +14724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人を殺し、金品を奪い、のみならずその遺体まで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "辱めるとは…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おのれ盗賊共…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "To kill people, steal their valuables, and not\nonly that but to also desecrate their bodies...!\nDamn thieves...!\\n<Serena>"
                             ]
                         },
                         {
@@ -15511,14 +14748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "急がねば、エリカ殿をあそこに並べさせるわけにはいかぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I must hurry, I cannot allow Erika-sama to be laid\nout there with them.\\n<Serena>"
                             ]
                         },
                         {
@@ -15542,14 +14772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…む？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Hmm?\\n<Serena>"
                             ]
                         },
                         {
@@ -15582,14 +14805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…！…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<盗賊>"
+                                "...!...!\\n<Thief>"
                             ]
                         },
                         {
@@ -15613,14 +14829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ？言い争い…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "What's that? An argument...?\\n<Serena>"
                             ]
                         },
                         {
@@ -15637,14 +14846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！ッ！…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<盗賊>"
+                                "...!...!?\\n<Thief>"
                             ]
                         },
                         {
@@ -15668,14 +14870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何っ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "What the.\\n<Serena>"
                             ]
                         },
                         {
@@ -16515,14 +15710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仲間割れ…？というよりはリンチか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Infighting...? More like a lynching.\\n<Serena>"
                             ]
                         },
                         {
@@ -16546,21 +15734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰も止めようとしない。それどころか笑って…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愉しんでいるのか、あれは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "No one's trying to stop it. On the contrary,\nthey're laughing... enjoying it, that is.\\n<Serena>"
                             ]
                         },
                         {
@@ -16584,14 +15758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんな奴らに…エリカ殿は捕まっている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "To think Erika-sama is captured by such\nscoundrels...\\n<Serena>"
                             ]
                         },
                         {
@@ -16615,14 +15782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "助け出さなければ。あぁ。なんとしても助けださなければ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I must rescue her. Ah, I must rescue her no matter\nwhat.\\n<Serena>"
                             ]
                         },
                         {
@@ -16655,14 +15815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロープは崖上と言ったな。行こう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The rope is said to be above the cliff. Let's go.\\n<Serena>"
                             ]
                         },
                         {
@@ -16686,14 +15839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n<Serena>"
                             ]
                         },
                         {
