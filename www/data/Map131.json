@@ -6790,7 +6790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\V[2501]\\n< Serena >Alright, with this one more case is settled."
+                                "\\n< Serena >\\V[2501] left. Alright, \nwith this one more case is settled."
                             ]
                         },
                         {

@@ -4055,7 +4055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\V[2501]\\n< Serena >With this, how many more requests do I need to\nfulfill our agreement?"
+                                "\\n< Serena >I need \\V[2501] more requests to\nfulfill our agreement."
                             ]
                         },
                         {
@@ -4263,7 +4263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\V[2501]\\n< Serena >Just a few more..."
+                                "\\n< Serena >Just \\V[2501] more requests..."
                             ]
                         },
                         {

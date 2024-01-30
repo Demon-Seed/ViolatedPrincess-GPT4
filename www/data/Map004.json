@@ -24442,7 +24442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\V[2501]\\n< Serena >...But with this, only the remaining tasks are\nleft. I must persevere!"
+                                "\\n< Serena >...But with this, only \\V[2501] remaining tasks are\nleft. I must persevere!"
                             ]
                         },
                         {

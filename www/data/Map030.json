@@ -3211,7 +3211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\V[2501]\\n< Serena >Good, good. With this, the matter is settled."
+                                "\\n< Serena >\\V[2501] left. Good, good. \nWith this, the matter is settled."
                             ]
                         },
                         {
@@ -7678,7 +7678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\V[2501]\\n< Serena >...Is this the end of the matter then."
+                                "\\n< Serena > \\V[2501] left... Is this the end of the matter then."
                             ]
                         },
                         {
