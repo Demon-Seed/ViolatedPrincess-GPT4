@@ -18676,7 +18676,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "CommonPopupManager.showInfo({},'100Ｓ支払った。',null)"
+                                "CommonPopupManager.showInfo({},'100Ｓ Paid.',null)"
                             ]
                         },
                         {
@@ -19003,7 +19003,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "CommonPopupManager.showInfo({},'200Ｓ支払った。',null)"
+                                "CommonPopupManager.showInfo({},'200Ｓ Paid.',null)"
                             ]
                         },
                         {
@@ -19193,7 +19193,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "CommonPopupManager.showInfo({},'200Ｓ支払った。',null)"
+                                "CommonPopupManager.showInfo({},'200Ｓ Paid.',null)"
                             ]
                         },
                         {

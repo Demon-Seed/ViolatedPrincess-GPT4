@@ -4077,7 +4077,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "CommonPopupManager.showInfo({},'10Ｓ支払った。',null)"
+                                "CommonPopupManager.showInfo({},'10Ｓ Paid.',null)"
                             ]
                         },
                         {
@@ -4355,7 +4355,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "CommonPopupManager.showInfo({},'10Ｓ支払った。',null)"
+                                "CommonPopupManager.showInfo({},'10Ｓ Paid.',null)"
                             ]
                         },
                         {
