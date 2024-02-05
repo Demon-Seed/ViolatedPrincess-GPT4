@@ -2148,7 +2148,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]Music provided by \\c[0]Pierrot Possessed by the\nMoon-sama, Otojin-sama, Choyne-sama"
+                                "\\c[14]Music provided by \\c[0]Pierrot Possessed\nby the Moon-sama, Otojin-sama, Choyne-\nsama"
                             ]
                         },
                         {
@@ -2163,7 +2163,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]Map materials provided by \\c[0]Commu-Shou-sama"
+                                "\\c[14]Map materials provided by \\c[0]Commu-\nShou-sama"
                             ]
                         },
                         {
@@ -2178,7 +2178,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]Scripts provided by \\c[0]Ru-san Team-sama,\nToriacontan-sama, E-shun-sama, Shiguren-sama,\nJupiter Penguin-sama, Villager A-sama, Matts UP-\nsama, Yanfly-sama, panda-sama, DarkPlasma-sama,\nYana-sama, Douraku-sama, Mankind-sama, tomoaky-\nsama, Ru-tan-sama, BB-sama, Yakinori-sama-sama"
+                                "\\c[14]Scripts provided by \\c[0]Ru-san Team-\nsama, Toriacontan-sama, E-shun-sama,\nShiguren-sama, Jupiter Penguin-sama,\nVillager A-sama, Matts UP- sama, Yanfly-\nsama, panda-sama, DarkPlasma-sama, Yana-\nsama, Douraku-sama, Mankind-sama,\ntomoaky- sama, Ru-tan-sama, BB-sama,\nYakinori-sama-sama"
                             ]
                         },
                         {
@@ -2208,7 +2208,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]Font provided by \\c[0]JF Dot Ayu Gothic 18-sama"
+                                "\\c[14]Font provided by \\c[0]JF Dot Ayu Gothic\n18-sama"
                             ]
                         },
                         {
@@ -2238,7 +2238,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]PV Cooperation by \\c[0]Zaku-sama, Minaton-sama"
+                                "\\c[14]PV Cooperation by \\c[0]Zaku-sama,\nMinaton-sama"
                             ]
                         },
                         {
@@ -2253,7 +2253,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]Special Thanks to \\c[0]Ru-san Team-san, Ike-san,\nBote-san"
+                                "\\c[14]Special Thanks to \\c[0]Ru-san Team-san,\nIke-san, Bote-san"
                             ]
                         },
                         {

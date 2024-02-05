@@ -4968,7 +4968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I cannot show my back to mere goblins."
+                                "\\n< Serena>I cannot show my back to mere goblins."
                             ]
                         },
                         {
@@ -5088,7 +5088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I must check where the voice is coming from..."
+                                "\\n< Serena>I must check where the voice is coming\nfrom..."
                             ]
                         },
                         {
@@ -5233,7 +5233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >It seems this is their stronghold."
+                                "\\n< Serena>It seems this is their stronghold."
                             ]
                         },
                         {
@@ -5264,7 +5264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >There are quite a few of them, but if it's just\ngoblins, there should be no problem. Let's go!"
+                                "\\n< Serena>There are quite a few of them, but if\nit's just goblins, there should be no\nproblem. Let's go!"
                             ]
                         },
                         {
@@ -5485,7 +5485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >\"Hmph, there were just a lot of them.\""
+                                "\\n< Serena>\"Hmph, there were just a lot of them.\""
                             ]
                         },
                         {
@@ -5509,7 +5509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >\"Now... I'm not keen on it, but I need some proof\nof subjugation...\""
+                                "\\n< Serena>\"Now... I'm not keen on it, but I need\nsome proof of subjugation...\""
                             ]
                         },
                         {
@@ -5552,7 +5552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >\"...Hm?\""
+                                "\\n< Serena>\"...Hm?\""
                             ]
                         },
                         {
@@ -5601,7 +5601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >\"...I can hear a voice from somewhere. A survivor,\nperhaps?\""
+                                "\\n< Serena>\"...I can hear a voice from somewhere. A\nsurvivor, perhaps?\""
                             ]
                         },
                         {
@@ -5946,7 +5946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Can you hear me from there... Are you a survivor?"
+                                "\\n< Serena>Can you hear me from there... Are you a\nsurvivor?"
                             ]
                         },
                         {
@@ -6563,7 +6563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I cannot show my back to mere goblins."
+                                "\\n< Serena>I cannot show my back to mere goblins."
                             ]
                         },
                         {
@@ -6683,7 +6683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I must check where the voice is coming from..."
+                                "\\n< Serena>I must check where the voice is coming\nfrom..."
                             ]
                         },
                         {
@@ -6887,7 +6887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I cannot show my back to mere goblins."
+                                "\\n< Serena>I cannot show my back to mere goblins."
                             ]
                         },
                         {
@@ -7007,7 +7007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I must check where the voice is coming from..."
+                                "\\n< Serena>I must check where the voice is coming\nfrom..."
                             ]
                         },
                         {

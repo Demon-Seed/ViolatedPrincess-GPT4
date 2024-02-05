@@ -4620,7 +4620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*pant*... *pant*...!\\n< Female >"
+                                "*pant*... *pant*...!\\n< Female>"
                             ]
                         },
                         {
@@ -4682,7 +4682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Goblin >Gii! Gii! Gyii...!"
+                                "\\n< Goblin>Gii! Gii! Gyii...!"
                             ]
                         },
                         {
@@ -5046,7 +5046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah!\\n< Female >"
+                                "Ah!\\n< Female>"
                             ]
                         },
                         {
@@ -5105,7 +5105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ugh...\\n< Female >"
+                                "Ugh...\\n< Female>"
                             ]
                         },
                         {
@@ -5209,7 +5209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Goblin >Gyii? Gyihii..."
+                                "\\n< Goblin>Gyii? Gyihii..."
                             ]
                         },
                         {
@@ -5295,7 +5295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah!? Hii...!\\n< Female >"
+                                "Ah!? Hii...!\\n< Female>"
                             ]
                         },
                         {
@@ -5455,7 +5455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Goblin >Gyagyaa---!"
+                                "\\n< Goblin>Gyagyaa---!"
                             ]
                         },
                         {
@@ -5490,7 +5490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nooo--!!\\n< Female >"
+                                "Nooo--!!\\n< Female>"
                             ]
                         },
                         {
@@ -5583,7 +5583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Goblin >Gi?"
+                                "\\n< Goblin>Gi?"
                             ]
                         },
                         {
@@ -6332,7 +6332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Goblin >Gigii! Gya! Gyaaa!!"
+                                "\\n< Goblin>Gigii! Gya! Gyaaa!!"
                             ]
                         },
                         {
@@ -6531,7 +6531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I, Serena Fuoco R. Brillante D. La Gratia, have\narrived...\\n< Serena>"
+                                "I, Serena Fuoco R. Brillante D. La\nGratia, have arrived...\\n< Serena>"
                             ]
                         },
                         {
@@ -6577,7 +6577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena>I will no longer tolerate such violent atrocities."
+                                "\\n< Serena>I will no longer tolerate such violent\natrocities."
                             ]
                         },
                         {
@@ -6623,7 +6623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena>If you scatter and flee, I won't bother to chase\nyou..."
+                                "\\n< Serena>If you scatter and flee, I won't bother\nto chase you..."
                             ]
                         },
                         {
@@ -6740,7 +6740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Goblin >Gyaa! Gyaaa--!"
+                                "\\n< Goblin>Gyaa! Gyaaa--!"
                             ]
                         },
                         {
@@ -6815,7 +6815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena>It seems you're not inclined to do so. Very well."
+                                "\\n< Serena>It seems you're not inclined to do so.\nVery well."
                             ]
                         },
                         {
@@ -6872,7 +6872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The god who illuminates this world shall take your\nlife and grant you a shameful death!\\n< Serena>"
+                                "The god who illuminates this world shall\ntake your life and grant you a shameful\ndeath!\\n< Serena>"
                             ]
                         },
                         {
@@ -8320,7 +8320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noooo--!!!\\n< Female >"
+                                "Noooo--!!!\\n< Female>"
                             ]
                         },
                         {
@@ -9492,7 +9492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Goblin >Gyaahh-!!"
+                                "\\n< Goblin>Gyaahh-!!"
                             ]
                         },
                         {
@@ -10224,7 +10224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena>...This is bad. Most of the magic has come undone."
+                                "\\n< Serena>...This is bad. Most of the magic has\ncome undone."
                             ]
                         },
                         {
@@ -10410,7 +10410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Goblin >..."
+                                "\\n< Goblin>..."
                             ]
                         },
                         {
@@ -10498,7 +10498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Goblin >Gyaa! Gigi---!"
+                                "\\n< Goblin>Gyaa! Gigi---!"
                             ]
                         },
                         {
@@ -11185,7 +11185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena>You can relax now. They've left. Are you hurt?"
+                                "\\n< Serena>You can relax now. They've left. Are you\nhurt?"
                             ]
                         },
                         {
@@ -11276,7 +11276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ye-yes! Thanks to you, not a single scratch...!\\n< Female >"
+                                "Ye-yes! Thanks to you, not a single\nscratch...!\\n< Female>"
                             ]
                         },
                         {
@@ -11293,7 +11293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thank you so much...! Thank youuu!\\n< Female >"
+                                "Thank you so much...! Thank youuu!\\n< Female>"
                             ]
                         },
                         {
@@ -11352,7 +11352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But you, you protected me...!\\n< Female >"
+                                "But you, you protected me...!\\n< Female>"
                             ]
                         },
                         {
@@ -11582,7 +11582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes...?\\n< Female >"
+                                "Yes...?\\n< Female>"
                             ]
                         },
                         {
@@ -11663,7 +11663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I don't know the way. May I ask you to guide\nme?\\n< Serena>"
+                                "...I don't know the way. May I ask you\nto guide me?\\n< Serena>"
                             ]
                         },
                         {
@@ -11687,7 +11687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, of course, of course...!\\n< Female >"
+                                "Yes, of course, of course...!\\n< Female>"
                             ]
                         },
                         {

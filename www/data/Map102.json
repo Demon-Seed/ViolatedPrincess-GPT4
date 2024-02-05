@@ -5359,7 +5359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is that black thing chasing us?! Why?!\\n< Cecilia >"
+                                "Is that black thing chasing us?! Why?!\\n< Cecilia>"
                             ]
                         },
                         {
@@ -6727,7 +6727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, you're so persistent!\\n< Cecilia >"
+                                "Ah, you're so persistent!\\n< Cecilia>"
                             ]
                         },
                         {
@@ -7400,7 +7400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Aaaaahhhhh!!!\\n< Cecilia >"
+                                "Aaaaahhhhh!!!\\n< Cecilia>"
                             ]
                         },
                         {
@@ -7424,7 +7424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is this... the prize storage room?\\n< Serena >"
+                                "Is this... the prize storage room?\\n< Serena>"
                             ]
                         },
                         {
@@ -7448,7 +7448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Just keep going, keep going! They're chasing us!!\\n< Cecilia >"
+                                "Just keep going, keep going! They're\nchasing us!!\\n< Cecilia>"
                             ]
                         },
                         {
@@ -8600,7 +8600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I don't have time to deal with you, we need to\nhurry!\\n< Serena >"
+                                "I don't have time to deal with you, we\nneed to hurry!\\n< Serena>"
                             ]
                         },
                         {
