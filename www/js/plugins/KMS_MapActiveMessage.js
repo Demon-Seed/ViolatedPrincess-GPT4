@@ -512,7 +512,7 @@ var KMS = KMS || {};
    * @return {String} メッセージ
    */
   Game_Event.prototype.getMapActiveMessage = function () {
-    return this._mapActiveMessage;
+    return this._mapActiveMessage.replace(/_/g, ' ');
   };
 
   /**
