@@ -7033,7 +7033,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Alright. I'll go to the patrol squad's\noffice. I'll hear the details of the\nrequest from Lord Nicola.\\n< Serena >"
+                                "Alright. I'll go to the patrol squad's\noffice. I'll hear the details of the\nrequest from Nicola-sama.\\n< Serena >"
                             ]
                         },
                         {
@@ -7855,7 +7855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Anyway, I'll go check it out. Thank you,\nLord Gekuran.\\n< Serena >"
+                                "Anyway, I'll go check it out. Thank you,\nGekuran-sama.\\n< Serena >"
                             ]
                         },
                         {
@@ -8398,7 +8398,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Lord Gekuran.\\n< Serena >"
+                                "Gekuran-sama.\\n< Serena >"
                             ]
                         },
                         {
@@ -8692,7 +8692,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Lord Gekuran.\\n< Serena >"
+                                "Gekuran-sama.\\n< Serena >"
                             ]
                         },
                         {
@@ -12897,7 +12897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lord Gekuran, I would like to request an\nexplanation for this mission.\\n< Serena >"
+                                "Gekuran-sama, I would like to request an\nexplanation for this mission.\\n< Serena >"
                             ]
                         },
                         {
@@ -15400,7 +15400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...It's nothing for Lord Gekuran to\nworry about.\\n< Serena >"
+                                "...It's nothing for Gekuran-sama to\nworry about.\\n< Serena >"
                             ]
                         },
                         {
@@ -15566,7 +15566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lord Gekuran.\\n< Serena >"
+                                "Gekuran-sama.\\n< Serena >"
                             ]
                         },
                         {
@@ -16309,7 +16309,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "No, I'll take it. I've already decided.\nDon't try to stop me, Lord Gekuran.\\n< Serena >"
+                                "No, I'll take it. I've already decided.\nDon't try to stop me, Gekuran-sama.\\n< Serena >"
                             ]
                         },
                         {
@@ -16432,7 +16432,7 @@
                             "parameters": [
                                 [
                                     "Receive the request certificate",
-                                    "Lord Gekuran's condition seems"
+                                    "Gekuran-sama's condition seems"
                                 ],
                                 1,
                                 -1,
@@ -16687,7 +16687,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Lord Gekuran...?\\n< Serena >"
+                                "Gekuran-sama...?\\n< Serena >"
                             ]
                         },
                         {
@@ -18404,7 +18404,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "We must hear the story from Lord Gekuran\nfirst.\\n< Serena >"
+                                "We must hear the story from Gekuran-sama\nfirst.\\n< Serena >"
                             ]
                         },
                         {
@@ -36366,7 +36366,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "...Let's switch gears for now. It might\nbe good to ask Lord Gekuran for\ninformation about the monster before we\nleave.\\n< Serena >"
+                                "...Let's switch gears for now. It might\nbe good to ask Gekuran-sama for\ninformation about the monster before we\nleave.\\n< Serena >"
                             ]
                         },
                         {
@@ -36400,7 +36400,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Stallion. It seems to be a horse-like\nmonster, but what kind of creature is it\nreally?... It might be wise to speak\nwith Lord Gekuran about it.\\n< Serena >"
+                                "Stallion. It seems to be a horse-like\nmonster, but what kind of creature is it\nreally?... It might be wise to speak\nwith Gekuran-sama about it.\\n< Serena >"
                             ]
                         },
                         {
@@ -47011,7 +47011,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I should ask Lord Gekuran about this\nrequest.\\n< Serena >"
+                                "I should ask Gekuran-sama about this\nrequest.\\n< Serena >"
                             ]
                         },
                         {
@@ -55354,7 +55354,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "10 orcs, huh... Maybe I should consult\nwith Lord Gekuran first.\\n< Serena >"
+                                "10 orcs, huh... Maybe I should consult\nwith Gekuran-sama first.\\n< Serena >"
                             ]
                         },
                         {
@@ -56382,7 +56382,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "10 oaks, huh... Maybe I should consult\nwith Lord Gekuran first.\\n< Serena >"
+                                "10 oaks, huh... Maybe I should consult\nwith Gekuran-sama first.\\n< Serena >"
                             ]
                         },
                         {
@@ -57719,7 +57719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Lord Gekuran. Regarding the request,\nthat is...\\n< Serena >"
+                                "Gekuran-sama. Regarding the request,\nthat is...\\n< Serena >"
                             ]
                         },
                         {
@@ -57884,7 +57884,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I need work now, more than ever. Can't\nyou do something, Lord Gekuran...\\n< Serena >"
+                                "I need work now, more than ever. Can't\nyou do something, Gekuran-sama...\\n< Serena >"
                             ]
                         },
                         {
@@ -64254,7 +64254,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I must hear the story from Lord Gekuran\nfirst.\\n< Serena >"
+                                "I must hear the story from Gekuran-sama\nfirst.\\n< Serena >"
                             ]
                         },
                         {
@@ -64814,7 +64814,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "We must hear the story from Lord Gekuran\nfirst.\\n< Serena >"
+                                "We must hear the story from Gekuran-sama\nfirst.\\n< Serena >"
                             ]
                         },
                         {
@@ -67327,7 +67327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is that you, Lord Nicola?\\n< Serena >"
+                                "Is that you, Nicola-sama?\\n< Serena >"
                             ]
                         },
                         {
@@ -67645,7 +67645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "For that reason, did you come all the\nway to the guild, Lord Nicola?\\n< Serena >"
+                                "For that reason, did you come all the\nway to the guild, Nicola-sama?\\n< Serena >"
                             ]
                         },
                         {
