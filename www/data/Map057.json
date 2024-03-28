@@ -10658,7 +10658,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "But now that the neighbor has been\ncaught, the distribution of poison will\ndecrease a bit--\\n< Gekuran >"
+                                "But now that the neighbor has been\ncaught, the distribution of poison will\ndecrease a bit-\\n< Gekuran >"
                             ]
                         },
                         {
@@ -25343,7 +25343,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "*cough cough*...\\n< Adventurer >"
+                                "***Cough, cough***...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -25452,7 +25452,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Even if you've got a brat planted in\nyour belly... *cough cough*!\\n< Adventurer >"
+                                "Even if you've got a brat planted in\nyour belly... ***Cough, cough***!\\n< Adventurer >"
                             ]
                         },
                         {
@@ -25591,7 +25591,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "*cough, cough*... Hey, loser. It's\nmiserable, isn't it? Losing to\nmonsters... We're in the same boat.\\n< Adventurer >"
+                                "**Cough, cough**... Hey, loser. It's\nmiserable, isn't it? Losing to\nmonsters... We're in the same boat.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -25987,7 +25987,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Turns out he had chopped up and sold the\nkid he had made with the butcher without\nrealizing it! Just like always...!\n*cough cough cough* Ha ha...!\\n< Adventurer >"
+                                "Turns out he had chopped up and sold the\nkid he had made with the butcher without\nrealizing it! Just like always...!\n***Cough, cough** cough* Ha ha...!\\n< Adventurer >"
                             ]
                         },
                         {
@@ -26004,7 +26004,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Well, it's like a moral story to\nproperly dispose of monster brats.\n*cough cough*...\\n< Adventurer >"
+                                "Well, it's like a moral story to\nproperly dispose of monster brats.\n***Cough, cough***...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -26048,7 +26048,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Ha, ha. *cough cough* Advice now is too\nlate, huh? Yeah, I guess so. Ha, ha,\nha...\\n< Adventurer >"
+                                "Ha, ha. ***Cough, cough*** Advice now is too\nlate, huh? Yeah, I guess so. Ha, ha,\nha...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -26300,7 +26300,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Kukukuku... *cough cough*...\\n< Adventurer >"
+                                "Kukukuku... ***Cough, cough***...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -26694,7 +26694,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heh heh, it was quite a spectacle.\n*cough cough* If I wasn't like this, I\nwould have joined in...\\n< Adventurer >"
+                                "Heh heh, it was quite a spectacle.\n***Cough, cough*** If I wasn't like this, I\nwould have joined in...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -26728,7 +26728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*cough cough*... damn it, my side hurts.\nIsn't it healed yet...\\n< Adventurer >"
+                                "***Cough, cough***... damn it, my side hurts.\nIsn't it healed yet...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -30331,7 +30331,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Never mind. We have nothing to talk\nabout anyway.\\n< Adventurer >"
+                                "Don't bother. There's nothing for us to talk\nabout.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -33121,7 +33121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ouch... I took a blow from the robber on\nmy arm... The swelling won't go down...\nMaybe it's not broken though...\\n< Adventurer >"
+                                "Ouch... I took a blow from a thugs on\nmy arm... The swelling won't go down...\nMaybe it's not broken though...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -34189,9 +34189,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Subjugation of the Wargen(v[2340]===0) ",
-                                    "Subjugation of the Pigmanen(v[2378]===0) ",
-                                    "Elimination of Thugsen(v[2348]===0) ",
+                                    "Warg Subjugationen(v[2340]===0) ",
+                                    "Pigman Subjugationen(v[2378]===0) ",
+                                    "Thug Subjugationsen(v[2348]===0) ",
                                     "Cancel"
                                 ],
                                 -2,
@@ -35039,10 +35039,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Subjugation of the Wargen(v[2340]===0) ",
-                                    "Subjugation of the Pigmanen(v[2378]===0) ",
-                                    "Elimination of Thugsen(v[2348]===0) ",
-                                    "Cancel"
+                                    "Warg subjugationen(v[2340]===0) ",
+                                    "Pigman subjugationen(v[2378]===0) ",
+                                    "Thug subjugationen(v[2348]===0) ",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -39383,7 +39383,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Ah- look, here she comes... lost to\nsome street punks...\"\"...so how many\npunks did she handle at once...\nhihi!\"\"Like trash... no, trash would be\nbetter...\""
+                                "\"Ah, look, here she comes... lost to\nsome street punks...\"\"...so how many\npunks did she handle at once...\nhihi!\"\"Like trash... no, trash would be\nbetter...\""
                             ]
                         },
                         {
@@ -54203,7 +54203,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Uuuu--! That pig bastard, he gouged and\nwidened your tight hole to his liking,\ntasting it--! Buhii!\\n< Gekuran >"
+                                "Uuuu~! That pig bastard, he gouged and\nwidened your tight hole to his liking,\ntasting it~! Buhii!\\n< Gekuran >"
                             ]
                         },
                         {
@@ -54220,7 +54220,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Bo, even though I'm called a pig too!\nBuhii! Even though I'm the same pig!\nIt's unfair, so unfair! Buhii buhii!\\n< Gekuran >"
+                                "Bu, even though I'm called a pig too!\nBuhii! Even though I'm the same pig!\nIt's unfair, so unfair! Buhii buhii!\\n< Gekuran >"
                             ]
                         },
                         {
@@ -54254,7 +54254,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I also want to with Serena-chan\nwoooo...!!!\\n< Gekuran >"
+                                "I also want to with Serena-chan\nguuuu...!!!\\n< Gekuran >"
                             ]
                         },
                         {
@@ -54412,7 +54412,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Cough, cough...\\n< Serena >"
+                                "*Cough, cough*...\\n< Serena >"
                             ]
                         },
                         {
@@ -65175,7 +65175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Cough, cough... Mmm... My wounds... My\nwounds hurt...\"\\n< Adventurer >"
+                                "\"*Cough, cough*... Mmm... My wounds... My\nwounds hurt...\"\\n< Adventurer >"
                             ]
                         },
                         {

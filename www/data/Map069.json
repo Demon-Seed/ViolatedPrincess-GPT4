@@ -11903,7 +11903,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Were you attacked by a robber or a\nmonster? That's what happens when a brat\nlike you goes outside. Know your place.\\n< City Police >"
+                                "Were you attacked by a thugs or a\nmonster? That's what happens when a brat\nlike you goes outside. Know your place.\\n< City Police >"
                             ]
                         },
                         {
@@ -28532,7 +28532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah-ah-... that girl again, huh. Poor\nthing.\\n< Peasant >"
+                                "Ah-ah... that girl again, huh. Poor\nthing.\\n< Peasant >"
                             ]
                         },
                         {
@@ -29844,7 +29844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Uuuh-! Uuuu--!!\\n< Serena >"
+                                "Uuuh! Uuuu~!!\\n< Serena >"
                             ]
                         },
                         {
