@@ -6483,8 +6483,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "I'll work",
-                                    "I'll stop"
+                                    "Work",
+                                    "Don't Work"
                                 ],
                                 1,
                                 -1,
