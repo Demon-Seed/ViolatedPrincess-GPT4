@@ -5737,7 +5737,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Guild Master >Ah- take care now-."
+                                "\\n< Guild Master >Ah, take care now-."
                             ]
                         },
                         {
@@ -8870,7 +8870,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master >We've been having some trouble with a\nbandit subjugation request. I was\nthinking of sending someone to check on\nit soon..."
+                                "\\n< Guild Master >We've been having some trouble with a\nthugs subjugation request. I was\nthinking of sending someone to check on\nit soon..."
                             ]
                         },
                         {
@@ -11637,7 +11637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That idiot took on a quest to subdue\nbandits, but failed and got captured, it\nseems.\\n< Guild Master >"
+                                "That idiot took on a quest to subdue\nthugs, but failed and got captured, it\nseems.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -11883,7 +11883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So, you'll have to fight the bandits\nhead-on.\\n< Guild Master >"
+                                "So, you'll have to fight the thugs\nhead-on.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -11900,7 +11900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They're country bandits. Not very well-\nequipped, but still, a group of armed\nhumans is a terrifying opponent.\\n< Guild Master >"
+                                "They're country thugs. Not very well-\nequipped, but still, a group of armed\nhumans is a terrifying opponent.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12037,7 +12037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Don't make that face, Master. The point\nis, I just need to be stronger than all\nthe bandits combined.\\n< Serena >"
+                                "Don't make that face, Master. The point\nis, I just need to be stronger than all\nthe thugs combined.\\n< Serena >"
                             ]
                         },
                         {
@@ -12262,7 +12262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You'll be infiltrating the bandits'\nstronghold. Naturally, you'll have to\ndeal with them.\\n< Guild Master >"
+                                "You'll be infiltrating the thugs'\nstronghold. Naturally, you'll have to\ndeal with them.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12330,7 +12330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then take down the bandits who come at\nyou. If there's going to be a fight,\nthat's the order to do it in.\\n< Guild Master >"
+                                "Then take down the thugs who come at\nyou. If there's going to be a fight,\nthat's the order to do it in.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12378,7 +12378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The bandits are using a ruin in the\nforest as their base.\\n< Guild Master >"
+                                "The thugs are using a ruin in the\nforest as their base.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12593,7 +12593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Despite being able to enter from\nanywhere around, she specifically chose\nthe cliff. It was supposed to catch the\nbandits off guard.\\n< Guild Master >"
+                                "Despite being able to enter from\nanywhere around, she specifically chose\nthe cliff. It was supposed to catch the\nthugs off guard.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12774,7 +12774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If things go well, we can keep the\nbattle with the bandits to a minimum.\\n< Guild Master >"
+                                "If things go well, we can keep the\nbattle with the thugs to a minimum.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12921,7 +12921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The bandits' living quarters, storage\nfor their loot, and the cell where they\nkeep their captives are all on the\nsecond floor.\\n< Guild Master >"
+                                "The thugs' living quarters, storage\nfor their loot, and the cell where they\nkeep their captives are all on the\nsecond floor.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13051,7 +13051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a common tactic among bandits. If\nthey're going to lose a hostage, they\nhave someone whose role is to kill them\nfirst.\\n< Guild Master >"
+                                "It's a common tactic among thugs. If\nthey're going to lose a hostage, they\nhave someone whose role is to kill them\nfirst.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13123,7 +13123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's an odd way to put it. Are you\nsaying the other bandits are \"not like\nthat\"?\\n< Serena >"
+                                "That's an odd way to put it. Are you\nsaying the other thugs are \"not like\nthat\"?\\n< Serena >"
                             ]
                         },
                         {
@@ -13164,7 +13164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thieves, robbers, rapists... since\ncoming to this town, she's been knocking\ndown such scoundrels one after another.\\n< Guild Master >"
+                                "Thieves, thugs, rapists... since\ncoming to this town, she's been knocking\ndown such scoundrels one after another.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13181,7 +13181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There were also a few requests involving\nbandits among them. Even though it was\nalongside her monster hunting, she must\nhave caused considerable damage to them.\\n< Guild Master >"
+                                "There were also a few requests involving\nthugs among them. Even though it was\nalongside her monster hunting, she must\nhave caused considerable damage to them.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13198,7 +13198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Having captured Erika, who knows what\nthose bandits filled with hatred might\nbe doing to her in their cell...\\n< Guild Master >"
+                                "Having captured Erika, who knows what\nthose thugs filled with hatred might\nbe doing to her in their cell...\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13246,7 +13246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If those bandits had killed Erika, they\nwould have displayed her body in the\nopen as a warning.\\n< Guild Master >"
+                                "If those thugs had killed Erika, they\nwould have displayed her body in the\nopen as a warning.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13478,7 +13478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes. That's all I wanted to give you.\nThe fastest way to the bandit's hideout\nis straight through the western forest.\\n< Guild Master >"
+                                "Yes. That's all I wanted to give you.\nThe fastest way to the thugs's hideout\nis straight through the western forest.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13694,7 +13694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you're heading to the bandit's\nhideout, go straight through the western\nforest. It's likely to be one battle\nafter another, so make sure you're well\nprepared.\\n< Guild Master >"
+                                "If you're heading to the thugs's\nhideout, go straight through the western\nforest. It's likely to be one battle\nafter another, so make sure you're well\nprepared.\\n< Guild Master >"
                             ]
                         },
                         {

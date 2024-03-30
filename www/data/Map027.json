@@ -5203,7 +5203,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It wasn't good at all. It tasted awful.\nAnd despite drinking it, I still got hit\nonce---...\\n< Erika >"
+                                "It wasn't good at all. It tasted awful.\nAnd despite drinking it, I still got hit\nonce...\\n< Erika >"
                             ]
                         },
                         {
@@ -6156,7 +6156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"...Haa---...ah...damn it.\"\\n< Erika >"
+                                "\"...Haa...ah, damn it.\"\\n< Erika >"
                             ]
                         },
                         {

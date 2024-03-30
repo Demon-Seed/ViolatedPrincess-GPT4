@@ -2713,7 +2713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You...! Are you one of the bandits?!\\n< Serena >"
+                                "You...! Are you one of the thugs?!\\n< Serena >"
                             ]
                         },
                         {
@@ -3569,7 +3569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh, ah...no, stop...! It hurts...feels\nbad...good!!\\n< Serena >"
+                                "Ahh... ah...no, stop...! It hurts...feels\nbad...good!!\\n< Serena >"
                             ]
                         },
                         {
@@ -13871,7 +13871,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Haah-, haah-...oeh!...Cough, cough.\\n< Serena >"
+                                "Haah-, haah-...oeh!...*Cough, cough*.\\n< Serena >"
                             ]
                         },
                         {
@@ -20580,7 +20580,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Haa-, haa-... my stomach is getting\nbigger and bigger... oehh... Cough,\ncough.\\n< Serena >"
+                                "Haa, haa... my stomach is getting\nbigger and bigger... oehh... Cough,\ncough.\\n< Serena >"
                             ]
                         },
                         {
@@ -21087,7 +21087,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Ugggh! Oehh... cough, haa-, haa-. Ah,\naah... no, no.\\n< Serena >"
+                                "Ugggh! Oehh... cough, haa, haa-. Ah,\naah... no, no.\\n< Serena >"
                             ]
                         },
                         {
@@ -28330,7 +28330,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Ahh-. Now that I look closer, your\nbelly's starting to show, isn't it?\\n< Thug >"
+                                "Ahh. Now that I look closer, your\nbelly's starting to show, isn't it?\\n< Thug >"
                             ]
                         },
                         {
@@ -36200,7 +36200,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "Ahh-ah-...I came...? Hn, it's still\ncoming out!\\n< Thug >"
+                                "Ahh-ah...I came...? Hn, it's still\ncoming out!\\n< Thug >"
                             ]
                         },
                         {
@@ -36334,7 +36334,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "Ah- I let it out, I let it out... Can't\nbelieve this hole's given birth, it's so\ntight.\\n< Thug >"
+                                "Ah, I let it out, I let it out... Can't\nbelieve this hole's given birth, it's so\ntight.\\n< Thug >"
                             ]
                         },
                         {
@@ -38071,7 +38071,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Haa-... haa-...\\n< Serena >"
+                                "Haa... haa...\\n< Serena >"
                             ]
                         },
                         {
@@ -38198,7 +38198,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Haa-... haa-... it's painful... no more,\nstop...\\n< Serena >"
+                                "Haa... haa... it's painful... no more,\nstop...\\n< Serena >"
                             ]
                         },
                         {
@@ -46991,7 +46991,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kahah, haa-... haa-... uguh!? Ugh,\noeh... cough, cough... haa, haa...\\n< Serena >"
+                                "Kahah, haa... haa... uguh!? Ugh,\noeh... *Cough, cough*... haa, haa...\\n< Serena >"
                             ]
                         },
                         {
@@ -48469,7 +48469,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*panting* *panting*...\\n< Serena >"
+                                "Huff...Haa...\\n< Serena >"
                             ]
                         },
                         {
@@ -49076,7 +49076,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*panting* *panting*, higuh!\\n< Serena >"
+                                "Huff...Haa, higuh!\\n< Serena >"
                             ]
                         },
                         {
@@ -49237,7 +49237,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*panting* *panting*... please... help\nme...! Take this off...!\\n< Serena >"
+                                "Huff...Haa... please... help\nme...! Take this off...!\\n< Serena >"
                             ]
                         },
                         {
@@ -50806,7 +50806,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*panting* *panting*... eh?\\n< Serena >"
+                                "Huff...Haa... eh?\\n< Serena >"
                             ]
                         },
                         {
@@ -50830,7 +50830,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh-oh-, it's swollen like bread. Well,\nthere's a kid inside, so of course it's\ngonna get big, right?\\n< Thug >"
+                                "Ohhh~, it's swollen like bread. Well,\nthere's a kid inside, so of course it's\ngonna get big, right?\\n< Thug >"
                             ]
                         },
                         {
@@ -53077,7 +53077,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ha-...ha-...please...the baby...\\n< Serena >"
+                                "Ha...ha-...please...the baby...\\n< Serena >"
                             ]
                         },
                         {
@@ -53543,7 +53543,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ha-...ha-...aguh!?\\n< Serena >"
+                                "Ha...ha-...aguh!?\\n< Serena >"
                             ]
                         },
                         {
@@ -56651,7 +56651,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Haa-, haa-, ah, aaaa...uh, ah...\\n< Serena >"
+                                "Haa, haa, ah, aaaa...uh, ah...\\n< Serena >"
                             ]
                         },
                         {
@@ -63785,7 +63785,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*panting* *panting*...please...help\nme...! Take this off...!\\n< Serena >"
+                                "Huff...Haa...please...help\nme...! Take this off...!\\n< Serena >"
                             ]
                         },
                         {
@@ -67346,7 +67346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ha-...ha-...I'm coming...baby...\\n< Serena >"
+                                "Ha...ha-...I'm coming...baby...\\n< Serena >"
                             ]
                         },
                         {
@@ -70708,7 +70708,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Haa-, haa-, ah, ahhh...uhh, ah...\\n< Serena >"
+                                "Haa, haa, ah, ahhh...uhh, ah...\\n< Serena >"
                             ]
                         },
                         {
@@ -70789,7 +70789,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hiiii!? Ahh, ah...ahhh!\\n< Serena >"
+                                "Hiiii!? Ahh... ah...ahhh!\\n< Serena >"
                             ]
                         },
                         {

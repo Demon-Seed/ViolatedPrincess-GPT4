@@ -6483,8 +6483,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "I'll work",
-                                    "I'll stop"
+                                    "Work",
+                                    "Don't Work"
                                 ],
                                 1,
                                 -1,
@@ -7515,7 +7515,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "?Did I just hear something...\\n< Serena >"
+                                "?...Did I just hear something?\\n< Serena >"
                             ]
                         },
                         {
@@ -8281,7 +8281,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Oi, looking good there. Today too, I'm\ncounting on you to attract customers!\\n< Donny >"
+                                "Oi, looking good there.\nI'm counting on you to attract customers\ntoday as well!\\n< Donny >"
                             ]
                         },
                         {
