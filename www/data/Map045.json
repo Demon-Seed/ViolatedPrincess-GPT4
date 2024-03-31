@@ -5455,7 +5455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Goblin >Gyagyaaaa!"
+                                "Gyagyaaaa!\\n< Goblin >"
                             ]
                         },
                         {
@@ -10498,7 +10498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Goblin >Gyaa! Gigiii!"
+                                "Gyaa! Gigiii!\\n< Goblin >"
                             ]
                         },
                         {
