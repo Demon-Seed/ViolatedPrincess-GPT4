@@ -16558,7 +16558,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The city guards and Ganuron... our\nbackers will be targeting you around the\nclock.\\n< Madam >"
+                                "The city guards and Ganelon... our\nbackers will be targeting you around the\nclock.\\n< Madam >"
                             ]
                         },
                         {
@@ -16575,7 +16575,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If that happens, I can't protect you\nanymore. Especially Ganuron, they never\nforgive anyone who disrespects their\nturf.\\n< Madam >"
+                                "If that happens, I can't protect you\nanymore. Especially Ganelon, they never\nforgive anyone who disrespects their\nturf.\\n< Madam >"
                             ]
                         },
                         {
@@ -30590,7 +30590,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The one who's calling for you is the\nmaster of this place, a guy named\nGanuron. He's a big shot around here.\\n< Cecilia >"
+                                "The one who's calling for you is the\nmaster of this place, a guy named\nGanelon. He's a big shot around here.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -30614,7 +30614,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ganuron... I've heard that name several\ntimes. Each time it wasn't in the best\ncontext, if I recall correctly.\\n< Serena >"
+                                "Ganelon... I've heard that name several\ntimes. Each time it wasn't in the best\ncontext, if I recall correctly.\\n< Serena >"
                             ]
                         },
                         {
@@ -34445,7 +34445,7 @@
                                     "The child of Gekuranif(v[1745])",
                                     "Marcel's childif(v[1746])",
                                     "Tim's childif(v[1747])",
-                                    "Ganulon's offspringif(v[1748])",
+                                    "Ganelon's offspringif(v[1748])",
                                     "The children of Burdanif(v[1749])",
                                     "Maxis's childif(v[1750])"
                                 ],
@@ -34947,7 +34947,7 @@
                                     "A foreigner's childif(v[1764])",
                                     "The prisoner's childif(v[1765])",
                                     "Offspring of a stud stallionif(v[1766])",
-                                    "Ganuron's grandchildif(v[1767])",
+                                    "Ganelon's grandchildif(v[1767])",
                                     "Someone's babyif(v[1768])"
                                 ],
                                 -1,

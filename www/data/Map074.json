@@ -5991,7 +5991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's Ganuron's room.\\n< Serena >"
+                                "It's Ganelon's room.\\n< Serena >"
                             ]
                         },
                         {
@@ -6550,7 +6550,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Beg Ganuron",
+                                    "Beg Ganelon",
                                     "I won't give up"
                                 ],
                                 1,
@@ -7005,7 +7005,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Beg Ganuron",
+                                    "Beg Ganelon",
                                     "I won't give up"
                                 ],
                                 1,
@@ -11868,7 +11868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ganuron? What does he want?\\n< Serena >"
+                                "Ganelon? What does he want?\\n< Serena >"
                             ]
                         },
                         {
@@ -16006,7 +16006,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Is the one in your belly Ganuron-san's,\nafter all?\\n< Guest >"
+                                "Is the one in your belly Ganelon-san's,\nafter all?\\n< Guest >"
                             ]
                         },
                         {
@@ -32666,7 +32666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Come on, place your bets! Is it Ganuron?\nYou guys? A monster?\\n< Boy >"
+                                "Come on, place your bets! Is it Ganelon?\nYou guys? A monster?\\n< Boy >"
                             ]
                         },
                         {

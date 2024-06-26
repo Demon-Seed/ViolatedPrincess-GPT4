@@ -652,7 +652,7 @@
     {
         "id": 74,
         "expanded": true,
-        "name": "Ganuron Brothel Hall",
+        "name": "Ganelon Brothel Hall",
         "order": 107,
         "parentId": 185,
         "scrollX": 602,
@@ -733,7 +733,7 @@
     {
         "id": 83,
         "expanded": true,
-        "name": "Ganulon Reception Room",
+        "name": "Ganelon Reception Room",
         "order": 108,
         "parentId": 74,
         "scrollX": 529.7142857142857,
@@ -742,7 +742,7 @@
     {
         "id": 84,
         "expanded": false,
-        "name": "Ganulon Room",
+        "name": "Ganelon Room",
         "order": 109,
         "parentId": 83,
         "scrollX": 529.7142857142857,
@@ -976,7 +976,7 @@
     {
         "id": 110,
         "expanded": true,
-        "name": "Ganulon Reception Room Battle",
+        "name": "Ganelon Reception Room Battle",
         "order": 111,
         "parentId": 83,
         "scrollX": 670.2857142857142,

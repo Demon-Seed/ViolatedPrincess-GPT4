@@ -5377,7 +5377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Complain to the old man if you want. I\nthink he's crazy too, you know? But in\nreality, that's how the Ganuron family\noperates.\\n< Child >"
+                                "Complain to the old man if you want. I\nthink he's crazy too, you know? But in\nreality, that's how the Ganelon family\noperates.\\n< Child >"
                             ]
                         },
                         {
@@ -7627,7 +7627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Whether a woman gets pregnant with her\nown child or her child's child, Ganuron\ndoesn't care about such things.\\n< Woman >"
+                                "Whether a woman gets pregnant with her\nown child or her child's child, Ganelon\ndoesn't care about such things.\\n< Woman >"
                             ]
                         },
                         {
@@ -7675,7 +7675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, if you're up, I'm going now. I'm\nnext to be called by Ganuron.\\n< Woman >"
+                                "Well, if you're up, I'm going now. I'm\nnext to be called by Ganelon.\\n< Woman >"
                             ]
                         },
                         {
@@ -29447,7 +29447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Ganuron is.\\n< Serena >"
+                                "...Ganelon is.\\n< Serena >"
                             ]
                         },
                         {
@@ -30660,8 +30660,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Ganuron's childif(v[1748])",
-                                    "Ganuron's grandchildif(v[1767])",
+                                    "Ganelon's childif(v[1748])",
+                                    "Ganelon's grandchildif(v[1767])",
                                     "Burdan's childif(v[1749])",
                                     "After all, I'll stop"
                                 ],
@@ -31106,7 +31106,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "No matter how many you give birth to, no\nmatter how many you raise, Ganulon will\nnever love the children. They are lives\nlighter than dogs or pigs.\\n< Childbearing Woman >"
+                                "No matter how many you give birth to, no\nmatter how many you raise, Ganelon will\nnever love the children. They are lives\nlighter than dogs or pigs.\\n< Childbearing Woman >"
                             ]
                         },
                         {

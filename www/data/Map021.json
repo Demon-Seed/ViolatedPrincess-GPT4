@@ -21247,7 +21247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Shall we go look for the spirit herbs?"
+                                "\\n< Serena >Shall I go look for the spirit herbs?"
                             ]
                         },
                         {
@@ -21256,7 +21256,7 @@
                             "parameters": [
                                 [
                                     "Let's go",
-                                    "I won't go"
+                                    "Let's not"
                                 ],
                                 1,
                                 0,
@@ -21620,7 +21620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Shall we go look for the spirit herbs?"
+                                "\\n< Serena >Shall I go look for the spirit herbs?"
                             ]
                         },
                         {
@@ -21629,7 +21629,7 @@
                             "parameters": [
                                 [
                                     "Let's go",
-                                    "I won't go"
+                                    "Let's not"
                                 ],
                                 1,
                                 0,
@@ -22096,7 +22096,7 @@
                             "parameters": [
                                 [
                                     "Let's go",
-                                    "I won't go"
+                                    "Let's not"
                                 ],
                                 1,
                                 0,
@@ -22395,7 +22395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Shall we go to subdue the smugglers?"
+                                "\\n< Serena >Shall I go to subdue the smugglers?"
                             ]
                         },
                         {
@@ -22411,7 +22411,7 @@
                             "parameters": [
                                 [
                                     "Let's go",
-                                    "I won't go"
+                                    "Let's not"
                                 ],
                                 1,
                                 0,
@@ -22883,7 +22883,7 @@
                             "parameters": [
                                 [
                                     "Let's go",
-                                    "I won't go"
+                                    "Let's not"
                                 ],
                                 1,
                                 0,
@@ -23182,7 +23182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Shall we go subdue the smugglers?"
+                                "\\n< Serena >Shall I go subdue the smugglers?"
                             ]
                         },
                         {
@@ -23198,7 +23198,7 @@
                             "parameters": [
                                 [
                                     "Let's go",
-                                    "I won't go"
+                                    "Let's not"
                                 ],
                                 1,
                                 0,
@@ -24993,7 +24993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Shall we go look for the spirit herbs?"
+                                "\\n< Serena >Shall I go look for the spirit herbs?"
                             ]
                         },
                         {
@@ -25002,7 +25002,7 @@
                             "parameters": [
                                 [
                                     "Let's go",
-                                    "I won't go"
+                                    "Let's not"
                                 ],
                                 1,
                                 0,
@@ -33983,7 +33983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shall we go subdue the goblins?\\n< Serena >"
+                                "Shall I go subdue the goblins?\\n< Serena >"
                             ]
                         },
                         {
@@ -33999,7 +33999,7 @@
                             "parameters": [
                                 [
                                     "Let's go",
-                                    "I won't go"
+                                    "Let's not"
                                 ],
                                 1,
                                 0,
@@ -34495,7 +34495,7 @@
                             "parameters": [
                                 [
                                     "Let's go",
-                                    "I won't go"
+                                    "Let's not"
                                 ],
                                 1,
                                 0,
@@ -34999,7 +34999,7 @@
                             "parameters": [
                                 [
                                     "Let's go",
-                                    "I won't go"
+                                    "Let's not"
                                 ],
                                 1,
                                 0,
@@ -35495,7 +35495,7 @@
                             "parameters": [
                                 [
                                     "Let's go",
-                                    "I won't go"
+                                    "Let's not"
                                 ],
                                 1,
                                 0,
